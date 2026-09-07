@@ -1,0 +1,15 @@
+.venv/
+.work/
+__pycache__/
+.ipynb_checkpoints/
+.venv-colab/
+crudo/
+generado/
+.DS_Store
+
+# Material de trabajo local: binarios de Office, ilustraciones y documentos.
+# Nada de imagenes/ ni de documentos/ se versiona.
+*.docx
+*.pptx
+imagenes/
+documentos/
