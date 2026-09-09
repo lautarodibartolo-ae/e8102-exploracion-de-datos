@@ -1,17 +1,23 @@
 # E8102 — Exploración de datos
 
 Asignatura de 48 horas de cursada, repartidas en cuatro bloques de cuatro clases. Cada bloque trae
-el apunte de sus unidades en PDF, la consigna de la ejercitación en PDF y un notebook de Google
-Colab para resolverla. El botón abre el notebook en Colab, sin instalar nada.
+el apunte de sus unidades en PDF, un notebook de ejemplos interactivos por unidad, la consigna de la
+ejercitación en PDF y un notebook de Google Colab para resolverla. Los botones abren los notebooks
+en Colab, sin instalar nada.
 
-| Bloque | Unidades | Ejercitación |
-|---|---|---|
-| 1 — Probabilidad y variable aleatoria | 1 y 2 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-1-probabilidad-y-variables-aleatorias/ejercitacion_bloque_1.ipynb) |
-| 2 — Distribuciones y análisis de datos | 3 y 4 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-2-distribuciones-y-analisis-de-datos/ejercitacion_bloque_2.ipynb) |
-| 3 — Muestreo e inferencia | 5, 6 y 7 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-3-muestreo-y-inferencia/ejercitacion_bloque_3.ipynb) |
-| 4 — Regresión e inferencia no paramétrica | 8 y 9 | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-4-regresion-y-no-parametricos/ejercitacion_bloque_4.ipynb) |
+| Bloque | Unidades | Ejemplos interactivos | Ejercitación |
+|---|---|---|---|
+| 1 — Probabilidad y variable aleatoria | 1 y 2 | [![Unidad 1](https://img.shields.io/badge/Colab-Unidad_1-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-1-probabilidad-y-variables-aleatorias/u1_ejemplos_probabilidad.ipynb) [![Unidad 2](https://img.shields.io/badge/Colab-Unidad_2-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-1-probabilidad-y-variables-aleatorias/u2_ejemplos_variable_aleatoria.ipynb) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-1-probabilidad-y-variables-aleatorias/ejercitacion_bloque_1.ipynb) |
+| 2 — Distribuciones y análisis de datos | 3 y 4 | — | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-2-distribuciones-y-analisis-de-datos/ejercitacion_bloque_2.ipynb) |
+| 3 — Muestreo e inferencia | 5, 6 y 7 | — | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-3-muestreo-y-inferencia/ejercitacion_bloque_3.ipynb) |
+| 4 — Regresión e inferencia no paramétrica | 8 y 9 | — | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lautarodibartolo-ae/e8102-exploracion-de-datos/blob/main/bloque-4-regresion-y-no-parametricos/ejercitacion_bloque_4.ipynb) |
 
 El material se publica bloque por bloque, antes de que empiece cada uno.
+
+Los notebooks de ejemplos no piden escribir código. Cada bloque del notebook resume una sección del
+apunte y abre un formulario con deslizadores y listas: se mueve un valor y el gráfico se vuelve a
+dibujar. Sirven para ver qué le pasa a una probabilidad, a una esperanza o a una kurtosis cuando
+cambia el dato que la produce.
 
 ## De qué se trata
 
