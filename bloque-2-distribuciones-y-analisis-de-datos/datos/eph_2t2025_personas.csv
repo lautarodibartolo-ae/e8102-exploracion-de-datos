@@ -3070,7 +3070,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 1062,1,Pampeana,varón,70,secundario completo,inactivo,,,
 1063,1,Pampeana,mujer,68,secundario completo,inactivo,,,
 1063,2,Pampeana,varón,76,primario completo,inactivo,,,
-1064,1,Patagonia,varón,58,secundario completo,entrevista no realizada,,,
+1064,1,Patagonia,varón,58,secundario completo,entrevista individual no realizada,,,
 1064,2,Patagonia,mujer,53,secundario completo,inactivo,,,
 1065,1,Patagonia,mujer,49,secundario completo,inactivo,,,
 1065,2,Patagonia,mujer,23,superior o universitario incompleto,ocupado,obrero o empleado,48,-9
@@ -3998,8 +3998,8 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 1393,4,Pampeana,mujer,8,primario incompleto,menor de 10 años,,,
 1394,1,Pampeana,varón,51,secundario completo,desocupado,,,
 1394,2,Pampeana,mujer,48,secundario completo,desocupado,,,
-1394,3,Pampeana,mujer,21,superior o universitario incompleto,entrevista no realizada,,,
-1394,4,Pampeana,mujer,19,superior o universitario incompleto,entrevista no realizada,,,
+1394,3,Pampeana,mujer,21,superior o universitario incompleto,entrevista individual no realizada,,,
+1394,4,Pampeana,mujer,19,superior o universitario incompleto,entrevista individual no realizada,,,
 1395,1,Pampeana,mujer,42,superior o universitario completo,ocupado,patrón,40,1000000
 1395,2,Pampeana,varón,14,secundario incompleto,inactivo,,,
 1395,3,Pampeana,mujer,9,primario incompleto,menor de 10 años,,,
@@ -4196,8 +4196,8 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 1454,1,Noroeste,varón,69,secundario completo,inactivo,,,
 1454,2,Noroeste,mujer,70,superior o universitario incompleto,inactivo,,,
 1455,1,Patagonia,mujer,39,secundario incompleto,ocupado,obrero o empleado,20,350000
-1455,2,Patagonia,mujer,23,secundario completo,entrevista no realizada,,,
-1455,3,Patagonia,mujer,21,secundario completo,entrevista no realizada,,,
+1455,2,Patagonia,mujer,23,secundario completo,entrevista individual no realizada,,,
+1455,3,Patagonia,mujer,21,secundario completo,entrevista individual no realizada,,,
 1455,4,Patagonia,mujer,16,secundario incompleto,inactivo,,,
 1455,5,Patagonia,varón,11,primario incompleto,inactivo,,,
 1455,6,Patagonia,mujer,8,primario incompleto,menor de 10 años,,,
@@ -4764,10 +4764,10 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 1648,3,Gran Buenos Aires,mujer,26,superior o universitario completo,ocupado,obrero o empleado,75,1200000
 1649,1,Gran Buenos Aires,varón,66,superior o universitario completo,ocupado,obrero o empleado,25,800000
 1649,2,Gran Buenos Aires,varón,40,superior o universitario completo,ocupado,obrero o empleado,40,-9
-1649,3,Gran Buenos Aires,mujer,34,secundario completo,entrevista no realizada,,,
-1649,4,Gran Buenos Aires,mujer,14,secundario incompleto,entrevista no realizada,,,
+1649,3,Gran Buenos Aires,mujer,34,secundario completo,entrevista individual no realizada,,,
+1649,4,Gran Buenos Aires,mujer,14,secundario incompleto,entrevista individual no realizada,,,
 1649,5,Gran Buenos Aires,mujer,8,primario incompleto,menor de 10 años,,,
-1649,6,Gran Buenos Aires,mujer,38,secundario completo,entrevista no realizada,,,
+1649,6,Gran Buenos Aires,mujer,38,secundario completo,entrevista individual no realizada,,,
 1650,1,Gran Buenos Aires,mujer,80,secundario completo,inactivo,,,
 1651,1,Gran Buenos Aires,varón,59,secundario completo,ocupado,obrero o empleado,36,700000
 1651,2,Gran Buenos Aires,mujer,50,primario completo,ocupado,obrero o empleado,28,600000
@@ -4860,7 +4860,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 1683,1,Pampeana,mujer,71,superior o universitario completo,inactivo,,,
 1684,1,Pampeana,varón,44,superior o universitario completo,ocupado,obrero o empleado,72,2400000
 1684,2,Pampeana,mujer,43,superior o universitario completo,ocupado,cuenta propia,56,758000
-1684,3,Pampeana,varón,14,secundario incompleto,entrevista no realizada,,,
+1684,3,Pampeana,varón,14,secundario incompleto,entrevista individual no realizada,,,
 1684,4,Pampeana,varón,9,primario incompleto,menor de 10 años,,,
 1684,5,Pampeana,varón,8,primario incompleto,menor de 10 años,,,
 1685,1,Pampeana,mujer,43,secundario completo,inactivo,,,
@@ -5370,7 +5370,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 1853,1,Cuyo,mujer,77,primario completo,inactivo,,,
 1854,1,Cuyo,varón,88,superior o universitario completo,ocupado,obrero o empleado,16,-9
 1855,1,Cuyo,varón,37,superior o universitario completo,ocupado,obrero o empleado,40,-9
-1855,2,Cuyo,mujer,30,superior o universitario completo,entrevista no realizada,,,
+1855,2,Cuyo,mujer,30,superior o universitario completo,entrevista individual no realizada,,,
 1856,1,Cuyo,varón,39,superior o universitario completo,ocupado,obrero o empleado,44,850000
 1856,2,Cuyo,mujer,38,superior o universitario completo,inactivo,,,
 1856,3,Cuyo,mujer,8,primario incompleto,menor de 10 años,,,
@@ -6182,7 +6182,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 2126,2,Gran Buenos Aires,mujer,28,secundario completo,ocupado,cuenta propia,17,-9
 2126,3,Gran Buenos Aires,varón,5,sin instrucción,menor de 10 años,,,
 2127,1,Gran Buenos Aires,mujer,74,primario incompleto,inactivo,,,
-2127,2,Gran Buenos Aires,varón,30,secundario completo,entrevista no realizada,,,
+2127,2,Gran Buenos Aires,varón,30,secundario completo,entrevista individual no realizada,,,
 2127,3,Gran Buenos Aires,mujer,25,superior o universitario incompleto,inactivo,,,
 2128,1,Pampeana,mujer,50,secundario completo,inactivo,,,
 2128,2,Pampeana,varón,25,secundario completo,desocupado,,,
@@ -6418,7 +6418,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 2208,2,Gran Buenos Aires,mujer,79,primario completo,ocupado,obrero o empleado,7,200000
 2208,3,Gran Buenos Aires,mujer,43,secundario completo,ocupado,cuenta propia,35,-9
 2209,1,Gran Buenos Aires,varón,44,secundario incompleto,ocupado,obrero o empleado,48,-9
-2209,2,Gran Buenos Aires,mujer,34,primario completo,entrevista no realizada,,,
+2209,2,Gran Buenos Aires,mujer,34,primario completo,entrevista individual no realizada,,,
 2209,3,Gran Buenos Aires,varón,14,secundario incompleto,inactivo,,,
 2210,1,Cuyo,varón,50,superior o universitario completo,ocupado,obrero o empleado,52,2500000
 2210,2,Cuyo,mujer,42,secundario completo,ocupado,cuenta propia,38,-9
@@ -6908,7 +6908,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 2387,1,Gran Buenos Aires,mujer,66,primario completo,inactivo,,,
 2387,2,Gran Buenos Aires,varón,79,primario completo,inactivo,,,
 2387,3,Gran Buenos Aires,mujer,27,primario completo,ocupado,cuenta propia,14,-9
-2387,4,Gran Buenos Aires,mujer,22,secundario completo,entrevista no realizada,,,
+2387,4,Gran Buenos Aires,mujer,22,secundario completo,entrevista individual no realizada,,,
 2387,5,Gran Buenos Aires,mujer,4,sin instrucción,menor de 10 años,,,
 2387,6,Gran Buenos Aires,varón,26,secundario completo,ocupado,obrero o empleado,48,-9
 2387,7,Gran Buenos Aires,mujer,26,secundario completo,desocupado,,,
@@ -7300,7 +7300,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 2513,1,Pampeana,varón,76,primario completo,ocupado,cuenta propia,14,300000
 2513,2,Pampeana,mujer,74,primario completo,inactivo,,,
 2514,1,Pampeana,varón,36,secundario completo,ocupado,obrero o empleado,40,-9
-2514,2,Pampeana,mujer,34,secundario completo,entrevista no realizada,,,
+2514,2,Pampeana,mujer,34,secundario completo,entrevista individual no realizada,,,
 2514,3,Pampeana,varón,10,primario incompleto,inactivo,,,
 2514,4,Pampeana,varón,6,primario incompleto,menor de 10 años,,,
 2515,1,Pampeana,mujer,35,secundario incompleto,inactivo,,,
@@ -7512,7 +7512,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 2589,5,Patagonia,varón,4,sin instrucción,menor de 10 años,,,
 2589,6,Patagonia,varón,83,secundario incompleto,inactivo,,,
 2590,1,Patagonia,mujer,39,superior o universitario completo,ocupado,obrero o empleado,30,-9
-2590,2,Patagonia,varón,42,superior o universitario incompleto,entrevista no realizada,,,
+2590,2,Patagonia,varón,42,superior o universitario incompleto,entrevista individual no realizada,,,
 2591,1,Patagonia,mujer,59,superior o universitario incompleto,ocupado,obrero o empleado,40,1500000
 2591,2,Patagonia,varón,20,superior o universitario incompleto,inactivo,,,
 2592,1,Patagonia,varón,75,secundario incompleto,inactivo,,,
@@ -8828,9 +8828,9 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 3083,2,Noroeste,varón,24,secundario incompleto,ocupado,obrero o empleado,40,360000
 3083,3,Noroeste,varón,2,sin instrucción,menor de 10 años,,,
 3084,1,Noroeste,mujer,87,secundario completo,inactivo,,,
-3085,1,Noroeste,mujer,51,superior o universitario incompleto,entrevista no realizada,,,
-3085,2,Noroeste,varón,30,secundario completo,entrevista no realizada,,,
-3085,3,Noroeste,mujer,17,secundario incompleto,entrevista no realizada,,,
+3085,1,Noroeste,mujer,51,superior o universitario incompleto,entrevista individual no realizada,,,
+3085,2,Noroeste,varón,30,secundario completo,entrevista individual no realizada,,,
+3085,3,Noroeste,mujer,17,secundario incompleto,entrevista individual no realizada,,,
 3085,4,Noroeste,varón,52,secundario incompleto,ocupado,cuenta propia,60,500000
 3086,1,Noroeste,mujer,75,primario incompleto,inactivo,,,
 3087,1,Noroeste,mujer,93,primario incompleto,inactivo,,,
@@ -11247,9 +11247,9 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 3932,2,Noreste,mujer,51,primario completo,inactivo,,,
 3932,3,Noreste,mujer,33,secundario completo,inactivo,,,
 3932,4,Noreste,mujer,25,secundario completo,inactivo,,,
-3933,1,Noreste,varón,44,secundario completo,entrevista no realizada,,,
-3933,2,Noreste,mujer,44,secundario completo,entrevista no realizada,,,
-3933,3,Noreste,varón,22,superior o universitario incompleto,entrevista no realizada,,,
+3933,1,Noreste,varón,44,secundario completo,entrevista individual no realizada,,,
+3933,2,Noreste,mujer,44,secundario completo,entrevista individual no realizada,,,
+3933,3,Noreste,varón,22,superior o universitario incompleto,entrevista individual no realizada,,,
 3934,1,Noreste,mujer,32,superior o universitario completo,ocupado,obrero o empleado,20,600000
 3934,2,Noreste,varón,34,primario completo,ocupado,cuenta propia,40,1100000
 3934,3,Noreste,varón,33,primario completo,ocupado,cuenta propia,40,800000
@@ -12510,7 +12510,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 4374,4,Patagonia,varón,20,secundario incompleto,inactivo,,,
 4374,5,Patagonia,mujer,2,sin instrucción,menor de 10 años,,,
 4375,1,Patagonia,varón,68,secundario completo,inactivo,,,
-4375,2,Patagonia,mujer,56,secundario completo,entrevista no realizada,,,
+4375,2,Patagonia,mujer,56,secundario completo,entrevista individual no realizada,,,
 4376,1,Gran Buenos Aires,varón,40,secundario completo,ocupado,obrero o empleado,48,800000
 4376,2,Gran Buenos Aires,mujer,58,secundario incompleto,inactivo,,,
 4376,3,Gran Buenos Aires,mujer,38,secundario completo,desocupado,,,
@@ -12961,7 +12961,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 4527,1,Gran Buenos Aires,varón,39,superior o universitario completo,ocupado,obrero o empleado,36,2000000
 4527,2,Gran Buenos Aires,mujer,37,superior o universitario completo,ocupado,obrero o empleado,25,145000
 4528,1,Gran Buenos Aires,varón,54,superior o universitario incompleto,ocupado,patrón,36,-9
-4528,2,Gran Buenos Aires,mujer,52,superior o universitario incompleto,entrevista no realizada,,,
+4528,2,Gran Buenos Aires,mujer,52,superior o universitario incompleto,entrevista individual no realizada,,,
 4529,1,Gran Buenos Aires,mujer,33,superior o universitario incompleto,ocupado,obrero o empleado,35,-9
 4529,2,Gran Buenos Aires,mujer,30,superior o universitario incompleto,ocupado,obrero o empleado,35,-9
 4529,3,Gran Buenos Aires,mujer,36,superior o universitario incompleto,desocupado,,,
@@ -13309,7 +13309,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 4652,1,Gran Buenos Aires,mujer,26,secundario completo,ocupado,cuenta propia,63,-9
 4652,2,Gran Buenos Aires,varón,31,secundario completo,ocupado,cuenta propia,63,-9
 4652,3,Gran Buenos Aires,varón,5,primario incompleto,menor de 10 años,,,
-4653,1,Gran Buenos Aires,varón,35,secundario completo,entrevista no realizada,,,
+4653,1,Gran Buenos Aires,varón,35,secundario completo,entrevista individual no realizada,,,
 4653,3,Gran Buenos Aires,varón,36,primario incompleto,ocupado,obrero o empleado,24,760000
 4654,1,Gran Buenos Aires,varón,50,superior o universitario completo,inactivo,,,
 4654,2,Gran Buenos Aires,mujer,52,superior o universitario completo,ocupado,obrero o empleado,4,-9
@@ -15560,7 +15560,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 5463,1,Gran Buenos Aires,varón,67,superior o universitario incompleto,inactivo,,,
 5463,2,Gran Buenos Aires,mujer,64,secundario completo,inactivo,,,
 5463,3,Gran Buenos Aires,varón,39,secundario completo,ocupado,obrero o empleado,60,-9
-5463,4,Gran Buenos Aires,varón,20,secundario completo,entrevista no realizada,,,
+5463,4,Gran Buenos Aires,varón,20,secundario completo,entrevista individual no realizada,,,
 5464,1,Gran Buenos Aires,varón,48,superior o universitario completo,ocupado,obrero o empleado,50,1500000
 5464,2,Gran Buenos Aires,mujer,45,superior o universitario completo,ocupado,obrero o empleado,16,1000000
 5464,3,Gran Buenos Aires,varón,6,primario incompleto,menor de 10 años,,,
@@ -16135,8 +16135,8 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 5674,1,Gran Buenos Aires,varón,29,secundario completo,ocupado,cuenta propia,84,0
 5674,2,Gran Buenos Aires,mujer,28,secundario completo,inactivo,,,
 5674,3,Gran Buenos Aires,varón,2,sin instrucción,menor de 10 años,,,
-5675,1,Gran Buenos Aires,varón,53,secundario completo,entrevista no realizada,,,
-5675,2,Gran Buenos Aires,mujer,49,secundario completo,entrevista no realizada,,,
+5675,1,Gran Buenos Aires,varón,53,secundario completo,entrevista individual no realizada,,,
+5675,2,Gran Buenos Aires,mujer,49,secundario completo,entrevista individual no realizada,,,
 5675,3,Gran Buenos Aires,mujer,25,secundario completo,inactivo,,,
 5675,4,Gran Buenos Aires,mujer,51,primario incompleto,ocupado,obrero o empleado,5,50000
 5675,5,Gran Buenos Aires,varón,33,superior o universitario incompleto,ocupado,cuenta propia,56,200000
@@ -16809,7 +16809,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 5908,3,Noroeste,varón,39,secundario incompleto,ocupado,obrero o empleado,48,-9
 5908,4,Noroeste,varón,20,superior o universitario incompleto,inactivo,,,
 5909,1,Noroeste,varón,31,secundario completo,ocupado,cuenta propia,24,-9
-5909,2,Noroeste,mujer,27,secundario completo,entrevista no realizada,,,
+5909,2,Noroeste,mujer,27,secundario completo,entrevista individual no realizada,,,
 5910,1,Noroeste,varón,58,primario completo,ocupado,cuenta propia,48,500000
 5910,2,Noroeste,mujer,56,primario completo,ocupado,cuenta propia,48,500000
 5910,3,Noroeste,mujer,25,superior o universitario incompleto,ocupado,obrero o empleado,36,900000
@@ -18038,10 +18038,10 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 6337,1,Gran Buenos Aires,mujer,31,superior o universitario completo,ocupado,patrón,36,0
 6337,2,Gran Buenos Aires,varón,40,superior o universitario completo,ocupado,obrero o empleado,40,-9
 6337,3,Gran Buenos Aires,varón,1,sin instrucción,menor de 10 años,,,
-6338,1,Gran Buenos Aires,varón,45,superior o universitario completo,entrevista no realizada,,,
+6338,1,Gran Buenos Aires,varón,45,superior o universitario completo,entrevista individual no realizada,,,
 6338,2,Gran Buenos Aires,mujer,46,secundario completo,inactivo,,,
-6338,3,Gran Buenos Aires,varón,19,secundario completo,entrevista no realizada,,,
-6338,4,Gran Buenos Aires,mujer,10,primario incompleto,entrevista no realizada,,,
+6338,3,Gran Buenos Aires,varón,19,secundario completo,entrevista individual no realizada,,,
+6338,4,Gran Buenos Aires,mujer,10,primario incompleto,entrevista individual no realizada,,,
 6339,1,Gran Buenos Aires,mujer,31,superior o universitario incompleto,ocupado,obrero o empleado,48,1000000
 6339,2,Gran Buenos Aires,varón,26,superior o universitario incompleto,ocupado,obrero o empleado,48,950000
 6339,3,Gran Buenos Aires,varón,0,sin instrucción,menor de 10 años,,,
@@ -18114,8 +18114,8 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 6364,3,Gran Buenos Aires,mujer,44,sin instrucción,inactivo,,,
 6364,4,Gran Buenos Aires,mujer,31,superior o universitario completo,ocupado,obrero o empleado,45,-9
 6364,5,Gran Buenos Aires,mujer,38,superior o universitario completo,ocupado,obrero o empleado,45,-9
-6364,6,Gran Buenos Aires,varón,30,secundario completo,entrevista no realizada,,,
-6364,7,Gran Buenos Aires,varón,30,secundario completo,entrevista no realizada,,,
+6364,6,Gran Buenos Aires,varón,30,secundario completo,entrevista individual no realizada,,,
+6364,7,Gran Buenos Aires,varón,30,secundario completo,entrevista individual no realizada,,,
 6365,1,Gran Buenos Aires,mujer,34,secundario incompleto,ocupado,obrero o empleado,60,600000
 6365,2,Gran Buenos Aires,varón,36,secundario incompleto,ocupado,obrero o empleado,60,840000
 6366,1,Noreste,mujer,71,primario completo,inactivo,,,
@@ -21369,9 +21369,9 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 7504,2,Pampeana,varón,20,secundario incompleto,inactivo,,,
 7505,1,Gran Buenos Aires,varón,53,superior o universitario incompleto,ocupado,obrero o empleado,40,600000
 7506,1,Gran Buenos Aires,varón,27,secundario completo,ocupado,obrero o empleado,39,1200000
-7507,1,Gran Buenos Aires,mujer,49,secundario completo,entrevista no realizada,,,
+7507,1,Gran Buenos Aires,mujer,49,secundario completo,entrevista individual no realizada,,,
 7507,2,Gran Buenos Aires,varón,22,superior o universitario incompleto,ocupado,obrero o empleado,24,402000
-7507,3,Gran Buenos Aires,mujer,20,superior o universitario incompleto,entrevista no realizada,,,
+7507,3,Gran Buenos Aires,mujer,20,superior o universitario incompleto,entrevista individual no realizada,,,
 7508,1,Gran Buenos Aires,varón,53,superior o universitario completo,ocupado,cuenta propia,10,0
 7508,2,Gran Buenos Aires,mujer,55,superior o universitario completo,ocupado,obrero o empleado,40,1900000
 7508,3,Gran Buenos Aires,varón,22,superior o universitario incompleto,ocupado,obrero o empleado,12,600000
@@ -23101,7 +23101,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 8090,2,Noroeste,varón,83,primario incompleto,inactivo,,,
 8090,3,Noroeste,varón,35,secundario completo,ocupado,trabajador familiar sin remuneración,16,0
 8090,4,Noroeste,mujer,29,secundario completo,ocupado,trabajador familiar sin remuneración,20,0
-8091,1,Noreste,mujer,28,secundario completo,entrevista no realizada,,,
+8091,1,Noreste,mujer,28,secundario completo,entrevista individual no realizada,,,
 8092,1,Patagonia,varón,41,secundario incompleto,ocupado,obrero o empleado,84,-9
 8092,2,Patagonia,mujer,40,secundario incompleto,ocupado,cuenta propia,56,-9
 8092,3,Patagonia,varón,11,primario incompleto,inactivo,,,
@@ -24936,8 +24936,8 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 8726,2,Noroeste,mujer,22,superior o universitario completo,ocupado,obrero o empleado,43,600000
 8726,3,Noroeste,varón,24,secundario incompleto,ocupado,obrero o empleado,48,500000
 8727,1,Pampeana,mujer,43,secundario completo,ocupado,obrero o empleado,20,-9
-8727,2,Pampeana,mujer,42,secundario completo,entrevista no realizada,,,
-8727,3,Pampeana,mujer,39,secundario completo,entrevista no realizada,,,
+8727,2,Pampeana,mujer,42,secundario completo,entrevista individual no realizada,,,
+8727,3,Pampeana,mujer,39,secundario completo,entrevista individual no realizada,,,
 8728,1,Pampeana,varón,63,superior o universitario completo,ocupado,obrero o empleado,30,850000
 8728,2,Pampeana,mujer,65,secundario completo,inactivo,,,
 8729,1,Pampeana,varón,34,superior o universitario incompleto,ocupado,obrero o empleado,30,600000
@@ -25455,8 +25455,8 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 8918,1,Pampeana,varón,61,superior o universitario completo,inactivo,,,
 8918,2,Pampeana,mujer,50,secundario completo,inactivo,,,
 8918,3,Pampeana,mujer,17,secundario incompleto,inactivo,,,
-8919,1,Pampeana,varón,33,superior o universitario completo,entrevista no realizada,,,
-8919,2,Pampeana,mujer,33,secundario completo,entrevista no realizada,,,
+8919,1,Pampeana,varón,33,superior o universitario completo,entrevista individual no realizada,,,
+8919,2,Pampeana,mujer,33,secundario completo,entrevista individual no realizada,,,
 8920,1,Pampeana,mujer,35,superior o universitario completo,ocupado,obrero o empleado,36,2300000
 8920,2,Pampeana,varón,39,superior o universitario completo,ocupado,obrero o empleado,36,900000
 8920,3,Pampeana,varón,5,sin instrucción,menor de 10 años,,,
@@ -29203,7 +29203,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 10225,4,Pampeana,mujer,18,superior o universitario incompleto,ocupado,obrero o empleado,24,-9
 10225,5,Pampeana,mujer,16,secundario incompleto,inactivo,,,
 10225,6,Pampeana,mujer,11,primario incompleto,inactivo,,,
-10225,7,Pampeana,varón,35,superior o universitario completo,entrevista no realizada,,,
+10225,7,Pampeana,varón,35,superior o universitario completo,entrevista individual no realizada,,,
 10226,1,Pampeana,varón,85,primario completo,inactivo,,,
 10226,2,Pampeana,mujer,77,secundario completo,inactivo,,,
 10227,1,Gran Buenos Aires,varón,48,secundario completo,ocupado,obrero o empleado,40,1050000
@@ -30191,7 +30191,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 10572,1,Gran Buenos Aires,varón,33,secundario completo,ocupado,obrero o empleado,48,520000
 10572,2,Gran Buenos Aires,mujer,38,secundario completo,ocupado,obrero o empleado,48,560000
 10573,1,Gran Buenos Aires,varón,59,superior o universitario incompleto,ocupado,obrero o empleado,21,200000
-10573,2,Gran Buenos Aires,varón,43,superior o universitario incompleto,entrevista no realizada,,,
+10573,2,Gran Buenos Aires,varón,43,superior o universitario incompleto,entrevista individual no realizada,,,
 10573,3,Gran Buenos Aires,mujer,72,primario completo,inactivo,,,
 10574,1,Gran Buenos Aires,mujer,78,secundario completo,inactivo,,,
 10575,1,Gran Buenos Aires,varón,63,superior o universitario completo,ocupado,obrero o empleado,40,2800000
@@ -32342,7 +32342,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 11352,3,Gran Buenos Aires,mujer,13,secundario incompleto,inactivo,,,
 11353,1,Gran Buenos Aires,varón,61,primario completo,ocupado,cuenta propia,16,-9
 11353,2,Gran Buenos Aires,mujer,53,primario incompleto,inactivo,,,
-11353,3,Gran Buenos Aires,mujer,26,secundario completo,entrevista no realizada,,,
+11353,3,Gran Buenos Aires,mujer,26,secundario completo,entrevista individual no realizada,,,
 11353,4,Gran Buenos Aires,mujer,22,secundario completo,ocupado,cuenta propia,24,-9
 11353,5,Gran Buenos Aires,mujer,14,secundario incompleto,inactivo,,,
 11353,6,Gran Buenos Aires,varón,8,primario incompleto,menor de 10 años,,,
@@ -32853,7 +32853,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 11527,2,Noreste,mujer,61,primario completo,inactivo,,,
 11527,3,Noreste,varón,38,superior o universitario incompleto,ocupado,cuenta propia,56,400000
 11527,4,Noreste,mujer,24,superior o universitario incompleto,ocupado,obrero o empleado,48,760000
-11528,1,Noreste,varón,29,superior o universitario incompleto,entrevista no realizada,,,
+11528,1,Noreste,varón,29,superior o universitario incompleto,entrevista individual no realizada,,,
 11529,1,Pampeana,mujer,59,primario completo,inactivo,,,
 11529,2,Pampeana,mujer,25,secundario completo,desocupado,,,
 11530,1,Pampeana,mujer,63,primario incompleto,ocupado,obrero o empleado,16,320000
@@ -34341,7 +34341,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 12045,4,Cuyo,mujer,20,superior o universitario incompleto,inactivo,,,
 12046,1,Cuyo,varón,66,secundario incompleto,inactivo,,,
 12046,2,Cuyo,mujer,65,secundario incompleto,inactivo,,,
-12046,3,Cuyo,mujer,33,secundario completo,entrevista no realizada,,,
+12046,3,Cuyo,mujer,33,secundario completo,entrevista individual no realizada,,,
 12047,1,Patagonia,varón,84,primario incompleto,inactivo,,,
 12048,1,Patagonia,varón,74,secundario incompleto,inactivo,,,
 12048,2,Patagonia,mujer,73,secundario completo,ocupado,obrero o empleado,45,-9
@@ -35377,7 +35377,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 12393,4,Pampeana,varón,12,primario incompleto,inactivo,,,
 12394,1,Noreste,varón,72,secundario incompleto,inactivo,,,
 12394,2,Noreste,mujer,68,superior o universitario completo,inactivo,,,
-12394,3,Noreste,varón,45,superior o universitario incompleto,entrevista no realizada,,,
+12394,3,Noreste,varón,45,superior o universitario incompleto,entrevista individual no realizada,,,
 12395,1,Noreste,varón,37,secundario incompleto,ocupado,patrón,40,790000
 12395,2,Noreste,mujer,40,secundario completo,inactivo,,,
 12395,3,Noreste,varón,21,superior o universitario incompleto,inactivo,,,
@@ -36093,7 +36093,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 12657,2,Pampeana,varón,81,secundario completo,inactivo,,,
 12657,3,Pampeana,varón,24,secundario completo,ocupado,obrero o empleado,48,990000
 12658,1,Pampeana,mujer,66,secundario completo,inactivo,,,
-12658,2,Pampeana,varón,33,secundario completo,entrevista no realizada,,,
+12658,2,Pampeana,varón,33,secundario completo,entrevista individual no realizada,,,
 12658,3,Pampeana,varón,27,superior o universitario incompleto,ocupado,obrero o empleado,48,-9
 12659,1,Pampeana,mujer,30,superior o universitario completo,ocupado,obrero o empleado,44,900000
 12659,2,Pampeana,varón,30,secundario completo,ocupado,cuenta propia,48,-9
@@ -37368,7 +37368,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 13106,1,Gran Buenos Aires,mujer,54,secundario completo,ocupado,obrero o empleado,40,-9
 13106,2,Gran Buenos Aires,varón,56,secundario incompleto,ocupado,cuenta propia,84,-9
 13106,3,Gran Buenos Aires,mujer,28,secundario completo,inactivo,,,
-13106,4,Gran Buenos Aires,varón,27,secundario completo,entrevista no realizada,,,
+13106,4,Gran Buenos Aires,varón,27,secundario completo,entrevista individual no realizada,,,
 13107,1,Gran Buenos Aires,mujer,60,primario completo,inactivo,,,
 13107,2,Gran Buenos Aires,mujer,39,secundario completo,desocupado,,,
 13107,3,Gran Buenos Aires,varón,19,superior o universitario incompleto,inactivo,,,
@@ -40840,7 +40840,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 14340,1,Gran Buenos Aires,varón,61,superior o universitario completo,ocupado,obrero o empleado,32,1300000
 14340,2,Gran Buenos Aires,mujer,60,superior o universitario completo,ocupado,obrero o empleado,32,3000000
 14340,3,Gran Buenos Aires,varón,29,superior o universitario completo,ocupado,obrero o empleado,36,1500000
-14341,1,Gran Buenos Aires,varón,24,primario incompleto,entrevista no realizada,,,
+14341,1,Gran Buenos Aires,varón,24,primario incompleto,entrevista individual no realizada,,,
 14341,2,Gran Buenos Aires,mujer,23,secundario incompleto,ocupado,cuenta propia,70,20000
 14341,3,Gran Buenos Aires,varón,7,primario incompleto,menor de 10 años,,,
 14342,1,Gran Buenos Aires,mujer,76,primario completo,inactivo,,,
@@ -41334,7 +41334,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 14519,3,Gran Buenos Aires,varón,18,superior o universitario incompleto,inactivo,,,
 14519,4,Gran Buenos Aires,varón,27,superior o universitario incompleto,inactivo,,,
 14520,1,Gran Buenos Aires,mujer,52,superior o universitario completo,ocupado,obrero o empleado,24,-9
-14520,2,Gran Buenos Aires,mujer,54,superior o universitario completo,entrevista no realizada,,,
+14520,2,Gran Buenos Aires,mujer,54,superior o universitario completo,entrevista individual no realizada,,,
 14521,1,Gran Buenos Aires,varón,73,primario completo,inactivo,,,
 14522,1,Gran Buenos Aires,varón,35,secundario completo,ocupado,obrero o empleado,40,800000
 14522,2,Gran Buenos Aires,mujer,35,superior o universitario incompleto,inactivo,,,
@@ -43827,8 +43827,8 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 15389,3,Gran Buenos Aires,varón,7,primario incompleto,menor de 10 años,,,
 15389,4,Gran Buenos Aires,mujer,3,sin instrucción,menor de 10 años,,,
 15390,1,Gran Buenos Aires,varón,59,secundario completo,ocupado,obrero o empleado,18,-9
-15390,2,Gran Buenos Aires,mujer,53,secundario incompleto,entrevista no realizada,,,
-15390,3,Gran Buenos Aires,varón,19,superior o universitario incompleto,entrevista no realizada,,,
+15390,2,Gran Buenos Aires,mujer,53,secundario incompleto,entrevista individual no realizada,,,
+15390,3,Gran Buenos Aires,varón,19,superior o universitario incompleto,entrevista individual no realizada,,,
 15391,1,Gran Buenos Aires,varón,35,secundario incompleto,inactivo,,,
 15391,2,Gran Buenos Aires,mujer,62,primario incompleto,ocupado,cuenta propia,56,100000
 15392,1,Gran Buenos Aires,mujer,71,superior o universitario completo,inactivo,,,
@@ -45054,7 +45054,7 @@ id_hogar,componente,region,sexo,edad,nivel_educativo,condicion_actividad,categor
 15806,2,Pampeana,mujer,11,primario incompleto,inactivo,,,
 15806,3,Pampeana,varón,18,secundario incompleto,ocupado,cuenta propia,20,250000
 15806,5,Pampeana,mujer,60,primario completo,inactivo,,,
-15806,6,Pampeana,varón,67,primario completo,entrevista no realizada,,,
+15806,6,Pampeana,varón,67,primario completo,entrevista individual no realizada,,,
 15807,1,Pampeana,mujer,23,secundario completo,ocupado,obrero o empleado,30,450000
 15807,2,Pampeana,varón,24,secundario incompleto,inactivo,,,
 15807,3,Pampeana,varón,5,sin instrucción,menor de 10 años,,,

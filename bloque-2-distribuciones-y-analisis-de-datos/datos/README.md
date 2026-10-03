@@ -2,8 +2,8 @@
 
 Los tres archivos de esta carpeta son los datos de la ejercitación del bloque 2. Salen de la
 [Encuesta Permanente de Hogares](https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos)
-del INDEC, que releva cada trimestre entre 44.000 y 49.000 personas en 32 aglomerados urbanos del
-país. Las bases originales tienen 235 columnas con códigos numéricos; acá quedan las pocas que usa
+del INDEC, que releva cada trimestre entre 43.700 y 49.100 personas en 32 aglomerados urbanos del
+país. La base de personas tiene 235 columnas con códigos numéricos (177 hasta el tercer trimestre de 2023) y la de hogares, 98; acá quedan las pocas que usa
 la ejercitación, con las categorías escritas en castellano.
 
 | Archivo | Filas | Una fila es |
@@ -22,7 +22,7 @@ la ejercitación, con las categorías escritas en castellano.
 | `sexo` | sexo declarado | `varón`, `mujer` |
 | `edad` | años cumplidos | 0 a 103 |
 | `nivel_educativo` | el máximo nivel alcanzado | siete categorías, de `sin instrucción` a `superior o universitario completo` |
-| `condicion_actividad` | la situación en el mercado de trabajo | `ocupado`, `desocupado`, `inactivo`, `menor de 10 años`, `entrevista no realizada` |
+| `condicion_actividad` | la situación en el mercado de trabajo | `ocupado`, `desocupado`, `inactivo`, `menor de 10 años`, `entrevista individual no realizada` |
 | `categoria_ocupacional` | solo para ocupados | `patrón`, `cuenta propia`, `obrero o empleado`, `trabajador familiar sin remuneración` |
 | `horas_semanales` | solo para ocupados: horas trabajadas en la semana en la ocupación principal | 0 a 140, y `999` |
 | `ingreso_ocupacion_principal` | solo para ocupados: ingreso mensual de la ocupación principal, en pesos corrientes | 0 a 30.000.000, y `-9` |
@@ -36,7 +36,7 @@ el diseño de registro de la encuesta dice qué es cada uno:
 | Columna | Valor | Qué es | Casos entre los 20.374 ocupados |
 |---|---|---|---|
 | `ingreso_ocupacion_principal` | `-9` | no respuesta: un centinela | 3.665 |
-| `ingreso_ocupacion_principal` | `0` | un ingreso real de cero; la encuesta lo clasifica como "sin ingresos" | 449 |
+| `ingreso_ocupacion_principal` | `0` | "sin ingresos": no cobró nada por esa ocupación en el mes de referencia; es un ingreso real de cero | 449 |
 | `horas_semanales` | `999` | no sabe o no responde: un centinela | 33 |
 | `horas_semanales` | `0` | un ocupado que esa semana no trabajó, por ejemplo por licencia | 331 |
 
