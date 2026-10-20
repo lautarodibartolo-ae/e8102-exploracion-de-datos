@@ -1,0 +1,46 @@
+id_hogar,localidad,provincia,fecha_visita,encuestador_legajo,encuestador_nombre,encuestador_telefono,personas,ingreso,cobertura_salud,satisfaccion,servicios
+1,Ramallo,Buenos Aires,2025-03-14,E04,"Sosa, Diego",3407-419854,3,185000,si,buena,agua;luz;gas
+1,Ramallo,Buenos Aires,2025-06-12,E04,"Sosa, Diego",3407-419854,4,201000,si,buena,agua;luz;gas
+2,Córdoba,Córdoba,2025-03-15,E02,"Ledesma, Julio",351-4778120,5,240500,no,regular,agua;luz
+3,Concepción,Tucumán,2025-03-15,E03,"Bianchi, Ana",381-4551907,2,,,,luz
+4,Ramallo,Buenos Aires,2025-03-16,E01,"Rivas, Marta",3407-412233,4,198000,si,buena,agua;luz;gas
+5,Ramallo,Buenos Aires,2025-03-16,E04,"Sosa, Diego",3407-419854,1,120000,,,luz
+7,Córdoba,Córdoba,2025-03-17,E04,"Sosa, Diego",3407-419854,6,310000,no,mala,agua;luz;gas;cloacas
+7,Córdoba,Córdoba,2025-06-13,E04,"Sosa, Diego",3407-419854,6,325000,no,regular,agua;luz;gas;cloacas
+8,Concepción,Tucumán,2025-03-17,E03,"Bianchi, Ana",381-4551907,3,175000,si,regular,agua;luz
+9,Ramallo,Buenos Aires,2025-03-18,E04,"Sosa, Diego",3407-419854,2,,no,mala,luz;gas
+10,Córdoba,Córdoba,2025-03-19,E02,"Ledesma, Julio",351-4778120,4,205000,,,agua;luz;gas
+11,Concepción,Tucumán,2025-03-20,E03,"Bianchi, Ana",381-4551907,7,260000,si,buena,agua;luz;gas;cloacas
+11,Concepción,Tucumán,2025-06-13,E03,"Bianchi, Ana",381-4551907,7,268000,si,buena,agua;luz;gas;cloacas
+13,Ramallo,Buenos Aires,2025-03-20,E04,"Sosa, Diego",3407-419854,3,190000,,,agua;luz
+14,Córdoba,Córdoba,2025-03-21,E02,"Ledesma, Julio",351-4778120,2,168000,no,regular,agua
+15,Ramallo,Buenos Aires,2025-03-21,E04,"Sosa, Diego",3407-419854,3,172000,si,regular,agua;luz;gas
+16,Concepción,Tucumán,2025-03-24,E03,"Bianchi, Ana",381-4551907,4,195000,no,buena,agua;luz
+17,Córdoba,Córdoba,2025-03-24,E04,"Sosa, Diego",3407-419854,2,210000,si,regular,agua;luz;gas
+18,Córdoba,Córdoba,2025-03-25,E02,"Ledesma, Julio",351-4778120,5,155000,,,luz
+19,Ramallo,Buenos Aires,2025-03-25,E04,"Sosa, Diego",3407-419854,3,188000,no,mala,agua;luz
+20,Concepción,Tucumán,2025-03-26,E03,"Bianchi, Ana",381-4551907,6,225000,si,buena,agua;luz;gas;cloacas
+20,Concepción,Tucumán,2025-06-16,E03,"Bianchi, Ana",381-4551907,5,231000,si,regular,agua;luz;gas;cloacas
+21,Ramallo,Buenos Aires,2025-03-26,E04,"Sosa, Diego",3407-419854,2,163000,,,agua;luz
+22,Córdoba,Córdoba,2025-03-27,E02,"Ledesma, Julio",351-4778120,4,201000,si,regular,agua;luz;gas
+23,Ramallo,Buenos Aires,2025-03-27,E04,"Sosa, Diego",3407-419854,3,179000,no,buena,agua;luz
+24,Concepción,Tucumán,2025-03-28,E03,"Bianchi, Ana",381-4551907,5,232000,si,regular,agua;luz;gas
+25,Córdoba,Córdoba,2025-03-28,E04,"Sosa, Diego",3407-419854,1,148000,,,luz
+26,Ramallo,Buenos Aires,2025-03-31,E01,"Rivas, Marta",3407-412233,4,216000,no,regular,agua;luz;gas
+26,Ramallo,Buenos Aires,2025-06-17,E01,"Rivas, Marta",3407-412233,4,222000,no,buena,agua;luz;gas
+27,Concepción,Tucumán,2025-03-31,E03,"Bianchi, Ana",381-4551907,2,193000,si,mala,agua;luz
+30,Ramallo,Buenos Aires,2025-04-01,E01,"Rivas, Marta",3407-412233,7,244000,si,buena,agua;luz;gas;cloacas
+30,Ramallo,Buenos Aires,2025-06-18,E01,"Rivas, Marta",3407-412233,8,259000,si,buena,agua;luz;gas;cloacas
+31,Concepción,Tucumán,2025-04-02,E03,"Bianchi, Ana",381-4551907,4,181000,,,agua;luz
+32,Córdoba,Córdoba,2025-04-02,E02,"Ledesma, Julio",351-4778120,3,207000,no,regular,agua;luz;gas
+33,Ramallo,Buenos Aires,2025-04-02,E04,"Sosa, Diego",3407-419854,5,169000,si,regular,agua;luz
+34,Concepción,Tucumán,2025-04-03,E03,"Bianchi, Ana",381-4551907,2,236000,no,buena,agua;luz;gas
+35,Córdoba,Córdoba,2025-04-03,E04,"Sosa, Diego",3407-419854,4,152000,,,agua
+36,Ramallo,Buenos Aires,2025-04-04,E01,"Rivas, Marta",3407-412233,6,199000,si,mala,agua;luz;gas
+36,Ramallo,Buenos Aires,2025-06-19,E01,"Rivas, Marta",3407-412233,6,204000,si,regular,agua;luz;gas
+37,Concepción,Tucumán,2025-04-04,E03,"Bianchi, Ana",381-4551907,3,223000,no,regular,agua;luz
+38,Córdoba,Córdoba,2025-04-07,E02,"Ledesma, Julio",351-4778120,2,0,si,mala,luz
+39,Ramallo,Buenos Aires,2025-04-07,E04,"Sosa, Diego",3407-419854,12,620000,no,buena,agua;luz;gas;cloacas
+39,Ramallo,Buenos Aires,2025-06-20,E04,"Sosa, Diego",3407-419854,12,641000,no,regular,agua;luz;gas;cloacas
+40,Concepción,Tucumán,2025-04-08,E03,"Bianchi, Ana",381-4551907,4,186000,,,agua;luz
+42,Ramallo,Buenos Aires,2025-04-09,E01,"Rivas, Marta",3407-412233,2,176000,no,mala,agua;luz

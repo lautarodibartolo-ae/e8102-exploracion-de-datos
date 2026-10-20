@@ -1,0 +1,1042 @@
+provincia,region,departamento,cultivo,superficie_sembrada_ha,superficie_cosechada_ha,produccion_t,rendimiento_kg_ha,rendimiento_2021_22_kg_ha
+Buenos Aires,Pampeana,25 de Mayo,girasol,12843,12743,31692,2487,2162
+Buenos Aires,Pampeana,25 de Mayo,maíz,59486,43573,213072,4890,7350
+Buenos Aires,Pampeana,25 de Mayo,soja,161394,158413,245397,1549,2817
+Buenos Aires,Pampeana,25 de Mayo,trigo,62732,62094,201377,3243,3999
+Buenos Aires,Pampeana,9 de Julio,girasol,5600,5600,19600,3500,2700
+Buenos Aires,Pampeana,9 de Julio,maíz,60000,51700,206800,4000,8000
+Buenos Aires,Pampeana,9 de Julio,soja,172000,162000,222014,1370,3028
+Buenos Aires,Pampeana,9 de Julio,trigo,64300,64100,160150,2498,4899
+Buenos Aires,Pampeana,Adolfo Alsina,girasol,45000,45000,112500,2500,2100
+Buenos Aires,Pampeana,Adolfo Alsina,maíz,79000,38000,209000,5500,7200
+Buenos Aires,Pampeana,Adolfo Alsina,soja,64000,64000,157200,2456,2800
+Buenos Aires,Pampeana,Adolfo Alsina,trigo,125600,122100,341820,2800,3399
+Buenos Aires,Pampeana,Adolfo Gonzales Chaves,girasol,19921,19921,43826,2200,1870
+Buenos Aires,Pampeana,Adolfo Gonzales Chaves,maíz,25729,18010,82847,4600,3500
+Buenos Aires,Pampeana,Adolfo Gonzales Chaves,soja,67436,67436,168590,2500,1434
+Buenos Aires,Pampeana,Adolfo Gonzales Chaves,trigo,35300,35300,100510,2847,3762
+Buenos Aires,Pampeana,Alberti,girasol,1600,1600,4800,3000,
+Buenos Aires,Pampeana,Alberti,maíz,22000,18600,55800,3000,8000
+Buenos Aires,Pampeana,Alberti,soja,60000,35900,45409,1265,2740
+Buenos Aires,Pampeana,Alberti,trigo,30800,30600,64260,2100,4900
+Buenos Aires,Pampeana,Arrecifes,girasol,720,720,1512,2100,2900
+Buenos Aires,Pampeana,Arrecifes,maíz,19220,10236,47086,4600,6750
+Buenos Aires,Pampeana,Arrecifes,soja,76187,44987,78125,1737,2929
+Buenos Aires,Pampeana,Arrecifes,trigo,32900,29100,58200,2000,4800
+Buenos Aires,Pampeana,Ayacucho,girasol,32000,32000,57600,1800,2200
+Buenos Aires,Pampeana,Ayacucho,maíz,47600,43100,215500,5000,6800
+Buenos Aires,Pampeana,Ayacucho,soja,19800,19800,27900,1409,1920
+Buenos Aires,Pampeana,Ayacucho,trigo,13170,13170,23825,1809,4500
+Buenos Aires,Pampeana,Azul,girasol,33930,33930,71253,2100,2000
+Buenos Aires,Pampeana,Azul,maíz,64581,45581,259812,5700,6600
+Buenos Aires,Pampeana,Azul,soja,112480,112480,248464,2209,2081
+Buenos Aires,Pampeana,Azul,trigo,30551,30551,82101,2687,4196
+Buenos Aires,Pampeana,Bahía Blanca,maíz,2400,0,0,0,3000
+Buenos Aires,Pampeana,Bahía Blanca,trigo,10379,10379,20140,1940,1200
+Buenos Aires,Pampeana,Balcarce,girasol,55436,55436,127503,2300,2100
+Buenos Aires,Pampeana,Balcarce,maíz,66373,48373,299913,6200,6700
+Buenos Aires,Pampeana,Balcarce,soja,58470,58470,144153,2465,1878
+Buenos Aires,Pampeana,Balcarce,trigo,31630,31630,100384,3174,4803
+Buenos Aires,Pampeana,Baradero,girasol,200,200,400,2000,2901
+Buenos Aires,Pampeana,Baradero,maíz,26607,24805,109142,4400,6700
+Buenos Aires,Pampeana,Baradero,soja,50334,34534,51486,1491,2712
+Buenos Aires,Pampeana,Baradero,trigo,23410,20860,43806,2100,4700
+Buenos Aires,Pampeana,Benito Juárez,girasol,26385,26385,47493,1800,1800
+Buenos Aires,Pampeana,Benito Juárez,maíz,32643,22643,113215,5000,6500
+Buenos Aires,Pampeana,Benito Juárez,soja,52310,52310,106514,2036,1842
+Buenos Aires,Pampeana,Benito Juárez,trigo,20901,20901,41745,1997,4000
+Buenos Aires,Pampeana,Bolívar,girasol,25000,25000,52500,2100,1630
+Buenos Aires,Pampeana,Bolívar,maíz,48800,36844,239486,6500,8500
+Buenos Aires,Pampeana,Bolívar,soja,83000,83000,176590,2128,2755
+Buenos Aires,Pampeana,Bolívar,trigo,23400,23400,70200,3000,2900
+Buenos Aires,Pampeana,Bragado,girasol,1500,1500,5250,3500,2700
+Buenos Aires,Pampeana,Bragado,maíz,35000,30100,105350,3500,8000
+Buenos Aires,Pampeana,Bragado,soja,114000,98300,136824,1392,3076
+Buenos Aires,Pampeana,Bragado,trigo,32500,32300,80750,2500,4900
+Buenos Aires,Pampeana,Brandsen,girasol,120,120,264,2200,2400
+Buenos Aires,Pampeana,Brandsen,maíz,1700,350,1925,5500,6500
+Buenos Aires,Pampeana,Brandsen,soja,480,80,128,1600,2450
+Buenos Aires,Pampeana,Brandsen,trigo,500,450,810,1800,3800
+Buenos Aires,Pampeana,Campana,maíz,1000,750,3675,4900,6475
+Buenos Aires,Pampeana,Campana,soja,5400,4500,7375,1639,3083
+Buenos Aires,Pampeana,Campana,trigo,2600,2400,4800,2000,4800
+Buenos Aires,Pampeana,Capitán Sarmiento,girasol,200,200,440,2200,3000
+Buenos Aires,Pampeana,Capitán Sarmiento,maíz,12507,6351,30485,4800,6885
+Buenos Aires,Pampeana,Capitán Sarmiento,soja,25694,18444,30063,1630,2979
+Buenos Aires,Pampeana,Capitán Sarmiento,trigo,9400,8250,16500,2000,4900
+Buenos Aires,Pampeana,Carlos Casares,girasol,5100,5100,11730,2300,2800
+Buenos Aires,Pampeana,Carlos Casares,maíz,39500,26400,17160,650,8500
+Buenos Aires,Pampeana,Carlos Casares,soja,78100,55600,110180,1982,3590
+Buenos Aires,Pampeana,Carlos Casares,trigo,22240,22240,66720,3000,4700
+Buenos Aires,Pampeana,Carlos Tejedor,girasol,15100,15100,34730,2300,2500
+Buenos Aires,Pampeana,Carlos Tejedor,maíz,48100,42100,231550,5500,8400
+Buenos Aires,Pampeana,Carlos Tejedor,soja,66200,48900,87220,1784,3520
+Buenos Aires,Pampeana,Carlos Tejedor,trigo,24360,20860,37860,1815,4700
+Buenos Aires,Pampeana,Carmen de Areco,girasol,1000,1000,3200,3200,2600
+Buenos Aires,Pampeana,Carmen de Areco,maíz,20000,17000,85000,5000,5600
+Buenos Aires,Pampeana,Carmen de Areco,soja,43000,40300,49740,1234,2902
+Buenos Aires,Pampeana,Carmen de Areco,trigo,20600,18850,32045,1700,4700
+Buenos Aires,Pampeana,Castelli,girasol,3500,3500,7000,2000,2200
+Buenos Aires,Pampeana,Castelli,maíz,9000,3000,12000,4000,7000
+Buenos Aires,Pampeana,Castelli,soja,6700,6700,9800,1463,2420
+Buenos Aires,Pampeana,Castelli,trigo,3200,3200,6400,2000,4500
+Buenos Aires,Pampeana,Cañuelas,girasol,900,900,1980,2200,2400
+Buenos Aires,Pampeana,Cañuelas,maíz,2500,1250,6875,5500,6800
+Buenos Aires,Pampeana,Cañuelas,soja,3900,1900,2750,1447,3008
+Buenos Aires,Pampeana,Cañuelas,trigo,3500,3050,5490,1800,3800
+Buenos Aires,Pampeana,Chacabuco,girasol,1000,1000,3200,3200,2500
+Buenos Aires,Pampeana,Chacabuco,maíz,48000,40800,204000,5000,7100
+Buenos Aires,Pampeana,Chacabuco,soja,106000,100000,159200,1592,3045
+Buenos Aires,Pampeana,Chacabuco,trigo,37125,33975,57758,1700,4400
+Buenos Aires,Pampeana,Chascomús,girasol,10000,10000,22000,2200,2400
+Buenos Aires,Pampeana,Chascomús,maíz,12500,8000,44048,5506,7000
+Buenos Aires,Pampeana,Chascomús,soja,26000,20500,29200,1424,2879
+Buenos Aires,Pampeana,Chascomús,trigo,18500,18350,40205,2191,3800
+Buenos Aires,Pampeana,Chivilcoy,girasol,1500,1500,3750,2500,2700
+Buenos Aires,Pampeana,Chivilcoy,maíz,23000,16900,50700,3000,7500
+Buenos Aires,Pampeana,Chivilcoy,soja,109000,63000,99476,1579,3116
+Buenos Aires,Pampeana,Chivilcoy,trigo,33240,32640,68540,2100,4900
+Buenos Aires,Pampeana,Colón,maíz,13702,9891,49455,5000,7400
+Buenos Aires,Pampeana,Colón,soja,56141,43641,84196,1929,3435
+Buenos Aires,Pampeana,Colón,trigo,22300,18400,40480,2200,5100
+Buenos Aires,Pampeana,Coronel Dorrego,girasol,48222,48222,106088,2200,1400
+Buenos Aires,Pampeana,Coronel Dorrego,maíz,68696,48087,216392,4500,3000
+Buenos Aires,Pampeana,Coronel Dorrego,soja,24091,24091,53000,2200,1076
+Buenos Aires,Pampeana,Coronel Dorrego,trigo,109500,109500,314100,2868,2844
+Buenos Aires,Pampeana,Coronel Pringles,girasol,26525,26525,53050,2000,1770
+Buenos Aires,Pampeana,Coronel Pringles,maíz,33901,23731,90177,3800,4000
+Buenos Aires,Pampeana,Coronel Pringles,soja,21343,21343,41267,1934,1688
+Buenos Aires,Pampeana,Coronel Pringles,trigo,64560,64560,189062,2928,3413
+Buenos Aires,Pampeana,Coronel Suárez,girasol,43000,42800,85600,2000,1800
+Buenos Aires,Pampeana,Coronel Suárez,maíz,45000,37500,225000,6000,8000
+Buenos Aires,Pampeana,Coronel Suárez,soja,100000,99500,233350,2345,2048
+Buenos Aires,Pampeana,Coronel Suárez,trigo,116000,116000,287000,2474,2178
+Buenos Aires,Pampeana,Coronel de Marina Leonardo Rosales,girasol,500,500,450,900,1000
+Buenos Aires,Pampeana,Coronel de Marina Leonardo Rosales,maíz,3500,1500,5250,3500,3800
+Buenos Aires,Pampeana,Coronel de Marina Leonardo Rosales,trigo,15193,15193,37859,2492,2016
+Buenos Aires,Pampeana,Daireaux,girasol,25000,25000,52500,2100,1751
+Buenos Aires,Pampeana,Daireaux,maíz,40700,30729,184371,6000,9000
+Buenos Aires,Pampeana,Daireaux,soja,87000,87000,176800,2032,2620
+Buenos Aires,Pampeana,Daireaux,trigo,27000,27000,81000,3000,2700
+Buenos Aires,Pampeana,Dolores,girasol,800,800,1440,1800,1800
+Buenos Aires,Pampeana,Dolores,maíz,1000,0,0,0,0
+Buenos Aires,Pampeana,Dolores,soja,900,900,1800,2000,2500
+Buenos Aires,Pampeana,Dolores,trigo,615,615,1230,2000,
+Buenos Aires,Pampeana,Exaltación de la Cruz,girasol,100,100,200,2000,2798
+Buenos Aires,Pampeana,Exaltación de la Cruz,maíz,4250,3750,17250,4600,6850
+Buenos Aires,Pampeana,Exaltación de la Cruz,soja,16800,12300,21090,1715,3107
+Buenos Aires,Pampeana,Exaltación de la Cruz,trigo,6650,5450,10355,1900,4800
+Buenos Aires,Pampeana,Florentino Ameghino,girasol,3200,3200,9600,3000,2150
+Buenos Aires,Pampeana,Florentino Ameghino,maíz,23000,16270,94366,5800,7700
+Buenos Aires,Pampeana,Florentino Ameghino,soja,46000,41780,67396,1613,2841
+Buenos Aires,Pampeana,Florentino Ameghino,trigo,11000,5893,12081,2050,3300
+Buenos Aires,Pampeana,General Alvarado,girasol,28673,28673,71683,2500,2400
+Buenos Aires,Pampeana,General Alvarado,maíz,20212,20212,123293,6100,6500
+Buenos Aires,Pampeana,General Alvarado,soja,41109,41109,109665,2668,1315
+Buenos Aires,Pampeana,General Alvarado,trigo,24064,24064,67314,2797,4999
+Buenos Aires,Pampeana,General Alvear,girasol,2800,2800,5880,2100,1657
+Buenos Aires,Pampeana,General Alvear,maíz,20300,15327,99622,6500,7700
+Buenos Aires,Pampeana,General Alvear,soja,18000,18000,37680,2093,2325
+Buenos Aires,Pampeana,General Alvear,trigo,5400,5400,15120,2800,2900
+Buenos Aires,Pampeana,General Arenales,girasol,350,350,1190,3400,2000
+Buenos Aires,Pampeana,General Arenales,maíz,37000,31450,157250,5000,6600
+Buenos Aires,Pampeana,General Arenales,soja,80000,74000,107200,1449,2935
+Buenos Aires,Pampeana,General Arenales,trigo,32100,29380,49946,1700,4100
+Buenos Aires,Pampeana,General Belgrano,girasol,9219,9146,21255,2324,2021
+Buenos Aires,Pampeana,General Belgrano,maíz,15928,11707,59120,5050,7030
+Buenos Aires,Pampeana,General Belgrano,soja,26811,26244,41175,1569,2759
+Buenos Aires,Pampeana,General Belgrano,trigo,16177,16022,50620,3159,3897
+Buenos Aires,Pampeana,General Guido,girasol,3500,3500,7000,2000,2200
+Buenos Aires,Pampeana,General Guido,maíz,5200,4200,16800,4000,6500
+Buenos Aires,Pampeana,General Guido,soja,2200,2200,3200,1455,2150
+Buenos Aires,Pampeana,General Guido,trigo,1300,1300,2860,2200,4200
+Buenos Aires,Pampeana,General Juan Madariaga,girasol,16300,16300,48900,3000,2500
+Buenos Aires,Pampeana,General Juan Madariaga,maíz,17200,14500,116000,8000,7800
+Buenos Aires,Pampeana,General Juan Madariaga,soja,10600,10600,28340,2674,2507
+Buenos Aires,Pampeana,General Juan Madariaga,trigo,7000,7000,24500,3500,5300
+Buenos Aires,Pampeana,General La Madrid,girasol,36000,35500,53250,1500,1800
+Buenos Aires,Pampeana,General La Madrid,maíz,40000,31500,189000,6000,6500
+Buenos Aires,Pampeana,General La Madrid,soja,40000,39000,80000,2051,1843
+Buenos Aires,Pampeana,General La Madrid,trigo,46000,46000,114000,2478,2187
+Buenos Aires,Pampeana,General Las Heras,girasol,500,500,1100,2200,2400
+Buenos Aires,Pampeana,General Las Heras,maíz,1900,50,275,5500,7200
+Buenos Aires,Pampeana,General Las Heras,soja,5200,1200,1800,1500,2434
+Buenos Aires,Pampeana,General Las Heras,trigo,1500,1250,2250,1800,3800
+Buenos Aires,Pampeana,General Lavalle,maíz,1000,0,0,0,6000
+Buenos Aires,Pampeana,General Lavalle,trigo,130,130,260,2000,
+Buenos Aires,Pampeana,General Paz,girasol,850,850,1870,2200,2400
+Buenos Aires,Pampeana,General Paz,maíz,4000,2000,11000,5500,7000
+Buenos Aires,Pampeana,General Paz,soja,5450,3950,5420,1372,2787
+Buenos Aires,Pampeana,General Paz,trigo,4500,4350,10005,2300,3800
+Buenos Aires,Pampeana,General Pinto,girasol,1500,1500,4800,3200,2200
+Buenos Aires,Pampeana,General Pinto,maíz,45000,39100,238510,6100,7900
+Buenos Aires,Pampeana,General Pinto,soja,81000,73740,139654,1894,2804
+Buenos Aires,Pampeana,General Pinto,trigo,35000,25420,53382,2100,3400
+Buenos Aires,Pampeana,General Pueyrredón,girasol,14032,14032,36483,2600,2300
+Buenos Aires,Pampeana,General Pueyrredón,maíz,15147,13647,84611,6200,7000
+Buenos Aires,Pampeana,General Pueyrredón,soja,18319,18319,52504,2866,1617
+Buenos Aires,Pampeana,General Pueyrredón,trigo,11969,11969,38238,3195,5000
+Buenos Aires,Pampeana,General Rodríguez,maíz,950,50,285,5700,7200
+Buenos Aires,Pampeana,General Rodríguez,soja,5800,2850,4380,1537,2780
+Buenos Aires,Pampeana,General Rodríguez,trigo,3700,3423,6161,1800,3800
+Buenos Aires,Pampeana,General Viamonte,girasol,500,500,1500,3000,2100
+Buenos Aires,Pampeana,General Viamonte,maíz,31000,26380,155642,5900,8000
+Buenos Aires,Pampeana,General Viamonte,soja,84000,78790,140002,1777,3065
+Buenos Aires,Pampeana,General Viamonte,trigo,34000,26455,50265,1900,3700
+Buenos Aires,Pampeana,General Villegas,girasol,14000,14000,43400,3100,2000
+Buenos Aires,Pampeana,General Villegas,maíz,125000,113250,679500,6000,7750
+Buenos Aires,Pampeana,General Villegas,soja,269000,255030,521411,2045,2940
+Buenos Aires,Pampeana,General Villegas,trigo,114000,89433,178866,2000,3200
+Buenos Aires,Pampeana,Guaminí,girasol,37000,37000,92500,2500,2200
+Buenos Aires,Pampeana,Guaminí,maíz,66000,32000,185600,5800,7200
+Buenos Aires,Pampeana,Guaminí,soja,56000,56000,140400,2507,2800
+Buenos Aires,Pampeana,Guaminí,trigo,74800,72300,202360,2799,3198
+Buenos Aires,Pampeana,Hipólito Yrigoyen,girasol,21000,21000,44100,2100,1757
+Buenos Aires,Pampeana,Hipólito Yrigoyen,maíz,34300,25897,168327,6500,8500
+Buenos Aires,Pampeana,Hipólito Yrigoyen,soja,63000,63000,125760,1996,2705
+Buenos Aires,Pampeana,Hipólito Yrigoyen,trigo,23000,23000,80500,3500,2900
+Buenos Aires,Pampeana,Junín,girasol,700,700,2310,3300,2300
+Buenos Aires,Pampeana,Junín,maíz,45000,38250,191250,5000,8100
+Buenos Aires,Pampeana,Junín,soja,98000,92000,143200,1557,3099
+Buenos Aires,Pampeana,Junín,trigo,40800,37400,63580,1700,3703
+Buenos Aires,Pampeana,La Plata,maíz,330,140,770,5500,6900
+Buenos Aires,Pampeana,La Plata,soja,520,280,430,1536,2781
+Buenos Aires,Pampeana,La Plata,trigo,250,250,450,1800,3800
+Buenos Aires,Pampeana,Laprida,girasol,8983,8983,17966,2000,1760
+Buenos Aires,Pampeana,Laprida,maíz,29111,20378,81511,4000,3500
+Buenos Aires,Pampeana,Laprida,soja,9972,9972,19944,2000,2226
+Buenos Aires,Pampeana,Laprida,trigo,17050,17050,48585,2850,3690
+Buenos Aires,Pampeana,Las Flores,girasol,11682,11589,27744,2394,2082
+Buenos Aires,Pampeana,Las Flores,maíz,20900,15361,75730,4930,7030
+Buenos Aires,Pampeana,Las Flores,soja,20279,19892,29548,1485,2598
+Buenos Aires,Pampeana,Las Flores,trigo,8096,8016,24669,3077,3799
+Buenos Aires,Pampeana,Leandro N. Alem,girasol,300,300,870,2900,2300
+Buenos Aires,Pampeana,Leandro N. Alem,maíz,33000,30340,169904,5600,8100
+Buenos Aires,Pampeana,Leandro N. Alem,soja,63000,58620,89432,1526,2978
+Buenos Aires,Pampeana,Leandro N. Alem,trigo,23000,13443,24197,1800,3550
+Buenos Aires,Pampeana,Lincoln,girasol,10500,10500,33075,3150,2250
+Buenos Aires,Pampeana,Lincoln,maíz,60000,48500,276450,5700,7950
+Buenos Aires,Pampeana,Lincoln,soja,155000,143330,245934,1716,3032
+Buenos Aires,Pampeana,Lincoln,trigo,61000,46100,87590,1900,3500
+Buenos Aires,Pampeana,Lobería,girasol,70931,70931,141862,2000,1900
+Buenos Aires,Pampeana,Lobería,maíz,75930,56930,347273,6100,7000
+Buenos Aires,Pampeana,Lobería,soja,99957,99957,234550,2347,1657
+Buenos Aires,Pampeana,Lobería,trigo,42232,42232,117522,2783,4602
+Buenos Aires,Pampeana,Lobos,girasol,1134,1125,2693,2394,2082
+Buenos Aires,Pampeana,Lobos,maíz,15769,11527,56713,4920,7080
+Buenos Aires,Pampeana,Lobos,soja,28150,27653,47129,1704,2829
+Buenos Aires,Pampeana,Lobos,trigo,15100,14949,46019,3078,3800
+Buenos Aires,Pampeana,Luján,girasol,800,800,1760,2200,2400
+Buenos Aires,Pampeana,Luján,maíz,5100,550,3025,5500,7200
+Buenos Aires,Pampeana,Luján,soja,14700,8500,12880,1515,2848
+Buenos Aires,Pampeana,Luján,trigo,12200,10800,19440,1800,3800
+Buenos Aires,Pampeana,Magdalena,girasol,280,280,616,2200,2100
+Buenos Aires,Pampeana,Magdalena,maíz,1600,200,1100,5500,6800
+Buenos Aires,Pampeana,Magdalena,soja,3070,820,1312,1600,3041
+Buenos Aires,Pampeana,Magdalena,trigo,1900,1900,3420,1800,3800
+Buenos Aires,Pampeana,Maipú,girasol,8200,8200,20500,2500,2400
+Buenos Aires,Pampeana,Maipú,maíz,9300,7900,51350,6500,7500
+Buenos Aires,Pampeana,Maipú,soja,7600,7600,16520,2174,2350
+Buenos Aires,Pampeana,Maipú,trigo,4000,4000,12000,3000,5000
+Buenos Aires,Pampeana,Mar Chiquita,girasol,15500,15500,43400,2800,2400
+Buenos Aires,Pampeana,Mar Chiquita,maíz,24800,21500,150500,7000,7800
+Buenos Aires,Pampeana,Mar Chiquita,soja,11900,11900,28860,2425,2518
+Buenos Aires,Pampeana,Mar Chiquita,trigo,7100,7100,22720,3200,5500
+Buenos Aires,Pampeana,Marcos Paz,girasol,250,250,550,2200,2500
+Buenos Aires,Pampeana,Marcos Paz,maíz,2020,610,3355,5500,7200
+Buenos Aires,Pampeana,Marcos Paz,soja,7580,2080,2788,1340,2625
+Buenos Aires,Pampeana,Marcos Paz,trigo,2500,2200,3960,1800,3800
+Buenos Aires,Pampeana,Mercedes,maíz,5700,600,600,1000,4500
+Buenos Aires,Pampeana,Mercedes,soja,23600,2000,1966,983,2372
+Buenos Aires,Pampeana,Mercedes,trigo,6500,6350,10160,1600,4900
+Buenos Aires,Pampeana,Monte,girasol,4307,4273,9930,2324,2021
+Buenos Aires,Pampeana,Monte,maíz,16195,11879,60583,5100,6970
+Buenos Aires,Pampeana,Monte,soja,32524,32127,63073,1963,3092
+Buenos Aires,Pampeana,Monte,trigo,19200,19009,58517,3078,3800
+Buenos Aires,Pampeana,Navarro,girasol,854,847,2078,2453,2133
+Buenos Aires,Pampeana,Navarro,maíz,12224,8960,44531,4970,7120
+Buenos Aires,Pampeana,Navarro,soja,27754,27407,52569,1918,3023
+Buenos Aires,Pampeana,Navarro,trigo,14400,14257,45075,3162,3900
+Buenos Aires,Pampeana,Necochea,girasol,78444,78444,188266,2400,1765
+Buenos Aires,Pampeana,Necochea,maíz,60573,42401,203525,4800,3500
+Buenos Aires,Pampeana,Necochea,soja,103221,103221,231453,2242,1271
+Buenos Aires,Pampeana,Necochea,trigo,31000,31000,78375,2528,4336
+Buenos Aires,Pampeana,Olavarría,girasol,14200,14200,29820,2100,1852
+Buenos Aires,Pampeana,Olavarría,maíz,42700,32239,225670,7000,7800
+Buenos Aires,Pampeana,Olavarría,soja,48000,48000,93080,1939,2544
+Buenos Aires,Pampeana,Olavarría,trigo,22100,22100,66300,3000,2887
+Buenos Aires,Pampeana,Patagones,girasol,2200,2200,4400,2000,1290
+Buenos Aires,Pampeana,Patagones,maíz,4800,3300,26400,8000,8000
+Buenos Aires,Pampeana,Patagones,trigo,59700,59700,77310,1295,2269
+Buenos Aires,Pampeana,Pehuajó,girasol,15900,15900,38160,2400,2700
+Buenos Aires,Pampeana,Pehuajó,maíz,88500,82000,549400,6700,8900
+Buenos Aires,Pampeana,Pehuajó,soja,110602,75102,141715,1887,3320
+Buenos Aires,Pampeana,Pehuajó,trigo,40090,40090,132360,3302,5200
+Buenos Aires,Pampeana,Pellegrini,girasol,31000,31000,83700,2700,2255
+Buenos Aires,Pampeana,Pellegrini,maíz,40000,24000,153600,6400,8000
+Buenos Aires,Pampeana,Pellegrini,soja,37000,37000,101800,2751,3137
+Buenos Aires,Pampeana,Pellegrini,trigo,17200,16700,48410,2899,3494
+Buenos Aires,Pampeana,Pergamino,girasol,889,889,2134,2400,3200
+Buenos Aires,Pampeana,Pergamino,maíz,47923,38973,187070,4800,7500
+Buenos Aires,Pampeana,Pergamino,soja,163102,131202,243636,1857,3438
+Buenos Aires,Pampeana,Pergamino,trigo,44600,39100,86020,2200,5200
+Buenos Aires,Pampeana,Pila,girasol,5800,5800,11600,2000,2300
+Buenos Aires,Pampeana,Pila,maíz,11800,7900,31600,4000,6800
+Buenos Aires,Pampeana,Pila,soja,11100,11100,15600,1405,2424
+Buenos Aires,Pampeana,Pila,trigo,5500,5500,11000,2000,4500
+Buenos Aires,Pampeana,Pilar,maíz,450,50,275,5500,7200
+Buenos Aires,Pampeana,Pilar,soja,1580,580,880,1517,2677
+Buenos Aires,Pampeana,Pilar,trigo,300,250,450,1800,3800
+Buenos Aires,Pampeana,Punta Indio,maíz,450,50,275,5500,6500
+Buenos Aires,Pampeana,Punta Indio,soja,490,180,288,1600,3000
+Buenos Aires,Pampeana,Punta Indio,trigo,100,100,180,1800,3800
+Buenos Aires,Pampeana,Puán,girasol,2000,1900,3800,2000,1745
+Buenos Aires,Pampeana,Puán,maíz,21000,11500,57500,5000,4100
+Buenos Aires,Pampeana,Puán,soja,1000,800,1440,1800,1800
+Buenos Aires,Pampeana,Puán,trigo,60000,60000,149000,2483,1800
+Buenos Aires,Pampeana,Ramallo,girasol,167,167,367,2198,3000
+Buenos Aires,Pampeana,Ramallo,maíz,14842,12853,61694,4800,6530
+Buenos Aires,Pampeana,Ramallo,soja,50110,36860,58074,1576,2918
+Buenos Aires,Pampeana,Ramallo,trigo,14130,11630,24423,2100,4800
+Buenos Aires,Pampeana,Rauch,girasol,6200,6200,12400,2000,2200
+Buenos Aires,Pampeana,Rauch,maíz,14500,12100,60500,5000,6800
+Buenos Aires,Pampeana,Rauch,soja,7050,7050,10750,1525,2150
+Buenos Aires,Pampeana,Rauch,trigo,2550,2550,4625,1814,4200
+Buenos Aires,Pampeana,Rivadavia,girasol,11500,11500,28750,2500,2700
+Buenos Aires,Pampeana,Rivadavia,maíz,88100,63100,466940,7400,8500
+Buenos Aires,Pampeana,Rivadavia,soja,138048,96448,215510,2234,3243
+Buenos Aires,Pampeana,Rivadavia,trigo,36283,29383,70519,2400,4800
+Buenos Aires,Pampeana,Rojas,girasol,500,500,1750,3500,2200
+Buenos Aires,Pampeana,Rojas,maíz,45000,38250,191250,5000,8600
+Buenos Aires,Pampeana,Rojas,soja,102000,96000,151200,1575,2943
+Buenos Aires,Pampeana,Rojas,trigo,39200,35900,61030,1700,4400
+Buenos Aires,Pampeana,Roque Pérez,girasol,5085,5046,11727,2324,2021
+Buenos Aires,Pampeana,Roque Pérez,maíz,12102,8870,43729,4930,7040
+Buenos Aires,Pampeana,Roque Pérez,soja,33876,33429,63008,1885,3017
+Buenos Aires,Pampeana,Roque Pérez,trigo,13013,12884,40732,3161,3900
+Buenos Aires,Pampeana,Saavedra,girasol,6000,5900,10620,1800,1800
+Buenos Aires,Pampeana,Saavedra,maíz,26000,19500,97500,5000,4700
+Buenos Aires,Pampeana,Saavedra,soja,12000,11800,20040,1698,1769
+Buenos Aires,Pampeana,Saavedra,trigo,56000,56000,139000,2482,2188
+Buenos Aires,Pampeana,Saladillo,girasol,8315,8248,19746,2394,2082
+Buenos Aires,Pampeana,Saladillo,maíz,30503,22343,110821,4960,7130
+Buenos Aires,Pampeana,Saladillo,soja,75476,74156,115310,1555,2788
+Buenos Aires,Pampeana,Saladillo,trigo,17028,16860,54701,3244,4000
+Buenos Aires,Pampeana,Salliqueló,girasol,25000,25000,67500,2700,2255
+Buenos Aires,Pampeana,Salliqueló,maíz,28000,14000,89600,6400,8000
+Buenos Aires,Pampeana,Salliqueló,soja,26000,26000,68800,2646,3133
+Buenos Aires,Pampeana,Salliqueló,trigo,7100,6600,19130,2898,3493
+Buenos Aires,Pampeana,Salto,girasol,150,150,345,2300,3300
+Buenos Aires,Pampeana,Salto,maíz,21291,16855,87646,5200,7500
+Buenos Aires,Pampeana,Salto,soja,110324,84624,186812,2208,3356
+Buenos Aires,Pampeana,Salto,trigo,34284,31784,73103,2300,5200
+Buenos Aires,Pampeana,San Andrés de Giles,girasol,380,380,1178,3100,2200
+Buenos Aires,Pampeana,San Andrés de Giles,maíz,18000,15300,76500,5000,5600
+Buenos Aires,Pampeana,San Andrés de Giles,soja,49000,45100,63680,1412,2957
+Buenos Aires,Pampeana,San Andrés de Giles,trigo,21000,19250,32725,1700,4900
+Buenos Aires,Pampeana,San Antonio de Areco,girasol,100,100,230,2300,3000
+Buenos Aires,Pampeana,San Antonio de Areco,maíz,11112,8668,40740,4700,6660
+Buenos Aires,Pampeana,San Antonio de Areco,soja,41505,24105,32639,1354,3082
+Buenos Aires,Pampeana,San Antonio de Areco,trigo,20000,18150,36300,2000,4900
+Buenos Aires,Pampeana,San Cayetano,girasol,51215,51215,122916,2400,1955
+Buenos Aires,Pampeana,San Cayetano,maíz,40707,28495,128227,4500,4000
+Buenos Aires,Pampeana,San Cayetano,soja,50913,50913,125753,2470,1107
+Buenos Aires,Pampeana,San Cayetano,trigo,29500,29500,72950,2473,3872
+Buenos Aires,Pampeana,San Nicolás,girasol,60,60,120,2000,3000
+Buenos Aires,Pampeana,San Nicolás,maíz,7477,6443,25772,4000,6400
+Buenos Aires,Pampeana,San Nicolás,soja,28628,20928,30706,1467,2609
+Buenos Aires,Pampeana,San Nicolás,trigo,3800,3100,5270,1700,5000
+Buenos Aires,Pampeana,San Pedro,girasol,200,200,400,2000,3000
+Buenos Aires,Pampeana,San Pedro,maíz,11922,10025,47118,4700,6495
+Buenos Aires,Pampeana,San Pedro,soja,42689,27784,45166,1626,3000
+Buenos Aires,Pampeana,San Pedro,trigo,16520,13770,27540,2000,4900
+Buenos Aires,Pampeana,San Vicente,girasol,300,300,660,2200,2200
+Buenos Aires,Pampeana,San Vicente,maíz,1050,650,3575,5500,7000
+Buenos Aires,Pampeana,San Vicente,soja,610,240,384,1600,3046
+Buenos Aires,Pampeana,San Vicente,trigo,500,450,810,1800,3800
+Buenos Aires,Pampeana,Suipacha,girasol,500,500,750,1500,2700
+Buenos Aires,Pampeana,Suipacha,maíz,10000,2200,4400,2000,4500
+Buenos Aires,Pampeana,Suipacha,soja,25500,5500,4950,900,2310
+Buenos Aires,Pampeana,Suipacha,trigo,11300,11180,17888,1600,4900
+Buenos Aires,Pampeana,Tandil,girasol,56995,56995,119690,2100,2200
+Buenos Aires,Pampeana,Tandil,maíz,71944,56444,344308,6100,6500
+Buenos Aires,Pampeana,Tandil,soja,121590,121590,277054,2279,1949
+Buenos Aires,Pampeana,Tandil,trigo,32244,32244,90061,2793,4400
+Buenos Aires,Pampeana,Tapalqué,girasol,1500,1500,2700,1800,1751
+Buenos Aires,Pampeana,Tapalqué,maíz,10300,7519,48874,6500,7700
+Buenos Aires,Pampeana,Tapalqué,soja,3200,3200,7530,2353,2950
+Buenos Aires,Pampeana,Tapalqué,trigo,1900,1900,5700,3000,2700
+Buenos Aires,Pampeana,Tordillo,maíz,1000,0,0,0,0
+Buenos Aires,Pampeana,Tordillo,soja,850,850,1700,2000,2600
+Buenos Aires,Pampeana,Tordillo,trigo,160,160,320,2000,
+Buenos Aires,Pampeana,Tornquist,girasol,3000,2900,4930,1700,1800
+Buenos Aires,Pampeana,Tornquist,maíz,16000,10500,52500,5000,4100
+Buenos Aires,Pampeana,Tornquist,soja,2000,1800,3240,1800,1600
+Buenos Aires,Pampeana,Tornquist,trigo,27000,27000,53600,1985,2167
+Buenos Aires,Pampeana,Trenque Lauquen,girasol,37500,37500,93750,2500,2700
+Buenos Aires,Pampeana,Trenque Lauquen,maíz,115300,75800,553340,7300,7800
+Buenos Aires,Pampeana,Trenque Lauquen,soja,147087,118587,272522,2298,3286
+Buenos Aires,Pampeana,Trenque Lauquen,trigo,48110,46260,120408,2603,4800
+Buenos Aires,Pampeana,Tres Arroyos,girasol,110925,110925,277313,2500,1960
+Buenos Aires,Pampeana,Tres Arroyos,maíz,89478,62635,281856,4500,4000
+Buenos Aires,Pampeana,Tres Arroyos,soja,83704,83704,209260,2500,1417
+Buenos Aires,Pampeana,Tres Arroyos,trigo,91550,91550,222705,2433,4107
+Buenos Aires,Pampeana,Tres Lomas,girasol,22000,22000,57200,2600,2270
+Buenos Aires,Pampeana,Tres Lomas,maíz,37000,19000,123500,6500,7800
+Buenos Aires,Pampeana,Tres Lomas,soja,27000,27000,75000,2778,3043
+Buenos Aires,Pampeana,Tres Lomas,trigo,13100,12600,36520,2898,3396
+Buenos Aires,Pampeana,Villarino,girasol,2100,2100,4620,2200,1290
+Buenos Aires,Pampeana,Villarino,maíz,7200,4700,37600,8000,8000
+Buenos Aires,Pampeana,Villarino,trigo,21328,21328,25153,1179,1202
+Buenos Aires,Pampeana,Zárate,maíz,3800,3200,15360,4800,6900
+Buenos Aires,Pampeana,Zárate,soja,18100,12050,20525,1703,3028
+Buenos Aires,Pampeana,Zárate,trigo,7600,7000,13300,1900,4800
+Catamarca,Noroeste,Capayán,maíz,100,0,0,0,3100
+Catamarca,Noroeste,Capayán,soja,100,0,0,0,1100
+Catamarca,Noroeste,El Alto,maíz,1100,770,3157,4100,4500
+Catamarca,Noroeste,El Alto,soja,1800,1490,1937,1300,1900
+Catamarca,Noroeste,El Alto,trigo,100,70,42,600,500
+Catamarca,Noroeste,Santa Rosa,girasol,50,50,100,2000,3200
+Catamarca,Noroeste,Santa Rosa,maíz,17000,16210,90776,5600,6100
+Catamarca,Noroeste,Santa Rosa,soja,40600,39860,62011,1556,2300
+Catamarca,Noroeste,Santa Rosa,trigo,19000,18050,18050,1000,1200
+Chaco,Noreste,12 de Octubre,girasol,7200,6900,11040,1600,1700
+Chaco,Noreste,12 de Octubre,maíz,40000,31100,105740,3400,5000
+Chaco,Noreste,12 de Octubre,soja,75000,67890,136524,2011,2801
+Chaco,Noreste,12 de Octubre,trigo,15000,14700,13230,900,1100
+Chaco,Noreste,2 de Abril,girasol,9000,8800,16614,1888,1800
+Chaco,Noreste,2 de Abril,maíz,17000,13180,46130,3500,5200
+Chaco,Noreste,2 de Abril,soja,35900,32810,60089,1831,3017
+Chaco,Noreste,2 de Abril,trigo,7200,6840,6156,900,1300
+Chaco,Noreste,25 de Mayo,girasol,750,700,630,900,1700
+Chaco,Noreste,25 de Mayo,maíz,800,600,1680,2800,2800
+Chaco,Noreste,9 de Julio,girasol,7800,7530,14307,1900,1700
+Chaco,Noreste,9 de Julio,maíz,18000,13420,45628,3400,4800
+Chaco,Noreste,9 de Julio,soja,51124,45996,99794,2170,2737
+Chaco,Noreste,9 de Julio,trigo,9300,9115,9115,1000,1000
+Chaco,Noreste,Almirante Brown,girasol,8000,8000,12000,1500,2300
+Chaco,Noreste,Almirante Brown,maíz,107000,92800,278400,3000,4600
+Chaco,Noreste,Almirante Brown,soja,138000,138000,273900,1985,3183
+Chaco,Noreste,Almirante Brown,trigo,21000,20200,16160,800,1000
+Chaco,Noreste,Chacabuco,girasol,16775,15975,25560,1600,1800
+Chaco,Noreste,Chacabuco,maíz,18000,13950,53010,3800,5000
+Chaco,Noreste,Chacabuco,soja,58300,52800,95840,1815,2631
+Chaco,Noreste,Chacabuco,trigo,12000,11950,13145,1100,800
+Chaco,Noreste,Comandante Fernández,girasol,17000,17000,22100,1300,2300
+Chaco,Noreste,Comandante Fernández,maíz,6000,4300,7740,1800,3000
+Chaco,Noreste,Comandante Fernández,soja,30000,27000,24300,900,1219
+Chaco,Noreste,Comandante Fernández,trigo,9000,8500,9350,1100,1250
+Chaco,Noreste,Fray Justo Santa María de Oro,girasol,11900,11500,18400,1600,1400
+Chaco,Noreste,Fray Justo Santa María de Oro,maíz,6800,5300,16960,3200,4200
+Chaco,Noreste,Fray Justo Santa María de Oro,soja,11200,10046,18269,1819,2501
+Chaco,Noreste,Fray Justo Santa María de Oro,trigo,2250,2136,1922,900,800
+Chaco,Noreste,General Belgrano,girasol,18000,17400,31320,1800,1600
+Chaco,Noreste,General Belgrano,maíz,9900,7900,26860,3400,5000
+Chaco,Noreste,General Belgrano,soja,33300,30170,73845,2448,2766
+Chaco,Noreste,General Belgrano,trigo,3400,3230,3876,1200,1100
+Chaco,Noreste,General Güemes,girasol,7000,6650,7980,1200,0
+Chaco,Noreste,General Güemes,maíz,16000,13500,45900,3400,4200
+Chaco,Noreste,General Güemes,soja,21000,21000,26900,1281,1691
+Chaco,Noreste,General Güemes,trigo,4000,3450,2760,800,700
+Chaco,Noreste,Independencia,girasol,37000,35500,56800,1600,2000
+Chaco,Noreste,Independencia,maíz,17000,11850,34365,2900,4200
+Chaco,Noreste,Independencia,soja,50000,44900,78120,1740,2741
+Chaco,Noreste,Independencia,trigo,15000,13300,9975,750,1200
+Chaco,Noreste,Libertador General San Martín,maíz,1500,620,1178,1900,2800
+Chaco,Noreste,Libertador General San Martín,soja,2500,2100,1410,671,1300
+Chaco,Noreste,Libertador General San Martín,trigo,1900,1400,840,600,0
+Chaco,Noreste,Maipú,girasol,17000,17000,28900,1700,1800
+Chaco,Noreste,Maipú,maíz,22000,19900,79600,4000,3800
+Chaco,Noreste,Maipú,soja,30000,29510,52427,1777,1551
+Chaco,Noreste,Maipú,trigo,7000,6600,6600,1000,1200
+Chaco,Noreste,Mayor Luis J. Fontana,girasol,22750,22050,35280,1600,1400
+Chaco,Noreste,Mayor Luis J. Fontana,maíz,7500,5900,19470,3300,4200
+Chaco,Noreste,Mayor Luis J. Fontana,soja,19400,17550,33975,1936,2514
+Chaco,Noreste,Mayor Luis J. Fontana,trigo,2400,2200,2200,1000,900
+Chaco,Noreste,O'Higgins,girasol,12600,12200,24141,1979,1800
+Chaco,Noreste,O'Higgins,maíz,10500,7960,28656,3600,4900
+Chaco,Noreste,O'Higgins,soja,43600,38530,77488,2011,2834
+Chaco,Noreste,O'Higgins,trigo,3700,3500,4200,1200,1200
+Chaco,Noreste,Presidencia de la Plaza,maíz,210,60,132,2200,2800
+Chaco,Noreste,Quitilipi,girasol,900,900,1170,1300,1400
+Chaco,Noreste,Quitilipi,maíz,1400,700,1330,1900,2600
+Chaco,Noreste,Quitilipi,soja,1900,1730,1985,1147,1349
+Chaco,Noreste,Quitilipi,trigo,1900,1700,1360,800,1400
+Chaco,Noreste,San Fernando,soja,200,180,342,1900,2232
+Chaco,Noreste,San Fernando,trigo,0,0,0,0,700
+Chaco,Noreste,San Lorenzo,girasol,350,320,448,1400,1400
+Chaco,Noreste,San Lorenzo,maíz,500,370,1110,3000,3799
+Chaco,Noreste,San Lorenzo,soja,800,740,1316,1778,2219
+Chaco,Noreste,San Lorenzo,trigo,200,198,158,798,700
+Chaco,Noreste,Sargento Cabral,maíz,400,200,460,2300,3800
+Chaco,Noreste,Sargento Cabral,soja,900,770,770,1000,2200
+Corrientes,Noreste,Bella Vista,maíz,600,300,1350,4500,4500
+Corrientes,Noreste,Berón de Astrada,maíz,400,150,675,4500,4500
+Corrientes,Noreste,Capital,maíz,700,400,1800,4500,4500
+Corrientes,Noreste,Concepción,maíz,500,250,1125,4500,4500
+Corrientes,Noreste,Curuzu Cuatia,maíz,800,500,2250,4500,4500
+Corrientes,Noreste,Curuzu Cuatia,soja,955,955,1233,1291,1325
+Corrientes,Noreste,Curuzu Cuatia,trigo,400,400,1280,3200,2000
+Corrientes,Noreste,Empedrado,maíz,300,200,900,4500,4500
+Corrientes,Noreste,Esquina,girasol,400,400,560,1400,1100
+Corrientes,Noreste,Esquina,maíz,500,300,1350,4500,4500
+Corrientes,Noreste,Esquina,soja,170,170,255,1500,1500
+Corrientes,Noreste,Goya,maíz,500,300,1350,4500,4500
+Corrientes,Noreste,Ituzaingó,maíz,700,450,2025,4500,4500
+Corrientes,Noreste,Ituzaingó,soja,450,450,675,1500,
+Corrientes,Noreste,Lavalle,maíz,900,600,2700,4500,4500
+Corrientes,Noreste,Mercedes,maíz,700,500,2250,4500,4500
+Corrientes,Noreste,Mercedes,soja,200,200,300,1500,1500
+Corrientes,Noreste,Mercedes,trigo,500,500,1600,3200,2000
+Corrientes,Noreste,Paso de los Libres,maíz,400,300,1350,4500,4500
+Corrientes,Noreste,Saladas,maíz,600,350,1575,4500,4500
+Corrientes,Noreste,Saladas,soja,400,400,600,1500,1500
+Corrientes,Noreste,San Luis del Palmar,maíz,1200,800,3600,4500,4500
+Corrientes,Noreste,San Martín,maíz,800,550,2475,4500,4500
+Corrientes,Noreste,San Miguel,maíz,250,200,900,4500,4500
+Corrientes,Noreste,San Miguel,soja,1600,1600,2400,1500,1500
+Corrientes,Noreste,San Roque,maíz,450,350,1575,4500,4500
+Corrientes,Noreste,San Roque,soja,150,150,225,1500,1500
+Corrientes,Noreste,Santo Tomé,maíz,400,250,1125,4500,4500
+Corrientes,Noreste,Sauce,girasol,300,300,420,1400,1100
+Corrientes,Noreste,Sauce,maíz,300,200,900,4500,4500
+Corrientes,Noreste,Sauce,soja,2075,2075,2813,1355,1394
+Corrientes,Noreste,Sauce,trigo,1400,1400,4480,3200,2000
+Córdoba,Pampeana,Calamuchita,maíz,26000,21988,92350,4200,6000
+Córdoba,Pampeana,Calamuchita,soja,40950,40950,44685,1091,2166
+Córdoba,Pampeana,Calamuchita,trigo,1300,1170,1229,1050,2500
+Córdoba,Pampeana,Capital,maíz,5400,5000,25000,5000,7500
+Córdoba,Pampeana,Capital,soja,8500,7600,9076,1194,2499
+Córdoba,Pampeana,Capital,trigo,2500,2500,3500,1400,2500
+Córdoba,Pampeana,Colón,girasol,760,760,1596,2100,2200
+Córdoba,Pampeana,Colón,maíz,55000,43150,280475,6500,7800
+Córdoba,Pampeana,Colón,soja,65652,60202,109344,1816,3086
+Córdoba,Pampeana,Colón,trigo,8300,6970,12269,1760,2824
+Córdoba,Pampeana,Cruz del Eje,girasol,150,150,255,1700,
+Córdoba,Pampeana,Cruz del Eje,maíz,4500,4500,21600,4800,7500
+Córdoba,Pampeana,Cruz del Eje,soja,6000,5000,5500,1100,2567
+Córdoba,Pampeana,General Roca,girasol,43890,43890,83391,1900,2100
+Córdoba,Pampeana,General Roca,maíz,320396,300182,1891147,6300,7900
+Córdoba,Pampeana,General Roca,soja,355072,355072,768488,2164,3042
+Córdoba,Pampeana,General Roca,trigo,62000,62000,130200,2100,3000
+Córdoba,Pampeana,General San Martín,girasol,5200,5200,9360,1800,1800
+Córdoba,Pampeana,General San Martín,maíz,153000,83000,315400,3800,7000
+Córdoba,Pampeana,General San Martín,soja,144000,112000,108400,968,2031
+Córdoba,Pampeana,General San Martín,trigo,60000,53000,90100,1700,3298
+Córdoba,Pampeana,Ischilín,maíz,7800,6070,24280,4000,6800
+Córdoba,Pampeana,Ischilín,soja,7200,6810,9125,1340,2800
+Córdoba,Pampeana,Ischilín,trigo,740,240,336,1400,2100
+Córdoba,Pampeana,Juárez Celman,girasol,3500,3500,6300,1800,2100
+Córdoba,Pampeana,Juárez Celman,maíz,193000,163220,734490,4500,6500
+Córdoba,Pampeana,Juárez Celman,soja,315050,315050,363260,1153,2502
+Córdoba,Pampeana,Juárez Celman,trigo,44000,40000,54000,1350,2900
+Córdoba,Pampeana,Marcos Juárez,girasol,6000,5900,14160,2400,2200
+Córdoba,Pampeana,Marcos Juárez,maíz,218600,184000,1177600,6400,10000
+Córdoba,Pampeana,Marcos Juárez,soja,426726,407926,857102,2101,3601
+Córdoba,Pampeana,Marcos Juárez,trigo,145000,134449,235286,1750,4600
+Córdoba,Pampeana,Pocho,maíz,3500,2960,13912,4700,6000
+Córdoba,Pampeana,Pocho,soja,2000,2000,2400,1200,2900
+Córdoba,Pampeana,Presidente Roque Sáenz Peña,girasol,29939,29939,74848,2500,2300
+Córdoba,Pampeana,Presidente Roque Sáenz Peña,maíz,183288,174970,1277281,7300,9200
+Córdoba,Pampeana,Presidente Roque Sáenz Peña,soja,263126,263126,650046,2470,3323
+Córdoba,Pampeana,Presidente Roque Sáenz Peña,trigo,107440,107440,268468,2499,3151
+Córdoba,Pampeana,Río Cuarto,girasol,7000,7000,12600,1800,1900
+Córdoba,Pampeana,Río Cuarto,maíz,507000,428770,1672203,3900,5500
+Córdoba,Pampeana,Río Cuarto,soja,743500,743500,878100,1181,2354
+Córdoba,Pampeana,Río Cuarto,trigo,49000,44500,55625,1250,2600
+Córdoba,Pampeana,Río Primero,girasol,1950,1900,3420,1800,2100
+Córdoba,Pampeana,Río Primero,maíz,185160,164510,954158,5800,7600
+Córdoba,Pampeana,Río Primero,soja,235575,229175,405515,1769,3011
+Córdoba,Pampeana,Río Primero,trigo,36708,31978,58418,1827,3005
+Córdoba,Pampeana,Río Seco,girasol,440,440,660,1500,1800
+Córdoba,Pampeana,Río Seco,maíz,67440,56690,238098,4200,7000
+Córdoba,Pampeana,Río Seco,soja,71713,69742,89637,1285,2874
+Córdoba,Pampeana,Río Seco,trigo,6150,1320,1584,1200,2100
+Córdoba,Pampeana,Río Segundo,girasol,2000,2000,3400,1700,2000
+Córdoba,Pampeana,Río Segundo,maíz,181000,146000,803000,5500,8000
+Córdoba,Pampeana,Río Segundo,soja,214000,171000,200000,1170,2597
+Córdoba,Pampeana,Río Segundo,trigo,50000,46000,69000,1500,2799
+Córdoba,Pampeana,San Alberto,maíz,1950,1649,7751,4700,9000
+Córdoba,Pampeana,San Alberto,soja,2000,2000,2000,1000,2900
+Córdoba,Pampeana,San Javier,maíz,3000,2537,16491,6500,9000
+Córdoba,Pampeana,San Javier,soja,11700,11700,20000,1709,2978
+Córdoba,Pampeana,San Javier,trigo,3400,3400,11050,3250,3500
+Córdoba,Pampeana,San Justo,girasol,29100,28560,48552,1700,2400
+Córdoba,Pampeana,San Justo,maíz,292900,185720,1132892,6100,8000
+Córdoba,Pampeana,San Justo,soja,431995,420095,630100,1500,2963
+Córdoba,Pampeana,San Justo,trigo,162500,155350,310700,2000,3200
+Córdoba,Pampeana,Santa María,maíz,74000,71000,355000,5000,7000
+Córdoba,Pampeana,Santa María,soja,89300,70800,84240,1190,2384
+Córdoba,Pampeana,Santa María,trigo,3500,3500,4900,1400,2400
+Córdoba,Pampeana,Tercero Arriba,girasol,2200,2200,3740,1700,1800
+Córdoba,Pampeana,Tercero Arriba,maíz,192000,156000,748800,4800,7000
+Córdoba,Pampeana,Tercero Arriba,soja,214000,172000,221200,1286,2426
+Córdoba,Pampeana,Tercero Arriba,trigo,25000,25000,42500,1700,3300
+Córdoba,Pampeana,Totoral,girasol,320,320,576,1800,2100
+Córdoba,Pampeana,Totoral,maíz,83395,74295,386334,5200,7600
+Córdoba,Pampeana,Totoral,soja,93387,86597,128453,1483,2906
+Córdoba,Pampeana,Totoral,trigo,13550,8950,13425,1500,2600
+Córdoba,Pampeana,Tulumba,girasol,130,130,234,1800,1800
+Córdoba,Pampeana,Tulumba,maíz,56395,49420,247100,5000,7200
+Córdoba,Pampeana,Tulumba,soja,56238,53588,79892,1491,2991
+Córdoba,Pampeana,Tulumba,trigo,7250,4660,6664,1430,2407
+Córdoba,Pampeana,Unión,girasol,19600,19450,38900,2000,1700
+Córdoba,Pampeana,Unión,maíz,249500,197600,1106560,5600,9000
+Córdoba,Pampeana,Unión,soja,400350,377450,597450,1583,3298
+Córdoba,Pampeana,Unión,trigo,144100,136406,197811,1450,4199
+Entre Ríos,Pampeana,Colón,maíz,13000,8000,13600,1700,3000
+Entre Ríos,Pampeana,Colón,soja,25500,16500,13475,817,2148
+Entre Ríos,Pampeana,Colón,trigo,12000,11100,34410,3100,3000
+Entre Ríos,Pampeana,Concordia,girasol,390,390,585,1500,1800
+Entre Ríos,Pampeana,Concordia,maíz,6980,6680,23380,3500,4100
+Entre Ríos,Pampeana,Concordia,soja,16700,14100,17798,1262,1977
+Entre Ríos,Pampeana,Concordia,trigo,5500,5500,17050,3100,3000
+Entre Ríos,Pampeana,Diamante,girasol,100,100,230,2300,2000
+Entre Ríos,Pampeana,Diamante,maíz,30000,26900,96840,3600,5000
+Entre Ríos,Pampeana,Diamante,soja,39300,34500,38988,1130,2350
+Entre Ríos,Pampeana,Diamante,trigo,49000,49000,156800,3200,3300
+Entre Ríos,Pampeana,Federación,girasol,400,400,680,1700,
+Entre Ríos,Pampeana,Federación,maíz,4450,3950,13035,3300,4000
+Entre Ríos,Pampeana,Federación,soja,8100,7200,9960,1383,2037
+Entre Ríos,Pampeana,Federación,trigo,4100,4100,13120,3200,2800
+Entre Ríos,Pampeana,Federal,girasol,1650,1650,2805,1700,1800
+Entre Ríos,Pampeana,Federal,maíz,7950,6450,21930,3400,4300
+Entre Ríos,Pampeana,Federal,soja,24600,21100,29615,1404,2076
+Entre Ríos,Pampeana,Federal,trigo,9000,9000,27900,3100,3000
+Entre Ríos,Pampeana,Feliciano,girasol,1800,1800,3060,1700,1900
+Entre Ríos,Pampeana,Feliciano,maíz,5700,5700,19950,3500,4000
+Entre Ríos,Pampeana,Feliciano,soja,12000,10600,13156,1241,2060
+Entre Ríos,Pampeana,Feliciano,trigo,6800,6800,20400,3000,2900
+Entre Ríos,Pampeana,Gualeguay,girasol,50,39,51,1308,1700
+Entre Ríos,Pampeana,Gualeguay,maíz,32000,13000,19500,1500,4300
+Entre Ríos,Pampeana,Gualeguay,soja,81000,50000,41160,823,2786
+Entre Ríos,Pampeana,Gualeguay,trigo,39200,36200,123080,3400,3900
+Entre Ríos,Pampeana,Gualeguaychú,girasol,630,575,690,1200,1700
+Entre Ríos,Pampeana,Gualeguaychú,maíz,84600,55600,105640,1900,3300
+Entre Ríos,Pampeana,Gualeguaychú,soja,134000,83000,76520,922,2671
+Entre Ríos,Pampeana,Gualeguaychú,trigo,75000,71700,243780,3400,3700
+Entre Ríos,Pampeana,La Paz,girasol,7500,7500,11250,1500,2000
+Entre Ríos,Pampeana,La Paz,maíz,37000,30500,109800,3600,4200
+Entre Ríos,Pampeana,La Paz,soja,91000,80000,89180,1115,2095
+Entre Ríos,Pampeana,La Paz,trigo,65000,65000,208000,3200,3100
+Entre Ríos,Pampeana,Nogoyá,girasol,150,138,166,1203,1400
+Entre Ríos,Pampeana,Nogoyá,maíz,51300,35300,67070,1900,3200
+Entre Ríos,Pampeana,Nogoyá,soja,90000,53000,46860,884,2261
+Entre Ríos,Pampeana,Nogoyá,trigo,60000,56000,190400,3400,3300
+Entre Ríos,Pampeana,Paraná,girasol,2850,2850,4560,1600,1900
+Entre Ríos,Pampeana,Paraná,maíz,53500,44000,162800,3700,5000
+Entre Ríos,Pampeana,Paraná,soja,103300,90800,98220,1082,2319
+Entre Ríos,Pampeana,Paraná,trigo,90000,89500,286400,3200,3200
+Entre Ríos,Pampeana,San Salvador,girasol,70,65,72,1108,1500
+Entre Ríos,Pampeana,San Salvador,maíz,5000,2900,4640,1600,2700
+Entre Ríos,Pampeana,San Salvador,soja,20000,8500,7050,829,2126
+Entre Ríos,Pampeana,San Salvador,trigo,7000,6690,20739,3100,3000
+Entre Ríos,Pampeana,Tala,girasol,200,184,221,1201,1600
+Entre Ríos,Pampeana,Tala,maíz,21800,11800,17700,1500,3200
+Entre Ríos,Pampeana,Tala,soja,53000,33000,27600,836,2336
+Entre Ríos,Pampeana,Tala,trigo,30500,28500,91200,3200,3200
+Entre Ríos,Pampeana,Uruguay,girasol,900,830,913,1100,1700
+Entre Ríos,Pampeana,Uruguay,maíz,56000,35000,66500,1900,2650
+Entre Ríos,Pampeana,Uruguay,soja,102000,64000,53400,834,2483
+Entre Ríos,Pampeana,Uruguay,trigo,53000,49200,167280,3400,3100
+Entre Ríos,Pampeana,Victoria,girasol,500,455,546,1200,1600
+Entre Ríos,Pampeana,Victoria,maíz,35600,18600,35340,1900,4300
+Entre Ríos,Pampeana,Victoria,soja,68000,40500,37770,933,2570
+Entre Ríos,Pampeana,Victoria,trigo,57000,54200,173440,3200,3900
+Entre Ríos,Pampeana,Villaguay,girasol,2900,2670,3204,1200,1700
+Entre Ríos,Pampeana,Villaguay,maíz,44400,25400,40640,1600,3100
+Entre Ríos,Pampeana,Villaguay,soja,105000,47000,34200,728,2306
+Entre Ríos,Pampeana,Villaguay,trigo,60000,58000,168200,2900,3200
+Formosa,Noreste,Bermejo,soja,500,500,1000,2000,700
+Formosa,Noreste,Formosa,maíz,4500,1659,6137,3699,5199
+Formosa,Noreste,Laishí,maíz,4300,1585,5864,3700,5000
+Formosa,Noreste,Laishí,soja,4100,4100,7660,1868,1468
+Formosa,Noreste,Laishí,trigo,1500,1500,1840,1227,1327
+Formosa,Noreste,Patiño,girasol,1000,1000,1500,1500,1800
+Formosa,Noreste,Patiño,maíz,17000,6266,23184,3700,2100
+Formosa,Noreste,Patiño,soja,2400,2400,4620,1925,2300
+Formosa,Noreste,Pilagás,maíz,2000,737,2728,3701,3000
+Formosa,Noreste,Pilagás,soja,800,800,1600,2000,2100
+Formosa,Noreste,Pilcomayo,maíz,200,74,273,3689,0
+Formosa,Noreste,Pilcomayo,soja,420,420,840,2000,2251
+Formosa,Noreste,Pirané,girasol,500,500,750,1500,1800
+Formosa,Noreste,Pirané,maíz,16100,5934,21957,3700,4500
+Formosa,Noreste,Pirané,soja,7300,7300,14330,1963,2600
+Jujuy,Noroeste,Dr. Manuel Belgrano,maíz,84,84,336,4000,4000
+Jujuy,Noroeste,Dr. Manuel Belgrano,soja,288,288,432,1500,2601
+Jujuy,Noroeste,Dr. Manuel Belgrano,trigo,0,0,0,0,2289
+Jujuy,Noroeste,El Carmen,maíz,1132,1132,4528,4000,2500
+Jujuy,Noroeste,El Carmen,soja,1128,1128,1691,1500,2600
+Jujuy,Noroeste,El Carmen,trigo,2500,2500,4500,1800,2300
+Jujuy,Noroeste,Ledesma,maíz,84,84,336,4000,4000
+Jujuy,Noroeste,Ledesma,soja,914,914,1371,1500,2603
+Jujuy,Noroeste,Ledesma,trigo,0,0,0,0,2276
+Jujuy,Noroeste,Palpalá,maíz,144,144,576,4000,4000
+Jujuy,Noroeste,Palpalá,soja,144,144,216,1500,2597
+Jujuy,Noroeste,Palpalá,trigo,200,200,360,1800,2300
+Jujuy,Noroeste,San Antonio,maíz,1175,1175,4698,3998,4000
+Jujuy,Noroeste,San Antonio,soja,855,855,1282,1500,2600
+Jujuy,Noroeste,San Antonio,trigo,300,300,540,1800,2300
+Jujuy,Noroeste,San Pedro,maíz,2232,2232,8928,4000,4000
+Jujuy,Noroeste,San Pedro,soja,867,867,1301,1500,2601
+Jujuy,Noroeste,San Pedro,trigo,300,300,540,1800,2301
+Jujuy,Noroeste,Santa Bárbara,maíz,6159,3957,15828,4000,4000
+Jujuy,Noroeste,Santa Bárbara,soja,3604,3604,5406,1500,2322
+Jujuy,Noroeste,Santa Bárbara,trigo,500,500,900,1800,2300
+La Pampa,Pampeana,Atreucó,girasol,49650,49650,124125,2500,2500
+La Pampa,Pampeana,Atreucó,maíz,57000,51300,282150,5500,5500
+La Pampa,Pampeana,Atreucó,soja,4900,4900,9530,1945,2574
+La Pampa,Pampeana,Atreucó,trigo,24500,24500,58800,2400,2450
+La Pampa,Pampeana,Capital,girasol,18200,18200,40040,2200,2200
+La Pampa,Pampeana,Capital,maíz,39800,25273,126365,5000,5000
+La Pampa,Pampeana,Capital,soja,14380,14380,25976,1806,2028
+La Pampa,Pampeana,Capital,trigo,23200,23200,51040,2200,2150
+La Pampa,Pampeana,Catriló,girasol,49400,49400,138320,2800,2800
+La Pampa,Pampeana,Catriló,maíz,52700,45956,252758,5500,6500
+La Pampa,Pampeana,Catriló,soja,40370,40370,91644,2270,2936
+La Pampa,Pampeana,Catriló,trigo,15600,15600,32760,2100,2350
+La Pampa,Pampeana,Chapaleufú,girasol,12700,12400,27280,2200,2500
+La Pampa,Pampeana,Chapaleufú,maíz,64700,54700,419549,7670,8702
+La Pampa,Pampeana,Chapaleufú,soja,101500,96400,204800,2124,3658
+La Pampa,Pampeana,Chapaleufú,trigo,13900,13900,33360,2400,3200
+La Pampa,Pampeana,Conhelo,girasol,25400,24900,44820,1800,2300
+La Pampa,Pampeana,Conhelo,maíz,84700,52300,339427,6490,6101
+La Pampa,Pampeana,Conhelo,soja,27400,24900,38440,1544,2489
+La Pampa,Pampeana,Conhelo,trigo,13900,13500,24300,1800,2600
+La Pampa,Pampeana,Guatraché,girasol,500,500,900,1800,1800
+La Pampa,Pampeana,Guatraché,maíz,17300,6936,27744,4000,4000
+La Pampa,Pampeana,Guatraché,trigo,26000,26000,54600,2100,2150
+La Pampa,Pampeana,Hucal,girasol,500,500,750,1500,1500
+La Pampa,Pampeana,Hucal,maíz,4500,540,1890,3500,3500
+La Pampa,Pampeana,Hucal,trigo,9800,9800,19600,2000,1950
+La Pampa,Pampeana,Maracó,girasol,18300,17900,39380,2200,2500
+La Pampa,Pampeana,Maracó,maíz,48100,30700,238846,7780,8333
+La Pampa,Pampeana,Maracó,soja,76100,72300,135240,1871,3195
+La Pampa,Pampeana,Maracó,trigo,26500,26500,63600,2400,3200
+La Pampa,Pampeana,Quemú Quemú,girasol,38200,37400,82280,2200,2400
+La Pampa,Pampeana,Quemú Quemú,maíz,54300,43300,340338,7860,8441
+La Pampa,Pampeana,Quemú Quemú,soja,47800,45500,79200,1741,3210
+La Pampa,Pampeana,Quemú Quemú,trigo,14300,14300,25740,1800,3000
+La Pampa,Pampeana,Rancul,girasol,21600,21200,38160,1800,2300
+La Pampa,Pampeana,Rancul,maíz,73000,61500,395445,6430,7909
+La Pampa,Pampeana,Rancul,soja,56200,50600,79760,1576,2770
+La Pampa,Pampeana,Rancul,trigo,3400,3400,6120,1800,2700
+La Pampa,Pampeana,Realicó,girasol,26000,25500,51000,2000,2500
+La Pampa,Pampeana,Realicó,maíz,75200,54700,403686,7380,8394
+La Pampa,Pampeana,Realicó,soja,39800,35800,64240,1794,3190
+La Pampa,Pampeana,Realicó,trigo,9900,8900,17800,2000,2800
+La Pampa,Pampeana,Toay,girasol,4150,4150,6225,1500,1500
+La Pampa,Pampeana,Toay,maíz,44200,13174,52696,4000,4000
+La Pampa,Pampeana,Toay,soja,3700,3700,5350,1446,2149
+La Pampa,Pampeana,Toay,trigo,12000,12000,24000,2000,1950
+La Pampa,Pampeana,Trenel,girasol,17000,16700,30060,1800,2300
+La Pampa,Pampeana,Trenel,maíz,53900,29000,188210,6490,7425
+La Pampa,Pampeana,Trenel,soja,17900,16400,24040,1466,2568
+La Pampa,Pampeana,Trenel,trigo,12700,12500,22500,1800,2700
+La Pampa,Pampeana,Utracán,girasol,300,300,450,1500,1500
+La Pampa,Pampeana,Utracán,maíz,11000,4840,19360,4000,4000
+La Pampa,Pampeana,Utracán,soja,1000,1000,1200,1200,1800
+La Pampa,Pampeana,Utracán,trigo,1000,1000,2000,2000,1950
+Misiones,Noreste,25 de Mayo,maíz,6050,5105,20420,4000,3500
+Misiones,Noreste,25 de Mayo,soja,1890,1890,4347,2300,1500
+Misiones,Noreste,Apóstoles,maíz,550,464,1854,3996,3502
+Misiones,Noreste,Cainguás,maíz,2970,2503,10012,4000,3500
+Misiones,Noreste,Cainguás,soja,95,95,217,2300,1511
+Misiones,Noreste,Candelaria,maíz,50,42,168,4000,3200
+Misiones,Noreste,Capital,maíz,220,186,742,3989,3505
+Misiones,Noreste,Concepción,maíz,55,43,171,3977,3500
+Misiones,Noreste,Eldorado,maíz,330,278,1112,4000,3503
+Misiones,Noreste,General Manuel Belgrano,maíz,5390,4543,18170,4000,3500
+Misiones,Noreste,General Manuel Belgrano,soja,263,263,604,2300,1503
+Misiones,Noreste,Guaraní,maíz,12100,10197,40788,4000,3500
+Misiones,Noreste,Guaraní,soja,1260,1260,2898,2300,1500
+Misiones,Noreste,Iguazú,maíz,550,464,1854,3996,3500
+Misiones,Noreste,Leandro N. Alem,maíz,770,649,2596,4000,3501
+Misiones,Noreste,Leandro N. Alem,soja,32,32,72,2300,1520
+Misiones,Noreste,Libertador General San Martín,maíz,330,163,650,3988,3503
+Misiones,Noreste,Montecarlo,maíz,264,222,890,4009,3500
+Misiones,Noreste,Montecarlo,soja,50,50,115,2300,
+Misiones,Noreste,Oberá,maíz,770,649,2596,4000,3500
+Misiones,Noreste,Oberá,soja,42,42,97,2300,1500
+Misiones,Noreste,San Ignacio,maíz,110,93,370,3978,3509
+Misiones,Noreste,San Javier,maíz,825,695,2781,4001,3496
+Misiones,Noreste,San Javier,soja,42,42,97,2300,1500
+Misiones,Noreste,San Pedro,maíz,2970,2503,10012,4000,3500
+Misiones,Noreste,San Pedro,soja,315,315,725,2300,1500
+Salta,Noroeste,Anta,girasol,980,980,1176,1200,1200
+Salta,Noroeste,Anta,maíz,193600,180816,1030651,5700,6400
+Salta,Noroeste,Anta,soja,170770,170770,302009,1769,1751
+Salta,Noroeste,Anta,trigo,25432,25282,37895,1499,1468
+Salta,Noroeste,Capital,maíz,1200,1200,6960,5800,6600
+Salta,Noroeste,Capital,soja,1541,1541,2572,1669,1881
+Salta,Noroeste,Capital,trigo,271,271,298,1100,1100
+Salta,Noroeste,Cerrillos,girasol,20,20,26,1300,
+Salta,Noroeste,Cerrillos,maíz,990,990,5742,5800,6600
+Salta,Noroeste,Cerrillos,soja,1022,1022,1503,1470,1833
+Salta,Noroeste,Cerrillos,trigo,627,627,690,1100,1200
+Salta,Noroeste,Chicoana,girasol,65,65,85,1308,1400
+Salta,Noroeste,Chicoana,maíz,1350,1350,7830,5800,6599
+Salta,Noroeste,Chicoana,soja,660,660,996,1509,1800
+Salta,Noroeste,Chicoana,trigo,460,460,506,1100,1100
+Salta,Noroeste,General Güemes,maíz,7350,6882,39916,5800,6400
+Salta,Noroeste,General Güemes,soja,3957,3957,6140,1552,1779
+Salta,Noroeste,General Güemes,trigo,905,905,724,800,1122
+Salta,Noroeste,General José de San Martín,maíz,74440,69402,395591,5700,6200
+Salta,Noroeste,General José de San Martín,soja,52489,52089,76212,1463,1528
+Salta,Noroeste,General José de San Martín,trigo,9509,9409,8468,900,800
+Salta,Noroeste,Guachipas,soja,25,25,40,1600,1600
+Salta,Noroeste,La Caldera,maíz,150,150,855,5700,6500
+Salta,Noroeste,La Caldera,soja,84,84,130,1543,1800
+Salta,Noroeste,La Caldera,trigo,45,45,45,1000,1120
+Salta,Noroeste,La Candelaria,maíz,4650,4425,25223,5700,6300
+Salta,Noroeste,La Candelaria,soja,1930,1930,3135,1624,1611
+Salta,Noroeste,La Candelaria,trigo,1275,1275,1020,800,800
+Salta,Noroeste,La Viña,maíz,180,180,1044,5800,6300
+Salta,Noroeste,La Viña,soja,120,120,184,1533,1533
+Salta,Noroeste,La Viña,trigo,48,48,43,896,1000
+Salta,Noroeste,Metán,girasol,175,175,245,1400,1300
+Salta,Noroeste,Metán,maíz,32560,30455,179685,5900,6400
+Salta,Noroeste,Metán,soja,30590,30590,53192,1739,1766
+Salta,Noroeste,Metán,trigo,9098,9098,9098,1000,1100
+Salta,Noroeste,Orán,maíz,14010,13469,76773,5700,6300
+Salta,Noroeste,Orán,soja,12356,12356,17724,1434,1509
+Salta,Noroeste,Orán,trigo,4615,4565,4109,900,800
+Salta,Noroeste,Rivadavia,maíz,6800,6274,35762,5700,6100
+Salta,Noroeste,Rivadavia,soja,9575,9575,16263,1698,1700
+Salta,Noroeste,Rivadavia,trigo,195,195,195,1000,
+Salta,Noroeste,Rosario de Lerma,girasol,25,25,35,1400,1533
+Salta,Noroeste,Rosario de Lerma,maíz,250,250,1500,6000,6800
+Salta,Noroeste,Rosario de Lerma,soja,708,708,1087,1535,1868
+Salta,Noroeste,Rosario de Lerma,trigo,585,585,644,1101,1200
+Salta,Noroeste,Rosario de la Frontera,girasol,205,205,246,1200,
+Salta,Noroeste,Rosario de la Frontera,maíz,41020,38148,221258,5800,6300
+Salta,Noroeste,Rosario de la Frontera,soja,23834,23834,41488,1741,1744
+Salta,Noroeste,Rosario de la Frontera,trigo,6945,6945,6238,898,914
+San Luis,Cuyo,Ayacucho,girasol,500,500,1550,3100,3200
+San Luis,Cuyo,Ayacucho,maíz,10500,10350,112815,10900,12000
+San Luis,Cuyo,Ayacucho,soja,4600,4600,13300,2891,3436
+San Luis,Cuyo,Ayacucho,trigo,3700,3700,9020,2438,4109
+San Luis,Cuyo,Chacabuco,girasol,2700,2700,4590,1700,1800
+San Luis,Cuyo,Chacabuco,maíz,32700,23700,66360,2800,3800
+San Luis,Cuyo,Chacabuco,soja,27000,19000,19000,1000,1800
+San Luis,Cuyo,Chacabuco,trigo,600,400,480,1200,1800
+San Luis,Cuyo,Coronel Pringles,girasol,9000,8850,15930,1800,1900
+San Luis,Cuyo,Coronel Pringles,maíz,63500,50500,161600,3200,5200
+San Luis,Cuyo,Coronel Pringles,soja,50500,44000,57200,1300,2390
+San Luis,Cuyo,Coronel Pringles,trigo,1100,700,1000,1429,2100
+San Luis,Cuyo,General Pedernera,girasol,47500,47200,80240,1700,1900
+San Luis,Cuyo,General Pedernera,maíz,177000,149000,491700,3300,4700
+San Luis,Cuyo,General Pedernera,soja,85000,77000,130900,1700,2191
+San Luis,Cuyo,General Pedernera,trigo,700,350,420,1200,2100
+San Luis,Cuyo,Gobernador Dupuy,girasol,24000,24000,40800,1700,1700
+San Luis,Cuyo,Gobernador Dupuy,maíz,66000,53000,164300,3100,4700
+San Luis,Cuyo,Gobernador Dupuy,soja,24000,23000,39100,1700,2171
+San Luis,Cuyo,Gobernador Dupuy,trigo,2800,500,500,1000,1700
+San Luis,Cuyo,Juan Martín de Pueyrredón,girasol,12000,12000,19200,1600,1800
+San Luis,Cuyo,Juan Martín de Pueyrredón,maíz,41000,31000,108500,3500,4500
+San Luis,Cuyo,Juan Martín de Pueyrredón,soja,23000,22000,37400,1700,2300
+San Luis,Cuyo,Juan Martín de Pueyrredón,trigo,150,100,140,1400,2100
+San Luis,Cuyo,Junín,girasol,600,600,1440,2400,3300
+San Luis,Cuyo,Junín,maíz,6000,5600,42000,7500,8000
+San Luis,Cuyo,Junín,soja,5300,4900,15420,3147,2049
+San Luis,Cuyo,Junín,trigo,1150,1150,2690,2339,3860
+San Luis,Cuyo,Libertador General San Martín,girasol,800,800,1360,1700,1700
+San Luis,Cuyo,Libertador General San Martín,maíz,4000,2800,6720,2400,5500
+San Luis,Cuyo,Libertador General San Martín,soja,3000,2000,1800,900,2500
+Santa Fe,Pampeana,9 de Julio,girasol,55000,55000,88000,1600,1850
+Santa Fe,Pampeana,9 de Julio,maíz,123100,109700,411375,3750,4500
+Santa Fe,Pampeana,9 de Julio,soja,127800,121410,204345,1683,2302
+Santa Fe,Pampeana,9 de Julio,trigo,17000,17000,18700,1100,1700
+Santa Fe,Pampeana,Belgrano,girasol,395,395,711,1800,
+Santa Fe,Pampeana,Belgrano,maíz,62174,48242,130253,2700,7500
+Santa Fe,Pampeana,Belgrano,soja,137042,122042,209865,1720,3349
+Santa Fe,Pampeana,Belgrano,trigo,49258,47258,89790,1900,5000
+Santa Fe,Pampeana,Caseros,girasol,3500,3500,5250,1500,2500
+Santa Fe,Pampeana,Caseros,maíz,70000,56000,207200,3700,6700
+Santa Fe,Pampeana,Caseros,soja,195000,165000,243700,1477,2392
+Santa Fe,Pampeana,Caseros,trigo,33963,27963,40546,1450,4800
+Santa Fe,Pampeana,Castellanos,girasol,17470,17470,34940,2000,3000
+Santa Fe,Pampeana,Castellanos,maíz,104422,36722,128527,3500,6200
+Santa Fe,Pampeana,Castellanos,soja,306328,265428,595297,2243,3447
+Santa Fe,Pampeana,Castellanos,trigo,114330,114330,342990,3000,4300
+Santa Fe,Pampeana,Garay,girasol,250,250,525,2100,2600
+Santa Fe,Pampeana,Garay,maíz,2800,1960,2352,1200,3800
+Santa Fe,Pampeana,Garay,soja,3750,3350,5110,1525,2600
+Santa Fe,Pampeana,Garay,trigo,750,750,1950,2600,3200
+Santa Fe,Pampeana,General López,girasol,1500,1500,3900,2600,2800
+Santa Fe,Pampeana,General López,maíz,195000,153000,872100,5700,8936
+Santa Fe,Pampeana,General López,soja,530000,460000,672000,1461,3488
+Santa Fe,Pampeana,General López,trigo,195000,135000,229500,1700,4800
+Santa Fe,Pampeana,General Obligado,girasol,85000,85000,93500,1100,1750
+Santa Fe,Pampeana,General Obligado,maíz,38400,26500,67045,2530,3260
+Santa Fe,Pampeana,General Obligado,soja,72900,68950,61408,891,1423
+Santa Fe,Pampeana,General Obligado,trigo,53000,52400,125760,2400,1600
+Santa Fe,Pampeana,Iriondo,girasol,1823,1823,3099,1700,
+Santa Fe,Pampeana,Iriondo,maíz,63677,40075,100188,2500,6500
+Santa Fe,Pampeana,Iriondo,soja,188776,173776,282999,1629,3154
+Santa Fe,Pampeana,Iriondo,trigo,49000,46600,116500,2500,4500
+Santa Fe,Pampeana,La Capital,girasol,6000,6000,10800,1800,2800
+Santa Fe,Pampeana,La Capital,maíz,15000,7800,14820,1900,4600
+Santa Fe,Pampeana,La Capital,soja,32400,27400,41900,1529,2527
+Santa Fe,Pampeana,La Capital,trigo,13000,13000,45500,3500,3500
+Santa Fe,Pampeana,Las Colonias,girasol,32900,32900,72380,2200,3000
+Santa Fe,Pampeana,Las Colonias,maíz,101779,37479,119933,3200,5800
+Santa Fe,Pampeana,Las Colonias,soja,192183,165783,372304,2246,3278
+Santa Fe,Pampeana,Las Colonias,trigo,71500,71500,214500,3000,3800
+Santa Fe,Pampeana,Rosario,girasol,1000,1000,1500,1500,2000
+Santa Fe,Pampeana,Rosario,maíz,37800,19000,57000,3000,4500
+Santa Fe,Pampeana,Rosario,soja,66000,43000,48576,1130,1769
+Santa Fe,Pampeana,Rosario,trigo,16000,11000,11550,1050,4800
+Santa Fe,Pampeana,San Cristóbal,girasol,89780,89780,152626,1700,2400
+Santa Fe,Pampeana,San Cristóbal,maíz,140862,34162,119567,3500,4300
+Santa Fe,Pampeana,San Cristóbal,soja,126075,110175,149980,1361,2835
+Santa Fe,Pampeana,San Cristóbal,trigo,40200,40200,104520,2600,2800
+Santa Fe,Pampeana,San Javier,girasol,18000,18000,19800,1100,1950
+Santa Fe,Pampeana,San Javier,maíz,6800,2100,5523,2630,4110
+Santa Fe,Pampeana,San Javier,soja,23000,21400,16920,791,1770
+Santa Fe,Pampeana,San Javier,trigo,13000,13000,40300,3100,2000
+Santa Fe,Pampeana,San Jerónimo,girasol,4020,4020,7236,1800,2800
+Santa Fe,Pampeana,San Jerónimo,maíz,51452,34758,86895,2500,5500
+Santa Fe,Pampeana,San Jerónimo,soja,142720,122720,149894,1221,2811
+Santa Fe,Pampeana,San Jerónimo,trigo,61776,59176,106517,1800,4200
+Santa Fe,Pampeana,San Justo,girasol,33340,33340,66680,2000,2800
+Santa Fe,Pampeana,San Justo,maíz,44328,29028,58056,2000,4400
+Santa Fe,Pampeana,San Justo,soja,116372,103972,155900,1499,2600
+Santa Fe,Pampeana,San Justo,trigo,33600,33600,134400,4000,3599
+Santa Fe,Pampeana,San Lorenzo,girasol,1100,1100,1650,1500,2000
+Santa Fe,Pampeana,San Lorenzo,maíz,34000,25000,87500,3500,5300
+Santa Fe,Pampeana,San Lorenzo,soja,116000,90000,123948,1377,2022
+Santa Fe,Pampeana,San Lorenzo,trigo,30860,25860,37497,1450,4800
+Santa Fe,Pampeana,San Martín,girasol,7537,7537,11306,1500,2600
+Santa Fe,Pampeana,San Martín,maíz,102518,77814,194535,2500,5500
+Santa Fe,Pampeana,San Martín,soja,269761,229761,310924,1353,3080
+Santa Fe,Pampeana,San Martín,trigo,104924,101924,203848,2000,4000
+Santa Fe,Pampeana,Vera,girasol,28000,28000,25200,900,2200
+Santa Fe,Pampeana,Vera,maíz,10800,800,2080,2600,4540
+Santa Fe,Pampeana,Vera,soja,44100,39700,26340,663,1752
+Santa Fe,Pampeana,Vera,trigo,20400,20400,59160,2900,2600
+Santa Fe,Pampeana,Villa Constitución,girasol,1400,1400,2100,1500,2200
+Santa Fe,Pampeana,Villa Constitución,maíz,56600,37600,112800,3000,5700
+Santa Fe,Pampeana,Villa Constitución,soja,183000,139000,158260,1139,2024
+Santa Fe,Pampeana,Villa Constitución,trigo,35614,26614,30606,1150,4800
+Santiago del Estero,Noroeste,Aguirre,girasol,3300,3300,3630,1100,1360
+Santiago del Estero,Noroeste,Aguirre,maíz,21000,19131,86090,4500,6800
+Santiago del Estero,Noroeste,Aguirre,soja,30500,30500,73900,2423,2800
+Santiago del Estero,Noroeste,Aguirre,trigo,8920,4920,5904,1200,1100
+Santiago del Estero,Noroeste,Alberdi,girasol,600,600,420,700,
+Santiago del Estero,Noroeste,Alberdi,maíz,81000,73791,442746,6000,7500
+Santiago del Estero,Noroeste,Alberdi,soja,122455,122455,334028,2728,3279
+Santiago del Estero,Noroeste,Alberdi,trigo,5000,1900,2090,1100,1000
+Santiago del Estero,Noroeste,Atamisqui,soja,500,500,750,1500,
+Santiago del Estero,Noroeste,Avellaneda,maíz,5500,5011,27558,5500,6900
+Santiago del Estero,Noroeste,Avellaneda,soja,5600,5600,14392,2570,2900
+Santiago del Estero,Noroeste,Banda,maíz,5000,4000,22000,5500,6500
+Santiago del Estero,Noroeste,Banda,soja,5000,5000,7500,1500,2500
+Santiago del Estero,Noroeste,Banda,trigo,1000,1000,2000,2000,2200
+Santiago del Estero,Noroeste,Belgrano,girasol,22500,22500,27000,1200,1700
+Santiago del Estero,Noroeste,Belgrano,maíz,49000,44639,281226,6300,7500
+Santiago del Estero,Noroeste,Belgrano,soja,125250,125250,343530,2743,3200
+Santiago del Estero,Noroeste,Belgrano,trigo,41200,22200,26640,1200,1600
+Santiago del Estero,Noroeste,Capital,girasol,200,200,240,1200,
+Santiago del Estero,Noroeste,Capital,maíz,5000,4000,22000,5500,7500
+Santiago del Estero,Noroeste,Capital,soja,5000,5000,7500,1500,2500
+Santiago del Estero,Noroeste,Capital,trigo,5000,5000,10000,2000,2000
+Santiago del Estero,Noroeste,Choya,girasol,250,250,375,1500,1200
+Santiago del Estero,Noroeste,Choya,maíz,6000,4800,26400,5500,7500
+Santiago del Estero,Noroeste,Choya,soja,7000,7000,10500,1500,2500
+Santiago del Estero,Noroeste,Choya,trigo,1000,1000,1000,1000,1500
+Santiago del Estero,Noroeste,Copo,girasol,1500,1500,1050,700,
+Santiago del Estero,Noroeste,Copo,maíz,11400,10385,70621,6800,7200
+Santiago del Estero,Noroeste,Copo,soja,20200,20200,51795,2564,2993
+Santiago del Estero,Noroeste,Copo,trigo,510,230,207,900,1100
+Santiago del Estero,Noroeste,Figueroa,girasol,500,500,750,1500,
+Santiago del Estero,Noroeste,Figueroa,maíz,5000,4000,22000,5500,7500
+Santiago del Estero,Noroeste,Figueroa,soja,4500,4500,6750,1500,2500
+Santiago del Estero,Noroeste,Figueroa,trigo,3500,3500,7000,2000,2000
+Santiago del Estero,Noroeste,General Taboada,girasol,10700,10700,12840,1200,1785
+Santiago del Estero,Noroeste,General Taboada,maíz,101000,92011,644077,7000,7600
+Santiago del Estero,Noroeste,General Taboada,soja,200800,200800,522368,2601,3200
+Santiago del Estero,Noroeste,General Taboada,trigo,72700,39430,43373,1100,1500
+Santiago del Estero,Noroeste,Guasayán,girasol,550,550,825,1500,1200
+Santiago del Estero,Noroeste,Guasayán,maíz,15000,13400,73700,5500,7500
+Santiago del Estero,Noroeste,Guasayán,soja,8000,8000,12000,1500,2500
+Santiago del Estero,Noroeste,Guasayán,trigo,5000,5000,5000,1000,1500
+Santiago del Estero,Noroeste,Jiménez,girasol,650,650,975,1500,
+Santiago del Estero,Noroeste,Jiménez,maíz,55000,44000,264000,6000,7500
+Santiago del Estero,Noroeste,Jiménez,soja,85000,85000,147500,1735,2500
+Santiago del Estero,Noroeste,Jiménez,trigo,30000,30000,45000,1500,2000
+Santiago del Estero,Noroeste,Juan F. Ibarra,girasol,3000,3000,2100,700,1360
+Santiago del Estero,Noroeste,Juan F. Ibarra,maíz,68000,61948,396467,6400,7300
+Santiago del Estero,Noroeste,Juan F. Ibarra,soja,77905,77905,215313,2764,3261
+Santiago del Estero,Noroeste,Juan F. Ibarra,trigo,5060,2950,3245,1100,1100
+Santiago del Estero,Noroeste,Loreto,maíz,12000,11200,61600,5500,7500
+Santiago del Estero,Noroeste,Loreto,soja,3000,3000,4500,1500,2500
+Santiago del Estero,Noroeste,Loreto,trigo,1000,1000,2000,2000,2000
+Santiago del Estero,Noroeste,Mitre,maíz,15000,12000,66000,5500,7500
+Santiago del Estero,Noroeste,Mitre,soja,13000,13000,19500,1500,2500
+Santiago del Estero,Noroeste,Mitre,trigo,4000,4000,4800,1200,1800
+Santiago del Estero,Noroeste,Moreno,girasol,1800,1800,1260,700,1106
+Santiago del Estero,Noroeste,Moreno,maíz,240500,219096,1424121,6500,7500
+Santiago del Estero,Noroeste,Moreno,soja,290600,290600,830100,2857,3359
+Santiago del Estero,Noroeste,Moreno,trigo,21800,10030,12036,1200,1100
+Santiago del Estero,Noroeste,Ojo de Agua,soja,6500,6500,9750,1500,
+Santiago del Estero,Noroeste,Pellegrini,girasol,500,500,750,1500,1500
+Santiago del Estero,Noroeste,Pellegrini,maíz,57000,49000,269500,5500,7500
+Santiago del Estero,Noroeste,Pellegrini,soja,61500,61500,100200,1629,2500
+Santiago del Estero,Noroeste,Pellegrini,trigo,25200,25200,37700,1496,1998
+Santiago del Estero,Noroeste,Quebrachos,girasol,320,320,480,1500,
+Santiago del Estero,Noroeste,Quebrachos,maíz,10000,10000,50000,5000,0
+Santiago del Estero,Noroeste,Quebrachos,soja,2500,2500,3750,1500,
+Santiago del Estero,Noroeste,Rivadavia,girasol,15000,15000,18000,1200,1700
+Santiago del Estero,Noroeste,Rivadavia,maíz,31000,28241,169446,6000,7300
+Santiago del Estero,Noroeste,Rivadavia,soja,21390,21390,56896,2660,3199
+Santiago del Estero,Noroeste,Rivadavia,trigo,7280,3890,4668,1200,1300
+Santiago del Estero,Noroeste,Robles,maíz,4000,3200,17600,5500,8000
+Santiago del Estero,Noroeste,Robles,soja,5000,5000,7500,1500,2500
+Santiago del Estero,Noroeste,Robles,trigo,3200,3200,6200,1938,1982
+Santiago del Estero,Noroeste,Río Hondo,maíz,10000,8000,44000,5500,8000
+Santiago del Estero,Noroeste,Río Hondo,soja,15500,15500,23250,1500,2500
+Santiago del Estero,Noroeste,Río Hondo,trigo,11500,11500,16500,1435,1968
+Santiago del Estero,Noroeste,San Martín,maíz,4000,3200,17600,5500,7500
+Santiago del Estero,Noroeste,San Martín,soja,8000,8000,12000,1500,2500
+Santiago del Estero,Noroeste,San Martín,trigo,10000,10000,15000,1500,2000
+Santiago del Estero,Noroeste,Sarmiento,maíz,5700,5193,28560,5500,6700
+Santiago del Estero,Noroeste,Sarmiento,soja,800,800,2160,2700,2800
+Santiago del Estero,Noroeste,Silípica,maíz,5000,4000,22000,5500,7500
+Santiago del Estero,Noroeste,Silípica,soja,4000,4000,6000,1500,2500
+Santiago del Estero,Noroeste,Silípica,trigo,1500,1500,3000,2000,2200
+Tucumán,Noroeste,Burruyacú,girasol,80,80,160,2000,3100
+Tucumán,Noroeste,Burruyacú,maíz,40100,38150,179305,4700,5500
+Tucumán,Noroeste,Burruyacú,soja,63400,62080,80704,1300,1800
+Tucumán,Noroeste,Burruyacú,trigo,26100,24550,19640,800,700
+Tucumán,Noroeste,Capital,soja,50,50,75,1500,2200
+Tucumán,Noroeste,Capital,trigo,50,50,50,1000,891
+Tucumán,Noroeste,Chicligasta,soja,950,950,1615,1700,2300
+Tucumán,Noroeste,Cruz Alta,maíz,10700,10140,51714,5100,5600
+Tucumán,Noroeste,Cruz Alta,soja,26100,25750,38625,1500,1900
+Tucumán,Noroeste,Cruz Alta,trigo,9200,8810,8810,1000,983
+Tucumán,Noroeste,Famaillá,soja,800,800,1440,1800,2300
+Tucumán,Noroeste,Famaillá,trigo,250,250,275,1100,1103
+Tucumán,Noroeste,Graneros,maíz,14300,13310,57233,4300,5300
+Tucumán,Noroeste,Graneros,soja,18000,17540,24556,1400,1700
+Tucumán,Noroeste,Graneros,trigo,10200,9670,5802,600,700
+Tucumán,Noroeste,Juan Bautista Alberdi,soja,2100,2100,3780,1800,1941
+Tucumán,Noroeste,Juan Bautista Alberdi,trigo,300,300,300,1000,1102
+Tucumán,Noroeste,La Cocha,girasol,50,50,100,2000,3000
+Tucumán,Noroeste,La Cocha,maíz,6700,5310,26550,5000,5400
+Tucumán,Noroeste,La Cocha,soja,20600,20240,30360,1500,1844
+Tucumán,Noroeste,La Cocha,trigo,11880,10440,7308,700,705
+Tucumán,Noroeste,Leales,maíz,15300,14040,68796,4900,5500
+Tucumán,Noroeste,Leales,soja,27800,27210,35373,1300,1800
+Tucumán,Noroeste,Leales,trigo,15300,14325,8595,600,800
+Tucumán,Noroeste,Lules,soja,1200,1200,2400,2000,2400
+Tucumán,Noroeste,Lules,trigo,300,300,330,1100,1101
+Tucumán,Noroeste,Monteros,soja,500,500,950,1900,2300
+Tucumán,Noroeste,Río Chico,soja,400,400,760,1900,2200
+Tucumán,Noroeste,Simoca,maíz,450,250,1250,5000,5600
+Tucumán,Noroeste,Simoca,soja,2800,2800,4200,1500,2000
+Tucumán,Noroeste,Simoca,trigo,200,200,200,1000,898
+Tucumán,Noroeste,Tafí Viejo,soja,180,180,270,1500,2000
+Tucumán,Noroeste,Tafí Viejo,trigo,150,150,135,900,1000
+Tucumán,Noroeste,Tafí del Valle,maíz,20,0,0,0,4000
+Tucumán,Noroeste,Trancas,maíz,800,200,1040,5200,5800

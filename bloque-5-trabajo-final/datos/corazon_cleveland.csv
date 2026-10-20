@@ -1,0 +1,304 @@
+edad,sexo,dolor_pecho,presion_reposo,colesterol,glucemia_ayunas_alta,ecg_reposo,frecuencia_maxima,angina_ejercicio,depresion_st,pendiente_st,vasos_coloreados,talio,diagnostico,enfermedad
+63,varón,angina típica,145,233,sí,hipertrofia ventricular,150,no,2.3,descendente,0,defecto fijo,0,no
+67,varón,asintomático,160,286,no,hipertrofia ventricular,108,sí,1.5,plana,3,normal,2,sí
+67,varón,asintomático,120,229,no,hipertrofia ventricular,129,sí,2.6,plana,2,defecto reversible,1,sí
+37,varón,dolor no anginoso,130,250,no,normal,187,no,3.5,descendente,0,normal,0,no
+41,mujer,angina atípica,130,204,no,hipertrofia ventricular,172,no,1.4,ascendente,0,normal,0,no
+56,varón,angina atípica,120,236,no,normal,178,no,0.8,ascendente,0,normal,0,no
+62,mujer,asintomático,140,268,no,hipertrofia ventricular,160,no,3.6,descendente,2,normal,3,sí
+57,mujer,asintomático,120,354,no,normal,163,sí,0.6,ascendente,0,normal,0,no
+63,varón,asintomático,130,254,no,hipertrofia ventricular,147,no,1.4,plana,1,defecto reversible,2,sí
+53,varón,asintomático,140,203,sí,hipertrofia ventricular,155,sí,3.1,descendente,0,defecto reversible,1,sí
+57,varón,asintomático,140,192,no,normal,148,no,0.4,plana,0,defecto fijo,0,no
+56,mujer,angina atípica,140,294,no,hipertrofia ventricular,153,no,1.3,plana,0,normal,0,no
+56,varón,dolor no anginoso,130,256,sí,hipertrofia ventricular,142,sí,0.6,plana,1,defecto fijo,2,sí
+44,varón,angina atípica,120,263,no,normal,173,no,0.0,ascendente,0,defecto reversible,0,no
+52,varón,dolor no anginoso,172,199,sí,normal,162,no,0.5,ascendente,0,defecto reversible,0,no
+57,varón,dolor no anginoso,150,168,no,normal,174,no,1.6,ascendente,0,normal,0,no
+48,varón,angina atípica,110,229,no,normal,168,no,1.0,descendente,0,defecto reversible,1,sí
+54,varón,asintomático,140,239,no,normal,160,no,1.2,ascendente,0,normal,0,no
+48,mujer,dolor no anginoso,130,275,no,normal,139,no,0.2,ascendente,0,normal,0,no
+49,varón,angina atípica,130,266,no,normal,171,no,0.6,ascendente,0,normal,0,no
+64,varón,angina típica,110,211,no,hipertrofia ventricular,144,sí,1.8,plana,0,normal,0,no
+58,mujer,angina típica,150,283,sí,hipertrofia ventricular,162,no,1.0,ascendente,0,normal,0,no
+58,varón,angina atípica,120,284,no,hipertrofia ventricular,160,no,1.8,plana,0,normal,1,sí
+58,varón,dolor no anginoso,132,224,no,hipertrofia ventricular,173,no,3.2,ascendente,2,defecto reversible,3,sí
+60,varón,asintomático,130,206,no,hipertrofia ventricular,132,sí,2.4,plana,2,defecto reversible,4,sí
+50,mujer,dolor no anginoso,120,219,no,normal,158,no,1.6,plana,0,normal,0,no
+58,mujer,dolor no anginoso,120,340,no,normal,172,no,0.0,ascendente,0,normal,0,no
+66,mujer,angina típica,150,226,no,normal,114,no,2.6,descendente,0,normal,0,no
+43,varón,asintomático,150,247,no,normal,171,no,1.5,ascendente,0,normal,0,no
+40,varón,asintomático,110,167,no,hipertrofia ventricular,114,sí,2.0,plana,0,defecto reversible,3,sí
+69,mujer,angina típica,140,239,no,normal,151,no,1.8,ascendente,2,normal,0,no
+60,varón,asintomático,117,230,sí,normal,160,sí,1.4,ascendente,2,defecto reversible,2,sí
+64,varón,dolor no anginoso,140,335,no,normal,158,no,0.0,ascendente,0,normal,1,sí
+59,varón,asintomático,135,234,no,normal,161,no,0.5,plana,0,defecto reversible,0,no
+44,varón,dolor no anginoso,130,233,no,normal,179,sí,0.4,ascendente,0,normal,0,no
+42,varón,asintomático,140,226,no,normal,178,no,0.0,ascendente,0,normal,0,no
+43,varón,asintomático,120,177,no,hipertrofia ventricular,120,sí,2.5,plana,0,defecto reversible,3,sí
+57,varón,asintomático,150,276,no,hipertrofia ventricular,112,sí,0.6,plana,1,defecto fijo,1,sí
+55,varón,asintomático,132,353,no,normal,132,sí,1.2,plana,1,defecto reversible,3,sí
+61,varón,dolor no anginoso,150,243,sí,normal,137,sí,1.0,plana,0,normal,0,no
+65,mujer,asintomático,150,225,no,hipertrofia ventricular,114,no,1.0,plana,3,defecto reversible,4,sí
+40,varón,angina típica,140,199,no,normal,178,sí,1.4,ascendente,0,defecto reversible,0,no
+71,mujer,angina atípica,160,302,no,normal,162,no,0.4,ascendente,2,normal,0,no
+59,varón,dolor no anginoso,150,212,sí,normal,157,no,1.6,ascendente,0,normal,0,no
+61,mujer,asintomático,130,330,no,hipertrofia ventricular,169,no,0.0,ascendente,0,normal,1,sí
+58,varón,dolor no anginoso,112,230,no,hipertrofia ventricular,165,no,2.5,plana,1,defecto reversible,4,sí
+51,varón,dolor no anginoso,110,175,no,normal,123,no,0.6,ascendente,0,normal,0,no
+50,varón,asintomático,150,243,no,hipertrofia ventricular,128,no,2.6,plana,0,defecto reversible,4,sí
+65,mujer,dolor no anginoso,140,417,sí,hipertrofia ventricular,157,no,0.8,ascendente,1,normal,0,no
+53,varón,dolor no anginoso,130,197,sí,hipertrofia ventricular,152,no,1.2,descendente,0,normal,0,no
+41,mujer,angina atípica,105,198,no,normal,168,no,0.0,ascendente,1,normal,0,no
+65,varón,asintomático,120,177,no,normal,140,no,0.4,ascendente,0,defecto reversible,0,no
+44,varón,asintomático,112,290,no,hipertrofia ventricular,153,no,0.0,ascendente,1,normal,2,sí
+44,varón,angina atípica,130,219,no,hipertrofia ventricular,188,no,0.0,ascendente,0,normal,0,no
+60,varón,asintomático,130,253,no,normal,144,sí,1.4,ascendente,1,defecto reversible,1,sí
+54,varón,asintomático,124,266,no,hipertrofia ventricular,109,sí,2.2,plana,1,defecto reversible,1,sí
+50,varón,dolor no anginoso,140,233,no,normal,163,no,0.6,plana,1,defecto reversible,1,sí
+41,varón,asintomático,110,172,no,hipertrofia ventricular,158,no,0.0,ascendente,0,defecto reversible,1,sí
+54,varón,dolor no anginoso,125,273,no,hipertrofia ventricular,152,no,0.5,descendente,1,normal,0,no
+51,varón,angina típica,125,213,no,hipertrofia ventricular,125,sí,1.4,ascendente,1,normal,0,no
+51,mujer,asintomático,130,305,no,normal,142,sí,1.2,plana,0,defecto reversible,2,sí
+46,mujer,dolor no anginoso,142,177,no,hipertrofia ventricular,160,sí,1.4,descendente,0,normal,0,no
+58,varón,asintomático,128,216,no,hipertrofia ventricular,131,sí,2.2,plana,3,defecto reversible,1,sí
+54,mujer,dolor no anginoso,135,304,sí,normal,170,no,0.0,ascendente,0,normal,0,no
+54,varón,asintomático,120,188,no,normal,113,no,1.4,plana,1,defecto reversible,2,sí
+60,varón,asintomático,145,282,no,hipertrofia ventricular,142,sí,2.8,plana,2,defecto reversible,2,sí
+60,varón,dolor no anginoso,140,185,no,hipertrofia ventricular,155,no,3.0,plana,0,normal,1,sí
+54,varón,dolor no anginoso,150,232,no,hipertrofia ventricular,165,no,1.6,ascendente,0,defecto reversible,0,no
+59,varón,asintomático,170,326,no,hipertrofia ventricular,140,sí,3.4,descendente,0,defecto reversible,2,sí
+46,varón,dolor no anginoso,150,231,no,normal,147,no,3.6,plana,0,normal,1,sí
+65,mujer,dolor no anginoso,155,269,no,normal,148,no,0.8,ascendente,0,normal,0,no
+67,varón,asintomático,125,254,sí,normal,163,no,0.2,plana,2,defecto reversible,3,sí
+62,varón,asintomático,120,267,no,normal,99,sí,1.8,plana,2,defecto reversible,1,sí
+65,varón,asintomático,110,248,no,hipertrofia ventricular,158,no,0.6,ascendente,2,defecto fijo,1,sí
+44,varón,asintomático,110,197,no,hipertrofia ventricular,177,no,0.0,ascendente,1,normal,1,sí
+65,mujer,dolor no anginoso,160,360,no,hipertrofia ventricular,151,no,0.8,ascendente,0,normal,0,no
+60,varón,asintomático,125,258,no,hipertrofia ventricular,141,sí,2.8,plana,1,defecto reversible,1,sí
+51,mujer,dolor no anginoso,140,308,no,hipertrofia ventricular,142,no,1.5,ascendente,1,normal,0,no
+48,varón,angina atípica,130,245,no,hipertrofia ventricular,180,no,0.2,plana,0,normal,0,no
+58,varón,asintomático,150,270,no,hipertrofia ventricular,111,sí,0.8,ascendente,0,defecto reversible,3,sí
+45,varón,asintomático,104,208,no,hipertrofia ventricular,148,sí,3.0,plana,0,normal,0,no
+53,mujer,asintomático,130,264,no,hipertrofia ventricular,143,no,0.4,plana,0,normal,0,no
+39,varón,dolor no anginoso,140,321,no,hipertrofia ventricular,182,no,0.0,ascendente,0,normal,0,no
+68,varón,dolor no anginoso,180,274,sí,hipertrofia ventricular,150,sí,1.6,plana,0,defecto reversible,3,sí
+52,varón,angina atípica,120,325,no,normal,172,no,0.2,ascendente,0,normal,0,no
+44,varón,dolor no anginoso,140,235,no,hipertrofia ventricular,180,no,0.0,ascendente,0,normal,0,no
+47,varón,dolor no anginoso,138,257,no,hipertrofia ventricular,156,no,0.0,ascendente,0,normal,0,no
+53,mujer,dolor no anginoso,128,216,no,hipertrofia ventricular,115,no,0.0,ascendente,0,,0,no
+53,mujer,asintomático,138,234,no,hipertrofia ventricular,160,no,0.0,ascendente,0,normal,0,no
+51,mujer,dolor no anginoso,130,256,no,hipertrofia ventricular,149,no,0.5,ascendente,0,normal,0,no
+66,varón,asintomático,120,302,no,hipertrofia ventricular,151,no,0.4,plana,0,normal,0,no
+62,mujer,asintomático,160,164,no,hipertrofia ventricular,145,no,6.2,descendente,3,defecto reversible,3,sí
+62,varón,dolor no anginoso,130,231,no,normal,146,no,1.8,plana,3,defecto reversible,0,no
+44,mujer,dolor no anginoso,108,141,no,normal,175,no,0.6,plana,0,normal,0,no
+63,mujer,dolor no anginoso,135,252,no,hipertrofia ventricular,172,no,0.0,ascendente,0,normal,0,no
+52,varón,asintomático,128,255,no,normal,161,sí,0.0,ascendente,1,defecto reversible,1,sí
+59,varón,asintomático,110,239,no,hipertrofia ventricular,142,sí,1.2,plana,1,defecto reversible,2,sí
+60,mujer,asintomático,150,258,no,hipertrofia ventricular,157,no,2.6,plana,2,defecto reversible,3,sí
+52,varón,angina atípica,134,201,no,normal,158,no,0.8,ascendente,1,normal,0,no
+48,varón,asintomático,122,222,no,hipertrofia ventricular,186,no,0.0,ascendente,0,normal,0,no
+45,varón,asintomático,115,260,no,hipertrofia ventricular,185,no,0.0,ascendente,0,normal,0,no
+34,varón,angina típica,118,182,no,hipertrofia ventricular,174,no,0.0,ascendente,0,normal,0,no
+57,mujer,asintomático,128,303,no,hipertrofia ventricular,159,no,0.0,ascendente,1,normal,0,no
+71,mujer,dolor no anginoso,110,265,sí,hipertrofia ventricular,130,no,0.0,ascendente,1,normal,0,no
+49,varón,dolor no anginoso,120,188,no,normal,139,no,2.0,plana,3,defecto reversible,3,sí
+54,varón,angina atípica,108,309,no,normal,156,no,0.0,ascendente,0,defecto reversible,0,no
+59,varón,asintomático,140,177,no,normal,162,sí,0.0,ascendente,1,defecto reversible,2,sí
+57,varón,dolor no anginoso,128,229,no,hipertrofia ventricular,150,no,0.4,plana,1,defecto reversible,1,sí
+61,varón,asintomático,120,260,no,normal,140,sí,3.6,plana,1,defecto reversible,2,sí
+39,varón,asintomático,118,219,no,normal,140,no,1.2,plana,0,defecto reversible,3,sí
+61,mujer,asintomático,145,307,no,hipertrofia ventricular,146,sí,1.0,plana,0,defecto reversible,1,sí
+56,varón,asintomático,125,249,sí,hipertrofia ventricular,144,sí,1.2,plana,1,normal,1,sí
+52,varón,angina típica,118,186,no,hipertrofia ventricular,190,no,0.0,plana,0,defecto fijo,0,no
+43,mujer,asintomático,132,341,sí,hipertrofia ventricular,136,sí,3.0,plana,0,defecto reversible,2,sí
+62,mujer,dolor no anginoso,130,263,no,normal,97,no,1.2,plana,1,defecto reversible,2,sí
+41,varón,angina atípica,135,203,no,normal,132,no,0.0,plana,0,defecto fijo,0,no
+58,varón,dolor no anginoso,140,211,sí,hipertrofia ventricular,165,no,0.0,ascendente,0,normal,0,no
+35,mujer,asintomático,138,183,no,normal,182,no,1.4,ascendente,0,normal,0,no
+63,varón,asintomático,130,330,sí,hipertrofia ventricular,132,sí,1.8,ascendente,3,defecto reversible,3,sí
+65,varón,asintomático,135,254,no,hipertrofia ventricular,127,no,2.8,plana,1,defecto reversible,2,sí
+48,varón,asintomático,130,256,sí,hipertrofia ventricular,150,sí,0.0,ascendente,2,defecto reversible,3,sí
+63,mujer,asintomático,150,407,no,hipertrofia ventricular,154,no,4.0,plana,3,defecto reversible,4,sí
+51,varón,dolor no anginoso,100,222,no,normal,143,sí,1.2,plana,0,normal,0,no
+55,varón,asintomático,140,217,no,normal,111,sí,5.6,descendente,0,defecto reversible,3,sí
+65,varón,angina típica,138,282,sí,hipertrofia ventricular,174,no,1.4,plana,1,normal,1,sí
+45,mujer,angina atípica,130,234,no,hipertrofia ventricular,175,no,0.6,plana,0,normal,0,no
+56,mujer,asintomático,200,288,sí,hipertrofia ventricular,133,sí,4.0,descendente,2,defecto reversible,3,sí
+54,varón,asintomático,110,239,no,normal,126,sí,2.8,plana,1,defecto reversible,3,sí
+44,varón,angina atípica,120,220,no,normal,170,no,0.0,ascendente,0,normal,0,no
+62,mujer,asintomático,124,209,no,normal,163,no,0.0,ascendente,0,normal,0,no
+54,varón,dolor no anginoso,120,258,no,hipertrofia ventricular,147,no,0.4,plana,0,defecto reversible,0,no
+51,varón,dolor no anginoso,94,227,no,normal,154,sí,0.0,ascendente,1,defecto reversible,0,no
+29,varón,angina atípica,130,204,no,hipertrofia ventricular,202,no,0.0,ascendente,0,normal,0,no
+51,varón,asintomático,140,261,no,hipertrofia ventricular,186,sí,0.0,ascendente,0,normal,0,no
+43,mujer,dolor no anginoso,122,213,no,normal,165,no,0.2,plana,0,normal,0,no
+55,mujer,angina atípica,135,250,no,hipertrofia ventricular,161,no,1.4,plana,0,normal,0,no
+70,varón,asintomático,145,174,no,normal,125,sí,2.6,descendente,0,defecto reversible,4,sí
+62,varón,angina atípica,120,281,no,hipertrofia ventricular,103,no,1.4,plana,1,defecto reversible,3,sí
+35,varón,asintomático,120,198,no,normal,130,sí,1.6,plana,0,defecto reversible,1,sí
+51,varón,dolor no anginoso,125,245,sí,hipertrofia ventricular,166,no,2.4,plana,0,normal,0,no
+59,varón,angina atípica,140,221,no,normal,164,sí,0.0,ascendente,0,normal,0,no
+59,varón,angina típica,170,288,no,hipertrofia ventricular,159,no,0.2,plana,0,defecto reversible,1,sí
+52,varón,angina atípica,128,205,sí,normal,184,no,0.0,ascendente,0,normal,0,no
+64,varón,dolor no anginoso,125,309,no,normal,131,sí,1.8,plana,0,defecto reversible,1,sí
+58,varón,dolor no anginoso,105,240,no,hipertrofia ventricular,154,sí,0.6,plana,0,defecto reversible,0,no
+47,varón,dolor no anginoso,108,243,no,normal,152,no,0.0,ascendente,0,normal,1,sí
+57,varón,asintomático,165,289,sí,hipertrofia ventricular,124,no,1.0,plana,3,defecto reversible,4,sí
+41,varón,dolor no anginoso,112,250,no,normal,179,no,0.0,ascendente,0,normal,0,no
+45,varón,angina atípica,128,308,no,hipertrofia ventricular,170,no,0.0,ascendente,0,normal,0,no
+60,mujer,dolor no anginoso,102,318,no,normal,160,no,0.0,ascendente,1,normal,0,no
+52,varón,angina típica,152,298,sí,normal,178,no,1.2,plana,0,defecto reversible,0,no
+42,mujer,asintomático,102,265,no,hipertrofia ventricular,122,no,0.6,plana,0,normal,0,no
+67,mujer,dolor no anginoso,115,564,no,hipertrofia ventricular,160,no,1.6,plana,0,defecto reversible,0,no
+55,varón,asintomático,160,289,no,hipertrofia ventricular,145,sí,0.8,plana,1,defecto reversible,4,sí
+64,varón,asintomático,120,246,no,hipertrofia ventricular,96,sí,2.2,descendente,1,normal,3,sí
+70,varón,asintomático,130,322,no,hipertrofia ventricular,109,no,2.4,plana,3,normal,1,sí
+51,varón,asintomático,140,299,no,normal,173,sí,1.6,ascendente,0,defecto reversible,1,sí
+58,varón,asintomático,125,300,no,hipertrofia ventricular,171,no,0.0,ascendente,2,defecto reversible,1,sí
+60,varón,asintomático,140,293,no,hipertrofia ventricular,170,no,1.2,plana,2,defecto reversible,2,sí
+68,varón,dolor no anginoso,118,277,no,normal,151,no,1.0,ascendente,1,defecto reversible,0,no
+46,varón,angina atípica,101,197,sí,normal,156,no,0.0,ascendente,0,defecto reversible,0,no
+77,varón,asintomático,125,304,no,hipertrofia ventricular,162,sí,0.0,ascendente,3,normal,4,sí
+54,mujer,dolor no anginoso,110,214,no,normal,158,no,1.6,plana,0,normal,0,no
+58,mujer,asintomático,100,248,no,hipertrofia ventricular,122,no,1.0,plana,0,normal,0,no
+48,varón,dolor no anginoso,124,255,sí,normal,175,no,0.0,ascendente,2,normal,0,no
+57,varón,asintomático,132,207,no,normal,168,sí,0.0,ascendente,0,defecto reversible,0,no
+52,varón,dolor no anginoso,138,223,no,normal,169,no,0.0,ascendente,,normal,0,no
+54,mujer,angina atípica,132,288,sí,hipertrofia ventricular,159,sí,0.0,ascendente,1,normal,0,no
+35,varón,asintomático,126,282,no,hipertrofia ventricular,156,sí,0.0,ascendente,0,defecto reversible,1,sí
+45,mujer,angina atípica,112,160,no,normal,138,no,0.0,plana,0,normal,0,no
+70,varón,dolor no anginoso,160,269,no,normal,112,sí,2.9,plana,1,defecto reversible,3,sí
+53,varón,asintomático,142,226,no,hipertrofia ventricular,111,sí,0.0,ascendente,0,defecto reversible,0,no
+59,mujer,asintomático,174,249,no,normal,143,sí,0.0,plana,0,normal,1,sí
+62,mujer,asintomático,140,394,no,hipertrofia ventricular,157,no,1.2,plana,0,normal,0,no
+64,varón,asintomático,145,212,no,hipertrofia ventricular,132,no,2.0,plana,2,defecto fijo,4,sí
+57,varón,asintomático,152,274,no,normal,88,sí,1.2,plana,1,defecto reversible,1,sí
+52,varón,asintomático,108,233,sí,normal,147,no,0.1,ascendente,3,defecto reversible,0,no
+56,varón,asintomático,132,184,no,hipertrofia ventricular,105,sí,2.1,plana,1,defecto fijo,1,sí
+43,varón,dolor no anginoso,130,315,no,normal,162,no,1.9,ascendente,1,normal,0,no
+53,varón,dolor no anginoso,130,246,sí,hipertrofia ventricular,173,no,0.0,ascendente,3,normal,0,no
+48,varón,asintomático,124,274,no,hipertrofia ventricular,166,no,0.5,plana,0,defecto reversible,3,sí
+56,mujer,asintomático,134,409,no,hipertrofia ventricular,150,sí,1.9,plana,2,defecto reversible,2,sí
+42,varón,angina típica,148,244,no,hipertrofia ventricular,178,no,0.8,ascendente,2,normal,0,no
+59,varón,angina típica,178,270,no,hipertrofia ventricular,145,no,4.2,descendente,0,defecto reversible,0,no
+60,mujer,asintomático,158,305,no,hipertrofia ventricular,161,no,0.0,ascendente,0,normal,1,sí
+63,mujer,angina atípica,140,195,no,normal,179,no,0.0,ascendente,2,normal,0,no
+42,varón,dolor no anginoso,120,240,sí,normal,194,no,0.8,descendente,0,defecto reversible,0,no
+66,varón,angina atípica,160,246,no,normal,120,sí,0.0,plana,3,defecto fijo,2,sí
+54,varón,angina atípica,192,283,no,hipertrofia ventricular,195,no,0.0,ascendente,1,defecto reversible,1,sí
+69,varón,dolor no anginoso,140,254,no,hipertrofia ventricular,146,no,2.0,plana,3,defecto reversible,2,sí
+50,varón,dolor no anginoso,129,196,no,normal,163,no,0.0,ascendente,0,normal,0,no
+51,varón,asintomático,140,298,no,normal,122,sí,4.2,plana,3,defecto reversible,3,sí
+43,varón,asintomático,132,247,sí,hipertrofia ventricular,143,sí,0.1,plana,,defecto reversible,1,sí
+62,mujer,asintomático,138,294,sí,normal,106,no,1.9,plana,3,normal,2,sí
+68,mujer,dolor no anginoso,120,211,no,hipertrofia ventricular,115,no,1.5,plana,0,normal,0,no
+67,varón,asintomático,100,299,no,hipertrofia ventricular,125,sí,0.9,plana,2,normal,3,sí
+69,varón,angina típica,160,234,sí,hipertrofia ventricular,131,no,0.1,plana,1,normal,0,no
+45,mujer,asintomático,138,236,no,hipertrofia ventricular,152,sí,0.2,plana,0,normal,0,no
+50,mujer,angina atípica,120,244,no,normal,162,no,1.1,ascendente,0,normal,0,no
+59,varón,angina típica,160,273,no,hipertrofia ventricular,125,no,0.0,ascendente,0,normal,1,sí
+50,mujer,asintomático,110,254,no,hipertrofia ventricular,159,no,0.0,ascendente,0,normal,0,no
+64,mujer,asintomático,180,325,no,normal,154,sí,0.0,ascendente,0,normal,0,no
+57,varón,dolor no anginoso,150,126,sí,normal,173,no,0.2,ascendente,1,defecto reversible,0,no
+64,mujer,dolor no anginoso,140,313,no,normal,133,no,0.2,ascendente,0,defecto reversible,0,no
+43,varón,asintomático,110,211,no,normal,161,no,0.0,ascendente,0,defecto reversible,0,no
+45,varón,asintomático,142,309,no,hipertrofia ventricular,147,sí,0.0,plana,3,defecto reversible,3,sí
+58,varón,asintomático,128,259,no,hipertrofia ventricular,130,sí,3.0,plana,2,defecto reversible,3,sí
+50,varón,asintomático,144,200,no,hipertrofia ventricular,126,sí,0.9,plana,0,defecto reversible,3,sí
+55,varón,angina atípica,130,262,no,normal,155,no,0.0,ascendente,0,normal,0,no
+62,mujer,asintomático,150,244,no,normal,154,sí,1.4,plana,0,normal,1,sí
+37,mujer,dolor no anginoso,120,215,no,normal,170,no,0.0,ascendente,0,normal,0,no
+38,varón,angina típica,120,231,no,normal,182,sí,3.8,plana,0,defecto reversible,4,sí
+41,varón,dolor no anginoso,130,214,no,hipertrofia ventricular,168,no,2.0,plana,0,normal,0,no
+66,mujer,asintomático,178,228,sí,normal,165,sí,1.0,plana,2,defecto reversible,3,sí
+52,varón,asintomático,112,230,no,normal,160,no,0.0,ascendente,1,normal,1,sí
+56,varón,angina típica,120,193,no,hipertrofia ventricular,162,no,1.9,plana,0,defecto reversible,0,no
+46,mujer,angina atípica,105,204,no,normal,172,no,0.0,ascendente,0,normal,0,no
+46,mujer,asintomático,138,243,no,hipertrofia ventricular,152,sí,0.0,plana,0,normal,0,no
+64,mujer,asintomático,130,303,no,normal,122,no,2.0,plana,2,normal,0,no
+59,varón,asintomático,138,271,no,hipertrofia ventricular,182,no,0.0,ascendente,0,normal,0,no
+41,mujer,dolor no anginoso,112,268,no,hipertrofia ventricular,172,sí,0.0,ascendente,0,normal,0,no
+54,mujer,dolor no anginoso,108,267,no,hipertrofia ventricular,167,no,0.0,ascendente,0,normal,0,no
+39,mujer,dolor no anginoso,94,199,no,normal,179,no,0.0,ascendente,0,normal,0,no
+53,varón,asintomático,123,282,no,normal,95,sí,2.0,plana,2,defecto reversible,3,sí
+63,mujer,asintomático,108,269,no,normal,169,sí,1.8,plana,2,normal,1,sí
+34,mujer,angina atípica,118,210,no,normal,192,no,0.7,ascendente,0,normal,0,no
+47,varón,asintomático,112,204,no,normal,143,no,0.1,ascendente,0,normal,0,no
+67,mujer,dolor no anginoso,152,277,no,normal,172,no,0.0,ascendente,1,normal,0,no
+54,varón,asintomático,110,206,no,hipertrofia ventricular,108,sí,0.0,plana,1,normal,3,sí
+66,varón,asintomático,112,212,no,hipertrofia ventricular,132,sí,0.1,ascendente,1,normal,2,sí
+52,mujer,dolor no anginoso,136,196,no,hipertrofia ventricular,169,no,0.1,plana,0,normal,0,no
+55,mujer,asintomático,180,327,no,anomalía ST-T,117,sí,3.4,plana,0,normal,2,sí
+49,varón,dolor no anginoso,118,149,no,hipertrofia ventricular,126,no,0.8,ascendente,3,normal,1,sí
+74,mujer,angina atípica,120,269,no,hipertrofia ventricular,121,sí,0.2,ascendente,1,normal,0,no
+54,mujer,dolor no anginoso,160,201,no,normal,163,no,0.0,ascendente,1,normal,0,no
+54,varón,asintomático,122,286,no,hipertrofia ventricular,116,sí,3.2,plana,2,normal,3,sí
+56,varón,asintomático,130,283,sí,hipertrofia ventricular,103,sí,1.6,descendente,0,defecto reversible,2,sí
+46,varón,asintomático,120,249,no,hipertrofia ventricular,144,no,0.8,ascendente,0,defecto reversible,1,sí
+49,mujer,angina atípica,134,271,no,normal,162,no,0.0,plana,0,normal,0,no
+42,varón,angina atípica,120,295,no,normal,162,no,0.0,ascendente,0,normal,0,no
+41,varón,angina atípica,110,235,no,normal,153,no,0.0,ascendente,0,normal,0,no
+41,mujer,angina atípica,126,306,no,normal,163,no,0.0,ascendente,0,normal,0,no
+49,mujer,asintomático,130,269,no,normal,163,no,0.0,ascendente,0,normal,0,no
+61,varón,angina típica,134,234,no,normal,145,no,2.6,plana,2,normal,2,sí
+60,mujer,dolor no anginoso,120,178,sí,normal,96,no,0.0,ascendente,0,normal,0,no
+67,varón,asintomático,120,237,no,normal,71,no,1.0,plana,0,normal,2,sí
+58,varón,asintomático,100,234,no,normal,156,no,0.1,ascendente,1,defecto reversible,2,sí
+47,varón,asintomático,110,275,no,hipertrofia ventricular,118,sí,1.0,plana,1,normal,1,sí
+52,varón,asintomático,125,212,no,normal,168,no,1.0,ascendente,2,defecto reversible,3,sí
+62,varón,angina atípica,128,208,sí,hipertrofia ventricular,140,no,0.0,ascendente,0,normal,0,no
+57,varón,asintomático,110,201,no,normal,126,sí,1.5,plana,0,defecto fijo,0,no
+58,varón,asintomático,146,218,no,normal,105,no,2.0,plana,1,defecto reversible,1,sí
+64,varón,asintomático,128,263,no,normal,105,sí,0.2,plana,1,defecto reversible,0,no
+51,mujer,dolor no anginoso,120,295,no,hipertrofia ventricular,157,no,0.6,ascendente,0,normal,0,no
+43,varón,asintomático,115,303,no,normal,181,no,1.2,plana,0,normal,0,no
+42,mujer,dolor no anginoso,120,209,no,normal,173,no,0.0,plana,0,normal,0,no
+67,mujer,asintomático,106,223,no,normal,142,no,0.3,ascendente,2,normal,0,no
+76,mujer,dolor no anginoso,140,197,no,anomalía ST-T,116,no,1.1,plana,0,normal,0,no
+70,varón,angina atípica,156,245,no,hipertrofia ventricular,143,no,0.0,ascendente,0,normal,0,no
+57,varón,angina atípica,124,261,no,normal,141,no,0.3,ascendente,0,defecto reversible,1,sí
+44,mujer,dolor no anginoso,118,242,no,normal,149,no,0.3,plana,1,normal,0,no
+58,mujer,angina atípica,136,319,sí,hipertrofia ventricular,152,no,0.0,ascendente,2,normal,3,sí
+60,mujer,angina típica,150,240,no,normal,171,no,0.9,ascendente,0,normal,0,no
+44,varón,dolor no anginoso,120,226,no,normal,169,no,0.0,ascendente,0,normal,0,no
+61,varón,asintomático,138,166,no,hipertrofia ventricular,125,sí,3.6,plana,1,normal,4,sí
+42,varón,asintomático,136,315,no,normal,125,sí,1.8,plana,0,defecto fijo,2,sí
+52,varón,asintomático,128,204,sí,normal,156,sí,1.0,plana,0,,2,sí
+59,varón,dolor no anginoso,126,218,sí,normal,134,no,2.2,plana,1,defecto fijo,2,sí
+40,varón,asintomático,152,223,no,normal,181,no,0.0,ascendente,0,defecto reversible,1,sí
+42,varón,dolor no anginoso,130,180,no,normal,150,no,0.0,ascendente,0,normal,0,no
+61,varón,asintomático,140,207,no,hipertrofia ventricular,138,sí,1.9,ascendente,1,defecto reversible,1,sí
+66,varón,asintomático,160,228,no,hipertrofia ventricular,138,no,2.3,ascendente,0,defecto fijo,0,no
+46,varón,asintomático,140,311,no,normal,120,sí,1.8,plana,2,defecto reversible,2,sí
+71,mujer,asintomático,112,149,no,normal,125,no,1.6,plana,0,normal,0,no
+59,varón,angina típica,134,204,no,normal,162,no,0.8,ascendente,2,normal,1,sí
+64,varón,angina típica,170,227,no,hipertrofia ventricular,155,no,0.6,plana,0,defecto reversible,0,no
+66,mujer,dolor no anginoso,146,278,no,hipertrofia ventricular,152,no,0.0,plana,1,normal,0,no
+39,mujer,dolor no anginoso,138,220,no,normal,152,no,0.0,plana,0,normal,0,no
+57,varón,angina atípica,154,232,no,hipertrofia ventricular,164,no,0.0,ascendente,1,normal,1,sí
+58,mujer,asintomático,130,197,no,normal,131,no,0.6,plana,0,normal,0,no
+57,varón,asintomático,110,335,no,normal,143,sí,3.0,plana,1,defecto reversible,2,sí
+47,varón,dolor no anginoso,130,253,no,normal,179,no,0.0,ascendente,0,normal,0,no
+55,mujer,asintomático,128,205,no,anomalía ST-T,130,sí,2.0,plana,1,defecto reversible,3,sí
+35,varón,angina atípica,122,192,no,normal,174,no,0.0,ascendente,0,normal,0,no
+61,varón,asintomático,148,203,no,normal,161,no,0.0,ascendente,1,defecto reversible,2,sí
+58,varón,asintomático,114,318,no,anomalía ST-T,140,no,4.4,descendente,3,defecto fijo,4,sí
+58,mujer,asintomático,170,225,sí,hipertrofia ventricular,146,sí,2.8,plana,2,defecto fijo,2,sí
+58,varón,angina atípica,125,220,no,normal,144,no,0.4,plana,,defecto reversible,0,no
+56,varón,angina atípica,130,221,no,hipertrofia ventricular,163,no,0.0,ascendente,0,defecto reversible,0,no
+56,varón,angina atípica,120,240,no,normal,169,no,0.0,descendente,0,normal,0,no
+67,varón,dolor no anginoso,152,212,no,hipertrofia ventricular,150,no,0.8,plana,0,defecto reversible,1,sí
+55,mujer,angina atípica,132,342,no,normal,166,no,1.2,ascendente,0,normal,0,no
+44,varón,asintomático,120,169,no,normal,144,sí,2.8,descendente,0,defecto fijo,2,sí
+63,varón,asintomático,140,187,no,hipertrofia ventricular,144,sí,4.0,ascendente,2,defecto reversible,2,sí
+63,mujer,asintomático,124,197,no,normal,136,sí,0.0,plana,0,normal,1,sí
+41,varón,angina atípica,120,157,no,normal,182,no,0.0,ascendente,0,normal,0,no
+59,varón,asintomático,164,176,sí,hipertrofia ventricular,90,no,1.0,plana,2,defecto fijo,3,sí
+57,mujer,asintomático,140,241,no,normal,123,sí,0.2,plana,0,defecto reversible,1,sí
+45,varón,angina típica,110,264,no,normal,132,no,1.2,plana,0,defecto reversible,1,sí
+68,varón,asintomático,144,193,sí,normal,141,no,3.4,plana,2,defecto reversible,2,sí
+57,varón,asintomático,130,131,no,normal,115,sí,1.2,plana,1,defecto reversible,3,sí
+57,mujer,angina atípica,130,236,no,hipertrofia ventricular,174,no,0.0,plana,1,normal,1,sí
+38,varón,dolor no anginoso,138,175,no,normal,173,no,0.0,ascendente,,normal,0,no

@@ -1,0 +1,2001 @@
+id_arbol,especie,nombre_cientifico,familia,origen,altura_m,diametro_cm,inclinacion_grados,espacio_verde
+97,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,50,0,DE LAS VICTORIAS
+166,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,10,0,INDOAMERICANO
+174,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,10,0,INDOAMERICANO
+205,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,14,0,INDOAMERICANO
+211,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,4,0,INDOAMERICANO
+213,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,4,0,INDOAMERICANO
+278,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,26,0,INDOAMERICANO
+282,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,26,0,INDOAMERICANO
+284,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,26,0,INDOAMERICANO
+285,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,26,0,INDOAMERICANO
+290,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,26,0,INDOAMERICANO
+295,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,26,0,INDOAMERICANO
+306,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,26,0,INDOAMERICANO
+321,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,22,0,INDOAMERICANO
+344,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,25,0,INDOAMERICANO
+370,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,35,0,DE LAS VICTORIAS
+371,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,35,0,DE LAS VICTORIAS
+390,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,35,0,DE LAS VICTORIAS
+401,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,35,0,DE LAS VICTORIAS
+405,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,16,50,0,DE LAS VICTORIAS
+422,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+442,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+443,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+447,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+455,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+457,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+466,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+479,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+482,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+498,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+502,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+506,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+513,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+525,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+544,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+562,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+568,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+612,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+617,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+641,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+643,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+658,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+664,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+668,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+706,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+722,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+726,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+729,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+738,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+743,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+744,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+755,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+761,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+770,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+772,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+789,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+791,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+795,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+800,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+810,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+819,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+825,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+829,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+832,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+840,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+849,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+855,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+861,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+863,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+875,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+877,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+885,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+901,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,34,0,INDOAMERICANO
+913,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+932,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+933,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+963,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+965,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+986,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+996,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1020,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1029,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1035,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1065,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1067,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1068,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1070,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1073,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1086,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1107,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1116,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1117,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1120,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1137,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1140,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1151,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1157,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1167,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1179,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1185,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1188,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1202,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1205,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1210,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1222,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1227,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1246,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1248,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1249,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1255,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1257,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1266,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+1281,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,1,20,0,INDOAMERICANO
+1304,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,1,20,0,INDOAMERICANO
+1425,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,46,10,PASEO DE LAS AMERICAS
+1560,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,9,55,43,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+1702,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,29,108,10,"ANDES, LOS"
+1723,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,88,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+1755,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,2,55,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+1756,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,4,80,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+1762,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,85,0,CENTENARIO
+1804,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,178,8,"AVELLANEDA, NICOLÁS, Pres."
+1827,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,12,55,30,LAGO REGATAS
+1852,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,44,15,LAGO REGATAS
+1856,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,33,100,3,LAGO REGATAS
+1869,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,24,52,14,LAGO REGATAS
+1879,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,16,32,0,LAGO REGATAS
+1881,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,24,84,7,LAGO REGATAS
+1961,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,52,7,ARMENIA
+1972,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,55,0,ARMENIA
+1973,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,13,60,0,ARMENIA
+1983,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,55,12,ARMENIA
+2001,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,35,25,ARMENIA
+2007,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,45,20,ARMENIA
+2032,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,16,23,0,ARMENIA
+2107,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,60,0,PASEO DE LAS AMERICAS
+2113,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,2,50,0,DE SAN BENITO
+2128,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,60,0,DE SAN BENITO
+2186,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,120,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+2191,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,40,5,"AVELLANEDA, NICOLÁS, Pres."
+2193,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,40,5,"AVELLANEDA, NICOLÁS, Pres."
+2200,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,40,5,"AVELLANEDA, NICOLÁS, Pres."
+2201,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,40,5,"AVELLANEDA, NICOLÁS, Pres."
+2206,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,40,5,"AVELLANEDA, NICOLÁS, Pres."
+2208,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,40,5,"AVELLANEDA, NICOLÁS, Pres."
+2230,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,50,0,SANTOJANNI: SECTOR MADRE ANA MARIA MOGAS
+2245,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,30,0,GENERAL PAZ
+2246,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,35,0,GENERAL PAZ
+2286,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,70,7,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+2334,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,51,17,"LAS HERAS, JUAN GREGORIO de, Gral."
+2381,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,107,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+2382,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,95,0,"GOULD, BENJAMIN A., Dr."
+2405,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,93,0,CAFFERATA (Denominación Propuesta)
+2450,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,35,160,0,UNIDAD NACIONAL
+2460,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,26,45,0,DEMOCRACIA
+2469,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,20,0,
+2484,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,72,0,"GRANADA, NICOLAS"
+2513,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,56,0,"SANCHEZ, FLORENCIO"
+2516,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,63,0,"SANCHEZ, FLORENCIO"
+2543,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,35,0,PROVINCIA de RIO NEGRO
+2610,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,58,0,LA CASA DEL ANGEL (PASEO DEL CINE)
+2630,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,90,5,PASEO DE LAS AMERICAS
+2632,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,54,17,PASEO DE LAS AMERICAS
+2647,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,14,34,5,"TEJADA GOMEZ, ARMANDO"
+2790,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,64,0,"DUNANT, HENRY"
+2955,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,62,0,
+2978,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,19,0,"DI PASCUALE, JORGE"
+3075,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,70,15,"DUNANT, HENRY"
+3089,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,19,0,CIUDAD de BANFF
+3114,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,31,21,VELEZ SARSFIELD
+3132,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,26,65,0,DON BOSCO
+3139,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,70,5,DON BOSCO
+3187,Eucalipto,Eucalyptus globulus,Mirtáceas,exótico,5,34,5,
+3287,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,65,0,"TERAN, JUAN BAUTISTA, Dr."
+3289,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,35,21,"TERAN, JUAN BAUTISTA, Dr."
+3327,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,82,0,
+3335,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,7,0,
+3416,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,47,0,
+3436,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,3,8,0,
+3451,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,40,0,PASEO de VERSALLES
+3523,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,65,6,CIUDAD de UDINE
+3544,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,58,0,"LAFITTE, FERMIN, Monseñor"
+3569,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,70,0,ARENALES
+3583,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,40,0,"MATHIS, LEONIE (PASEO DE LAS ARTES LATINOAMERICANAS)"
+3616,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,55,0,ARENALES
+3666,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,42,6,DE LA ASUNCION
+3700,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,71,0,DE LA ASUNCION
+3709,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,35,20,"JARA, VICTOR (PASEO DE LAS ARTES LATINOAMERICANAS)"
+3739,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,20,0,"SAENZ PEÑA, ROQUE, Dr."
+3760,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,50,0,"SAENZ PEÑA, ROQUE, Dr."
+3761,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,60,0,"SAENZ PEÑA, ROQUE, Dr."
+3762,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,60,0,"SAENZ PEÑA, ROQUE, Dr."
+3763,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,90,0,"SAENZ PEÑA, ROQUE, Dr."
+3818,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,74,2,"SAENZ PEÑA, ROQUE, Dr."
+3824,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,50,0,"SAENZ PEÑA, ROQUE, Dr."
+3861,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,50,0,
+3911,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,27,38,6,"ALEM, LEANDRO N."
+3923,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,35,16,"SAAVEDRA, CORNELIO de, Brig. Gral."
+3938,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,42,15,ECHEVERRIA
+3959,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,80,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+3960,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,55,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+3970,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,26,0,"ALEM, LEANDRO N."
+4011,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,23,60,0,"ZAPIOLA, JOSE MARIA, Brig. Gral."
+4063,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,75,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+4081,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,4,0,REPÚBLICA SOCIALISTA DE VIETNAM
+4139,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,34,20,"LONARDI, EDUARDO, Tte. Gral."
+4161,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,6,14,
+4163,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,18,11,
+4180,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,52,0,GENERAL PAZ
+4223,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,96,10,"ALEM, LEANDRO N."
+4226,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,130,0,"ALEM, LEANDRO N."
+4303,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,21,6,HUNGRÍA
+4362,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,1,3,0,"ALLENDE, SALVADOR (Aprobación inicial)"
+4414,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,45,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+4520,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,98,0,"GANDULFO, PETRONAC., Doña"
+4586,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,11,5,
+4598,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,20,30,BARRIO GENERAL SAN MARTIN
+4601,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,81,9,BARRIO GENERAL SAN MARTIN
+4609,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,6,10,"ALLENDE, SALVADOR (Aprobación inicial)"
+4689,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,52,0,GENERAL PAZ
+4703,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,40,70,10,GENERAL PAZ
+4721,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,50,0,"BALBIN, RICARDO, Dr."
+4748,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,70,0,GENERAL PAZ
+4809,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,5,0,ALEMANIA
+4825,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,36,0,EX - OBRAS SANITARIAS (Denominación usual)
+4828,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,37,0,EX - OBRAS SANITARIAS (Denominación usual)
+4829,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,36,0,EX - OBRAS SANITARIAS (Denominación usual)
+4958,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,66,0,PASEO DE LAS AMERICAS
+5047,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,39,0,"AGUILAR, FELIX, Ing."
+5056,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,28,0,PLAZA DE LOS OLMOS
+5066,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,6,0,EX - OBRAS SANITARIAS (Denominación usual)
+5084,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,29,112,0,BARRANCAS de BELGRANO
+5085,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,29,86,5,BARRANCAS de BELGRANO
+5130,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,90,0,"AGUILAR, FELIX, Ing."
+5131,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,62,0,"AGUILAR, FELIX, Ing."
+5135,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,80,0,"AGUILAR, FELIX, Ing."
+5165,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,75,21,SAN MIGUEL DE CARICOITS
+5226,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,40,13,ARMENIA
+5274,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,44,0,"BELGRANO, MANUEL, Gral."
+5306,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,30,88,10,"HERNANDEZ, RAFAEL"
+5307,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,30,63,14,"HERNANDEZ, RAFAEL"
+5390,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,56,14,"AGUILAR, FELIX, Ing."
+5396,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,64,0,"AGUILAR, FELIX, Ing."
+5557,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,54,0,LIBERTAD
+5585,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,5,0,MUJERES ARGENTINAS
+5587,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,4,10,DE LA CONSTITUCION
+5598,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,30,45,17,
+5600,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,10,0,"DELLA PAOLERA, CARLOS MARIA, Ing."
+5606,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,45,0,
+5614,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,62,5,PROVINCIA de SANTA FE
+5664,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,72,0,"PRACÁNICO, FRANCISCO"
+5714,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,55,1,PROVINCIA de TUCUMAN
+5730,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,22,0,"PROVINCIA de TIERRA del FUEGO, ANTARTIDA E ISLAS del ATLANTICO SUR"
+5736,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,20,0,PROVINCIA de CATAMARCA
+5748,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,16,6,"BOLTEN, VIRGINIA"
+5819,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,15,0,"BELLO, CARLOS DIP. NAC"
+5890,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,15,8,PROVINCIA de SANTIAGO DEL ESTERO
+5905,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,2,50,0,
+5965,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,63,0,DE LA CONSTITUCION
+5972,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,32,6,SUIPACHA
+5974,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,4,0,"DUARTE de PERÓN, MARÍA EVA"
+5981,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,20,0,SUIPACHA
+5982,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,25,6,SUIPACHA
+6007,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,14,76,0,
+6008,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,70,9,
+6029,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,88,10,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+6071,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,45,0,
+6078,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,4,7,5,
+6092,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,65,0,"PRACÁNICO, FRANCISCO"
+6104,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,15,17,"BASTIDAS, MICAELA"
+6118,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,16,30,"BASTIDAS, MICAELA"
+6124,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,16,18,"BASTIDAS, MICAELA"
+6129,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,18,0,"BASTIDAS, MICAELA"
+6205,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,35,0,
+6275,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,27,0,PROVINCIA de CHUBUT
+6279,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,33,0,
+6302,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,32,80,15,LEZAMA
+6401,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,51,13,"SAN MARTIN, LIBERTADOR GENERAL"
+6402,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,70,0,COLOMBIA
+6408,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,31,5,
+6461,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,3,12,15,MUJERES ARGENTINAS
+6515,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,40,7,"CASTELAO, ALFONSO R."
+6576,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,30,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+6577,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,21,57,6,REPUBLICA de CHILE
+6589,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,11,0,"CARRIL, SALVADOR MARIA DEL"
+6595,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,50,0,DEL CONGRESO
+6607,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,84,0,GARAY
+6648,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,95,0,MUJERES ARGENTINAS
+6695,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,12,52,35,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+6696,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,14,46,10,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+6706,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,46,6,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+6732,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,62,0,SICILIA
+6768,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,42,0,PROVINCIA de SANTA FE
+6785,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,19,35,15,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+6811,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,42,8,PROVINCIA de CORRIENTES
+6873,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,70,0,DE LA CONSTITUCION
+6916,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,7,0,
+6935,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,54,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+6936,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,48,10,FUERZA AEREA ARGENTINA
+6937,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,78,26,CAMPAÑA DEL CHACO
+6964,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,23,85,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+6981,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,28,0,PROVINCIA de ENTRE RIOS
+7053,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,33,90,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+7065,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,11,4,REPUBLICA de CHILE
+7073,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,40,0,DE LA CONSTITUCION
+7096,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,75,5,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+7099,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,23,105,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+7100,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,23,117,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+7101,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,13,12,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+7114,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,81,0,"PROVINCIA de TIERRA del FUEGO, ANTARTIDA E ISLAS del ATLANTICO SUR"
+7154,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,13,0,MUJERES ARGENTINAS
+7168,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,100,0,RODRIGUEZ PEÑA
+7205,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,26,8,EVITA
+7225,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,51,0,"GOULD, BENJAMIN A., Dr."
+7236,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,65,16,"GOULD, BENJAMIN A., Dr."
+7265,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,20,30,"HOUSSAY, BERNARDO A., Dr."
+7274,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,12,75,12,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+7280,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,84,5,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+7281,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,65,18,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+7290,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,9,53,43,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+7333,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,23,92,0,REPUBLICA ORIENTAL del URUGUAY
+7347,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,53,22,SICILIA
+7437,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,70,0,SICILIA
+7468,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,70,4,REPUBLICA ISLAMICA de IRAN
+7556,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,46,0,RODRIGUEZ PEÑA
+7575,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,65,5,UNIDAD LATINOAMERICANA
+7580,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,54,5,"LAS HERAS, JUAN GREGORIO de, Gral."
+7587,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,48,0,"GONZALEZ FERNANDEZ, RAMON, Almte."
+7635,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,18,10,"PITA, HERNAN C. Cnel. Y PEDERNERA, FEDERICO A. J. Tte. Cnel."
+7643,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,55,0,"GONZALEZ FERNANDEZ, RAMON, Almte."
+7645,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,65,0,"GONZALEZ FERNANDEZ, RAMON, Almte."
+7653,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,19,60,15,"ANDES, LOS"
+7664,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,10,27,"ANDES, LOS"
+7670,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,10,5,"ANDES, LOS"
+7671,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,65,6,"ANDES, LOS"
+7707,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,122,12,REPUBLICA de CHILE
+7720,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,34,0,"ANDES, LOS"
+7725,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,42,0,"NOBEL, ALFREDO, Dr."
+7779,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,19,55,17,"ANDES, LOS"
+7824,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,9,26,9,DE LAS NACIONES UNIDAS
+7848,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,74,2,"NOBEL, ALFREDO, Dr."
+7887,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,25,0,RODRIGUEZ PEÑA
+7930,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,85,12,HOLANDA
+7933,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,45,10,JUAN XXIII
+7946,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,4,13,"HOUSSAY, BERNARDO A., Dr."
+7961,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,60,0,LIBRES DEL SUD
+7963,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,40,0,LIBRES DEL SUD
+7964,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,38,20,LIBRES DEL SUD
+7987,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,43,0,JUAN XXIII
+7990,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,60,7,"MITRE, BARTOLOMÉ"
+8136,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,14,0,PRIMERO de MAYO
+8153,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,40,0,DE MISERERE
+8181,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,4,0,MARTIN FIERRO
+8208,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,34,6,MARTIN FIERRO
+8209,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,53,0,MARTIN FIERRO
+8236,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,28,85,12,PATRICIOS
+8270,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,35,0,
+8274,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,5,0,
+8309,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,56,6,PATRICIOS
+8315,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,26,40,15,PATRICIOS
+8324,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,25,0,"TEJADA GOMEZ, ARMANDO"
+8348,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,28,68,20,PATRICIOS
+8353,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,50,0,BROWN
+8425,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,56,11,PATRICIOS
+8426,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,52,4,PATRICIOS
+8455,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,81,0,ESPAÑA
+8489,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,45,9,LAGO REGATAS
+8575,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,68,0,PATRICIOS
+8586,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,40,3,CASA CUNA
+8588,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,4,0,ISLAS MALVINAS
+8594,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,25,0,ESPAÑA
+8617,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,40,0,PATRICIOS
+8642,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,24,40,0,"PEREYRA, LEONARDO"
+8650,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,20,8,
+8661,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,3,8,0,"GUEVARA, ERNESTO CHE"""""
+8694,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,42,6,PATRICIOS
+8701,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,55,0,"TEJADA GOMEZ, ARMANDO"
+8719,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,40,0,
+8738,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,33,4,0,"AMEGHINO, FLORENTINO"
+8762,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,28,50,0,PATRICIOS
+8833,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,3,8,0,"GUEVARA, ERNESTO CHE"""""
+8932,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,78,3,PATRICIOS
+8971,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,28,23,CENTENARIO
+8979,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,55,0,"BERNALDO de QUIROS, CESAREO"
+8982,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,85,5,"GOULD, BENJAMIN A., Dr."
+8997,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,64,0,CENTENARIO
+9004,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,213,0,REPUBLICA de BOLIVIA
+9097,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,38,10,"SEEBER, FRANCISCO, Intendente"
+9101,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,44,5,"CASARES, Intendente"
+9205,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,70,7,PLAZA REPÚBLICA DE ISRAEL
+9261,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,50,0,IRLANDA
+9263,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,48,0,IRLANDA
+9319,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,20,5,CENTENARIO
+9320,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,21,15,CENTENARIO
+9330,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,18,25,CENTENARIO
+9426,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,26,20,BASE MARAMBIO
+9431,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,17,0,BASE MARAMBIO
+9457,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,1,2,8,IRLANDA
+9459,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,14,0,CENTENARIO
+9544,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,88,0,SICILIA
+9566,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,30,82,0,GÜEMES
+9624,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,34,10,
+9632,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,50,10,PASEO COMISARIO GRAL. JUAN ANGEL PIRKER
+9652,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,60,0,DE LOS PERIODISTAS
+9726,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,74,0,DON SEGUNDO SOMBRA
+9785,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,44,0,CHACABUCO
+9837,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,65,19,
+9839,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,21,55,0,
+9840,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,47,6,
+9847,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,96,6,CHACABUCO
+9850,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,54,0,CHACABUCO
+9951,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,25,0,"PLAZA DEL ANGEL GRIS (EX ARAMBURU, PEDRO EUGENIO, Tte. Gral.)"
+9983,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,10,0,
+10022,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,75,0,"TRONCOSO, EMILIO"
+10047,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,10,0,
+10062,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,75,15,
+10066,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,90,0,
+10076,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,15,0,
+10098,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,28,0,
+10114,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,52,4,
+10157,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,37,0,
+10160,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,66,6,
+10205,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,28,0,
+10250,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,30,0,
+10251,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,30,0,
+10299,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,57,0,
+10316,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,50,8,
+10322,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,40,0,
+10381,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,60,0,DEMOCRACIA
+10385,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,22,30,0,DEMOCRACIA
+10388,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,40,6,DEMOCRACIA
+10395,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,110,0,DEMOCRACIA
+10397,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,110,0,DEMOCRACIA
+10459,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,15,0,"ALBERTE, BERNARDO, Mayor"
+10505,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,22,12,DE LAS VICTORIAS
+10566,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,50,0,
+10599,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,58,6,"GRANADA, NICOLAS"
+10621,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,30,5,"BERNASCONI, IRENE"
+10624,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,20,6,
+10675,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,5,10,0,ATAHUALPA YUPANQUI
+10735,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,25,0,
+10755,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,1,60,0,UNIDAD NACIONAL
+10799,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,50,0,
+10812,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,60,0,SUDAMERICA
+10964,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,105,0,
+10965,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,56,0,
+10989,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,45,0,SANTOJANNI
+11009,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,80,0,"AVELLANEDA, NICOLÁS, Pres."
+11041,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,32,0,
+11093,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,70,0,"AVELLANEDA, NICOLÁS, Pres."
+11102,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,47,0,"CARRICA, IRMA"
+11128,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,46,2,"AVELLANEDA, NICOLÁS, Pres."
+11131,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,70,3,"AVELLANEDA, NICOLÁS, Pres."
+11181,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,27,0,
+11225,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,100,5,SICILIA
+11233,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,6,0,LAGO REGATAS
+11267,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,49,21,LAGO REGATAS
+11280,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,50,0,LAGO REGATAS
+11284,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,9,2,LAGO REGATAS
+11300,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,16,100,28,LAGO REGATAS
+11375,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,23,50,0,"SANCHEZ, FLORENCIO"
+11382,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,55,0,"SANCHEZ, FLORENCIO"
+11417,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,43,0,"PAEZ, JOSE ANTONIO, Gral."
+11419,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,49,0,"PAEZ, JOSE ANTONIO, Gral."
+11432,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,45,0,"PAEZ, JOSE ANTONIO, Gral."
+11434,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,32,0,"PAEZ, JOSE ANTONIO, Gral."
+11547,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,52,13,REPUBLICA del ECUADOR
+11548,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,60,0,REPUBLICA del ECUADOR
+11553,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,80,0,REPUBLICA del ECUADOR
+11598,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,68,3,RUBEN DARIO
+11639,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,84,4,PROVINCIA de SAN JUAN
+11648,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,32,60,0,"LOPEZ Y PLANES, VICENTE"
+11667,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,85,0,RUBEN DARIO
+11834,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,40,0,ALMAGRO
+11843,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,40,2,ALMAGRO
+11884,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,31,0,CENTENARIO
+11895,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,12,25,RIVADAVIA
+11900,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,60,0,RIVADAVIA
+11931,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,85,0,
+11942,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,20,0,
+11964,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,50,0,SKANDERBERG(JORGE CASTRIOTA)
+12020,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,36,0,AVENIDA PARQUE GARCIA del RIO
+12053,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,7,0,RABINO MARSHALL MEYER
+12057,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,8,7,RABINO MARSHALL MEYER
+12078,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,51,3,"SASTRE, MARCOS"
+12096,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,20,0,RABINO MARSHALL MEYER
+12100,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,55,0,RABINO MARSHALL MEYER
+12119,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,1,4,0,GENERAL PAZ
+12125,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,61,13,GENERAL PAZ
+12197,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,55,0,ARMENIA
+12313,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,27,7,DE SAN BENITO
+12326,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,13,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12330,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,16,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12331,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,17,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12336,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,26,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12354,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,7,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12370,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,19,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12381,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,30,3,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12384,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,28,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12395,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12437,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,27,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12449,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,26,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12458,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,22,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12461,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,30,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12465,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,33,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12466,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12469,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,10,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12485,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,7,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12506,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12536,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,30,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12557,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,30,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12559,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12561,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,23,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12574,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,6,28,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12597,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,35,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12600,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12623,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,6,10,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12628,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,24,11,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12629,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,16,8,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12632,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,13,5,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12633,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,19,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12637,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12640,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,16,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12643,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12656,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,3,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12673,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12679,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,16,8,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12686,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12693,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12706,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,26,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12726,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,13,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+12761,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,32,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+12783,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,35,0,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+12811,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,12,9,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+12824,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,27,12,"GUEVARA, ERNESTO CHE"""""
+12951,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,30,0,
+13061,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,41,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+13086,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,54,4,"PUEYRREDON, CARLOS ALBERTO, Dr."
+13245,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,27,0,GENERAL PAZ
+13247,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,39,0,GENERAL PAZ
+13251,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,15,0,GENERAL PAZ
+13306,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,30,22,DE LAS VICTORIAS
+13340,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,33,0,DE LAS VICTORIAS
+13350,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,40,0,DE LAS VICTORIAS
+13396,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,7,22,0,INDOAMERICANO
+13410,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,22,0,INDOAMERICANO
+13417,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,10,0,INDOAMERICANO
+13436,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,15,0,INDOAMERICANO
+13646,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,25,0,INDOAMERICANO
+13705,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,80,0,"AVELLANEDA, NICOLÁS, Pres."
+13718,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,50,0,DE LAS VICTORIAS
+13733,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,70,0,DE LAS VICTORIAS
+13799,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,48,0,GENERAL PAZ
+13821,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,68,6,PASEO DE LAS AMERICAS
+13822,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,64,9,PASEO DE LAS AMERICAS
+13827,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,37,110,0,PASEO DE LAS AMERICAS
+13831,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,49,5,REPUBLICA de MEXICO
+13832,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,54,15,REPUBLICA de MEXICO
+13839,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,42,10,PASEO DE LAS AMERICAS
+13840,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,13,45,0,PASEO DE LAS AMERICAS
+13849,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,34,0,"AGUILAR, FELIX, Ing."
+13853,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,116,5,REPUBLICA de MEXICO
+13854,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,12,50,0,REPUBLICA de MEXICO
+13862,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,33,76,0,PASEO DE LAS AMERICAS
+13953,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,50,0,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+14015,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,24,55,0,"BASTIDAS, MICAELA"
+14080,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,29,70,0,"BASTIDAS, MICAELA"
+14147,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,108,10,PATRICIOS
+14152,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,13,84,10,"WYSOCKI, JORDAN CZESLAW, Cnel."
+14172,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,45,0,PATRICIOS
+14173,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,88,8,PATRICIOS
+14174,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,24,60,0,PATRICIOS
+14198,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,31,85,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+14199,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,110,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+14216,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,34,142,0,LAGO REGATAS
+14229,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,98,0,SICILIA
+14251,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,28,6,"AVELLANEDA, NICOLÁS, Pres."
+14277,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,11,46,20,LAGO REGATAS
+14283,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,77,0,LAGO REGATAS
+14295,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,40,10,LAGO REGATAS
+14337,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,42,11,DE PAKISTAN
+14362,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,45,3,ARMENIA
+14364,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,45,20,ARMENIA
+14417,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,42,15,ARMENIA
+14418,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,35,80,11,ARMENIA
+14421,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,40,8,ARMENIA
+14424,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,12,32,5,ARMENIA
+14498,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,60,0,DE SAN BENITO
+14506,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,35,17,PASEO DE LAS AMERICAS
+14518,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,57,0,DE SAN BENITO
+14523,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,8,38,0,DE SAN BENITO
+14524,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,70,0,DE SAN BENITO
+14526,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,52,0,DE SAN BENITO
+14529,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,50,5,DE SAN BENITO
+14530,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,50,16,DE SAN BENITO
+14531,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,41,0,DE SAN BENITO
+14567,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,14,45,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+14578,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,106,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+14612,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,8,0,
+14633,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,19,0,GENERAL PAZ
+14658,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,4,0,FUERZA AEREA ARGENTINA
+14671,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,81,0,DE LA CONSTITUCION
+14715,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,130,0,SICILIA
+14781,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,40,6,PATRICIOS
+14795,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,55,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+14819,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,57,8,CHACABUCO
+14834,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,20,0,
+14842,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,140,10,"GOULD, BENJAMIN A., Dr."
+15028,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,90,0,DE SAN BENITO
+15036,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,66,0,DE SAN BENITO
+15038,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,80,7,DE SAN BENITO
+15044,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,30,0,DE SAN BENITO
+15099,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,17,0,"ALBERDI, JUAN BAUTISTA, Dr."
+15274,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,50,0,SANTOJANNI
+15276,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,1,3,0,SANTOJANNI
+15296,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,20,0,"SALABERRY, JUAN FRANCISCO"
+15301,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,53,0,"SALABERRY, JUAN FRANCISCO"
+15321,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,65,5,SARMIENTO
+15380,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,10,0,SANTOJANNI
+15418,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,45,0,"AVELLANEDA, NICOLÁS, Pres."
+15446,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,85,0,"SUAREZ, JUSTO"
+15511,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,29,22,
+15623,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,43,0,8 DE MARZO - DIA INTERNACIONAL DE LA MUJER
+15634,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,73,10,"ROLDAN, BELISARIO"
+15682,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,38,0,CIUDAD de UDINE
+15720,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,60,11,EJERCITO DE LOS ANDES
+15737,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,12,0,VELEZ SARSFIELD
+15780,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,35,0,PASEO de VERSALLES
+15800,Eucalipto,Eucalyptus globulus,Mirtáceas,exótico,18,39,5,PASEO de VERSALLES
+15832,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,24,0,
+15850,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,6,14,0,
+15859,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,57,0,PASEO de VERSALLES
+15898,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,54,0,"TERAN, JUAN BAUTISTA, Dr."
+15906,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,4,8,0,29 DE DICIEMBRE DE 2001
+15984,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,90,5,"GUILLEN, NICOLAS (PASEO DE LAS ARTES LATINOAMERICANAS)"
+16105,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,100,10,PORTO ALEGRE
+16128,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,30,82,0,"DEL VALLE, ARISTOBULO"
+16266,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,75,0,BARRIO GENERAL SAN MARTIN
+16272,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,7,13,"GANDULFO, PETRONAC., Doña"
+16285,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,21,0,ESLOVAQUIA
+16321,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,28,50,10,"ALEM, LEANDRO N."
+16326,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,16,10,"VICUÑA MACKENNA, BENJAMIN"
+16343,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,50,13,"SAAVEDRA, CORNELIO de, Brig. Gral."
+16387,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,80,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+16388,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,83,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+16391,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,26,55,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+16394,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,32,62,0,"ALEM, LEANDRO N."
+16627,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,21,5,"SAAVEDRA, CORNELIO de, Brig. Gral."
+16661,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,72,0,"RODRIGUEZ, MARTIN"
+16692,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,34,0,BARRIO GENERAL SAN MARTIN
+16693,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,83,0,GENERAL PAZ
+16707,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,7,23,0,"MATOS RODRIGUEZ, GERARDO"
+16756,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,128,0,BARRIO GENERAL SAN MARTIN
+16778,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,23,6,"FILIPO, VIRGILIO, Presbítero"
+16785,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,72,0,"ALLENDE, SALVADOR (Aprobación inicial)"
+16828,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,45,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+16937,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,21,15,"GANDULFO, PETRONAC., Doña"
+17012,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,2,0,"ALLENDE, SALVADOR (Aprobación inicial)"
+17061,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,64,0,
+17067,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,40,0,GENERAL PAZ
+17072,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,70,0,GENERAL PAZ
+17084,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,35,86,0,GENERAL PAZ
+17211,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,20,0,JARDIN DE ESCULTURAS (Denominación Propuesta)
+17221,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,35,0,MAFALDA
+17255,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,59,11,PASEO DE LAS AMERICAS
+17258,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,70,22,PALERMO VIEJO
+17324,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,61,3,"GUACURARI ARTIGAS, ANDRES, Cmte."
+17374,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,18,3,SAINT TROPEZ
+17430,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,14,0,PLAZA DE LOS OLMOS
+17438,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,5,0,EX - OBRAS SANITARIAS (Denominación usual)
+17441,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,68,7,NORUEGA
+17451,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,29,36,0,BARRANCAS de BELGRANO
+17460,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,72,0,CASTELLI
+17552,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,55,0,ALBERTI
+17580,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,44,14,PLAZA DE LOS OLMOS
+17589,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,60,0,"ALMADA, JORGE MARIANO, Dip. Nacional"
+17617,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,66,0,PLAZA DE LOS OLMOS
+17753,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,60,7,"AGUILAR, FELIX, Ing."
+17759,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,76,0,"AGUILAR, FELIX, Ing."
+17764,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,72,0,"AGUILAR, FELIX, Ing."
+17786,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,124,0,EX - OBRAS SANITARIAS (Denominación usual)
+17789,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,18,18,"BELGRANO, MANUEL, Gral."
+17806,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,52,5,"AGUILAR, FELIX, Ing."
+17894,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,60,11,
+17922,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,20,16,"PROVINCIA de TIERRA del FUEGO, ANTARTIDA E ISLAS del ATLANTICO SUR"
+17928,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,54,5,"DELLA PAOLERA, CARLOS MARIA, Ing."
+17931,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,60,10,PROVINCIA de SANTIAGO DEL ESTERO
+17935,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,50,6,PROVINCIA de SANTIAGO DEL ESTERO
+18030,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,38,3,DEL CONGRESO
+18038,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,45,0,
+18068,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,20,5,"BOLTEN, VIRGINIA"
+18075,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,82,25,"SAN MARTIN, LIBERTADOR GENERAL"
+18142,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,13,31,0,"PRACÁNICO, FRANCISCO"
+18143,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,58,5,"PRACÁNICO, FRANCISCO"
+18154,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,26,18,DE LA CONSTITUCION
+18163,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,13,2,
+18166,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,12,6,
+18171,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,68,0,"SAN MARTIN, LIBERTADOR GENERAL"
+18227,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,2,2,40,
+18278,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,80,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+18292,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,1,3,0,"DUARTE de PERÓN, MARÍA EVA"
+18365,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,34,12,"CONTI, HAROLDO"
+18377,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,8,0,FUERZA AEREA ARGENTINA
+18378,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,1,12,10,
+18382,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,35,5,LEZAMA
+18414,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,20,10,"BASTIDAS, MICAELA"
+18422,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,9,0,"BASTIDAS, MICAELA"
+18425,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,13,13,"BASTIDAS, MICAELA"
+18432,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,20,18,"BASTIDAS, MICAELA"
+18441,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,17,4,"BOLTEN, VIRGINIA"
+18442,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,19,4,"BOLTEN, VIRGINIA"
+18488,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,15,6,SUIPACHA
+18497,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,1,65,0,MUJERES ARGENTINAS
+18512,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,90,9,PROVINCIA de ENTRE RIOS
+18631,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,42,18,LEZAMA
+18636,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,35,3,"PEÑALOZA, ROSARIO VERA"
+18668,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,55,16,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+18672,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,71,0,LEZAMA
+18712,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,9,24,5,
+18791,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,18,20,"PEÑALOZA, ROSARIO VERA"
+18825,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,38,4,"CASTELAO, ALFONSO R."
+18853,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,48,3,PROVINCIA de SALTA
+18886,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,21,44,0,REPUBLICA de CHILE
+18907,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,40,0,PROVINCIA de CORDOBA
+18910,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,20,0,PROVINCIA de SALTA
+18912,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,30,0,DEL CONGRESO
+18913,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,39,0,DEL CONGRESO
+18920,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,71,0,SICILIA
+18929,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,50,0,PROVINCIA de SANTA FE
+18943,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,74,3,SICILIA
+18981,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,31,90,0,MUJERES ARGENTINAS
+19001,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,62,0,"PEÑALOZA, ROSARIO VERA"
+19026,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,53,15,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+19034,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,50,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+19035,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,65,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+19047,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,39,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+19073,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,60,0,REPUBLICA del PERU
+19093,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,70,0,LEZAMA
+19094,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,56,0,LEZAMA
+19126,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,60,0,PASEO DE LOS OMBUES
+19150,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,60,10,
+19151,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,47,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+19175,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,20,0,"BERNARDO, PAQUITA"
+19189,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,22,138,8,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+19238,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,40,0,PROVINCIA de CORRIENTES
+19252,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,39,20,ITALIA
+19302,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,23,96,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+19321,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,38,16,"BOUCHARD, HIPOLITO"
+19340,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,13,96,10,PROVINCIA de JUJUY
+19386,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,26,63,3,REPUBLICA de CHILE
+19388,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,30,46,6,REPUBLICA de CHILE
+19412,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,65,0,PROVINCIA de SANTA FE
+19459,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,20,15,PROVINCIA de CORRIENTES
+19461,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,39,0,PROVINCIA de CORRIENTES
+19488,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,4,7,0,MUJERES ARGENTINAS
+19495,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,4,9,0,MUJERES ARGENTINAS
+19503,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,54,0,LIBERTAD
+19549,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,29,10,"HOUSSAY, BERNARDO A., Dr."
+19552,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,55,13,MAIMONIDES
+19599,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,57,0,"GOULD, BENJAMIN A., Dr."
+19660,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,66,1,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+19714,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,62,0,RODRIGUEZ PEÑA
+19717,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,41,10,FRANCIA
+19721,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,22,56,0,SICILIA
+19763,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,30,9,"LAS HERAS, JUAN GREGORIO de, Gral."
+19777,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,38,10,HOLANDA
+19848,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,53,10,REPUBLICA ISLAMICA de IRAN
+19855,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,80,0,REPUBLICA ISLAMICA de IRAN
+19866,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,82,0,REPUBLICA ISLAMICA de IRAN
+19967,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,23,10,"ALVEAR, TORCUATO DE, Intendente"
+19984,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,50,7,"LAS HERAS, JUAN GREGORIO de, Gral."
+19990,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,26,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+19992,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,50,0,"GONZALEZ FERNANDEZ, RAMON, Almte."
+20061,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,20,0,"PITA, HERNAN C. Cnel. Y PEDERNERA, FEDERICO A. J. Tte. Cnel."
+20091,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,8,0,"ANDES, LOS"
+20102,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,15,0,"ANDES, LOS"
+20109,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,60,0,"ANDES, LOS"
+20135,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,82,28,REPUBLICA de CHILE
+20164,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,50,0,"ANDES, LOS"
+20179,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,37,7,"SEEBER, FRANCISCO, Intendente"
+20184,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,36,6,FRANCIA
+20198,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,1,2,8,25 DE AGOSTO
+20205,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,20,0,"24 DE SEPTIEMBRE, BATALLA DE TUCUMAN"
+20247,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,12,0,"ANDES, LOS"
+20250,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,21,46,5,"ANDES, LOS"
+20265,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,60,6,DE LAS NACIONES UNIDAS
+20272,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,23,0,DE LAS NACIONES UNIDAS
+20273,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,9,32,6,DE LAS NACIONES UNIDAS
+20284,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,85,20,"MITRE, BARTOLOMÉ"
+20291,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,16,10,"ANDES, LOS"
+20359,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,36,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+20383,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,26,0,RODRIGUEZ PEÑA
+20387,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,65,0,"HOUSSAY, BERNARDO A., Dr."
+20483,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,36,0,REPUBLICA del PERU
+20515,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,38,0,DE MISERERE
+20576,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,24,0,MARTIN FIERRO
+20578,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,51,0,MARTIN FIERRO
+20618,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,14,0,PRIMERO de MAYO
+20620,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,52,0,MARTIN FIERRO
+20638,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,42,10,MARTIN FIERRO
+20639,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,46,10,MARTIN FIERRO
+20701,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,62,4,PATRICIOS
+20783,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,88,0,PATRICIOS
+20787,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,52,4,PATRICIOS
+20863,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,52,0,ESPAÑA
+20896,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,5,14,GRAND BOURG
+20951,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,62,4,"PEREYRA, LEONARDO"
+20965,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,4,12,0,"TEJADA GOMEZ, ARMANDO"
+20973,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,21,0,CASA CUNA
+20980,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,48,0,ESPAÑA
+20982,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,20,0,ESPAÑA
+20998,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,14,38,10,PATRICIOS
+21007,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,9,10,"GUEVARA, ERNESTO CHE"""""
+21039,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,18,10,
+21084,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,80,0,"TEJADA GOMEZ, ARMANDO"
+21141,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,63,0,"PEREYRA, LEONARDO"
+21142,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,66,0,"PEREYRA, LEONARDO"
+21150,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,30,0,"VERTIZ, Virrey"
+21195,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,80,0,PATRICIOS
+21201,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,65,15,PATRICIOS
+21211,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,40,0,"VERTIZ, Virrey"
+21229,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,22,62,0,ESPAÑA
+21233,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,58,26,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+21244,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,48,15,ESPAÑA
+21247,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,96,10,"PEREYRA, LEONARDO"
+21326,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,21,25,"ANGELELLI, ENRIQUE , Obispo"
+21328,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,7,100,15,BROWN
+21347,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,46,0,SICILIA
+21469,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,51,0,"CASARES, Intendente"
+21497,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,92,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+21498,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,86,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+21510,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,84,10,PLAZA REPÚBLICA DE ISRAEL
+21532,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,65,4,PLAZA REPÚBLICA DE ISRAEL
+21559,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,57,25,PLAZA REPÚBLICA DE ISRAEL
+21706,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,27,0,CENTENARIO
+21711,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,16,16,CRUCERO GENERAL BELGRANO
+21721,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,72,0,REPUBLICA de CHILE
+21725,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,40,20,UNIDAD LATINOAMERICANA
+21743,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,47,5,"LAS HERAS, JUAN GREGORIO de, Gral."
+21745,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,59,17,"LAS HERAS, JUAN GREGORIO de, Gral."
+21755,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,18,5,"LAS HERAS, JUAN GREGORIO de, Gral."
+21758,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,48,20,"LAS HERAS, JUAN GREGORIO de, Gral."
+21800,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,31,0,"NOBLE, ROBERTO"
+21823,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,47,5,CENTENARIO
+21859,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,117,0,IRLANDA
+21875,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,43,6,CENTENARIO
+21950,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,5,45,4,
+21984,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,55,10,PASEO COMISARIO GRAL. JUAN ANGEL PIRKER
+22001,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,64,0,CHACABUCO
+22050,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,30,30,CHACABUCO
+22078,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,60,13,CHACABUCO
+22099,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,54,10,CHACABUCO
+22113,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,42,6,CHACABUCO
+22115,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,50,8,CHACABUCO
+22126,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,67,0,CHACABUCO
+22128,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,77,0,CHACABUCO
+22129,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,80,0,CHACABUCO
+22131,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,68,0,CHACABUCO
+22372,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,33,25,DR. FELIX LICEAGA
+22400,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,24,12,UNIDAD NACIONAL
+22429,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,42,11,SICILIA
+22457,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,15,0,
+22473,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,32,0,
+22477,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,27,6,
+22505,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,44,0,
+22518,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,40,0,
+22524,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,13,70,10,
+22532,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,67,5,
+22795,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,16,30,0,"ALBERTE, BERNARDO, Mayor"
+22867,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,35,0,
+22961,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,5,10,0,"ALBERTE, BERNARDO, Mayor"
+22963,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,26,9,"ALBERTE, BERNARDO, Mayor"
+22980,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,7,12,0,ATAHUALPA YUPANQUI
+23004,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,40,0,
+23026,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,30,0,
+23027,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,40,0,
+23040,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,60,0,SUDAMERICA
+23099,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,37,0,
+23101,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,30,0,
+23131,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,14,0,
+23156,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,100,0,"SALABERRY, JUAN FRANCISCO"
+23177,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,68,0,
+23200,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,34,5,"ODDONE, JACINTO"
+23285,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,52,0,SANTOJANNI
+23305,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,50,0,DE LOS MATADEROS
+23342,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,33,0,
+23432,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,26,4,"AVELLANEDA, NICOLÁS, Pres."
+23527,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,64,7,"ALBERDI, JUAN BAUTISTA, Dr."
+23541,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,21,19,SICILIA
+23549,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,80,0,SICILIA
+23551,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,22,65,6,SICILIA
+23560,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,31,0,LAGO REGATAS
+23600,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,18,0,LAGO REGATAS
+23623,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,41,13,LAGO REGATAS
+23680,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,51,0,"SANCHEZ, FLORENCIO"
+23686,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,40,0,"SANCHEZ, FLORENCIO"
+23697,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,46,12,"SANCHEZ, FLORENCIO"
+23701,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,71,6,"SANCHEZ, FLORENCIO"
+23720,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,5,27,0,"SANCHEZ, FLORENCIO"
+23756,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,49,0,"PAEZ, JOSE ANTONIO, Gral."
+23763,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,42,0,"PAEZ, JOSE ANTONIO, Gral."
+23778,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,41,0,"PAEZ, JOSE ANTONIO, Gral."
+23862,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,50,6,REPUBLICA del ECUADOR
+23863,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,50,0,REPUBLICA del ECUADOR
+23895,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,51,0,REPUBLICA del ECUADOR
+23902,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,51,0,REPUBLICA del ECUADOR
+23905,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,70,0,REPUBLICA del ECUADOR
+23921,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,7,18,1,"CONTI, HAROLDO"
+23930,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,98,0,"CONTI, HAROLDO"
+23950,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,72,0,GARAY
+23953,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,70,0,PROVINCIA de LA RIOJA
+23986,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,15,6,PROVINCIA del CHACO
+24117,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,24,64,0,ALMAGRO
+24160,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,13,20,RIVADAVIA
+24218,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,62,0,RIVADAVIA
+24231,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,92,0,RIVADAVIA
+24249,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,104,0,
+24264,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,30,0,SKANDERBERG(JORGE CASTRIOTA)
+24361,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,8,0,RABINO MARSHALL MEYER
+24382,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,1,3,0,BARRIO GENERAL SAN MARTIN
+24437,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,28,0,GENERAL PAZ
+24455,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,39,0,ARMENIA
+24471,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,60,13,ARMENIA
+24480,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,41,0,ARMENIA
+24487,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,30,12,ARMENIA
+24498,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,52,8,ARMENIA
+24511,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,41,0,EX - OBRAS SANITARIAS (Denominación usual)
+24595,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,22,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24608,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,24,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24659,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,21,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24684,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,22,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24698,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,17,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24701,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,17,8,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24720,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,4,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24746,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,16,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24758,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24760,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24783,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,35,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24784,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,5,14,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24793,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,20,4,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24794,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,12,4,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24855,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24868,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,15,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24871,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24888,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,22,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24891,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,24,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24898,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,18,4,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24899,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24901,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,15,8,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24913,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24921,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,6,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24927,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,15,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24944,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,23,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24948,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,17,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24955,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,22,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24979,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,16,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+24990,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,28,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+25001,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,35,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+25023,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,21,3,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+25026,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,3,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+25037,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+25096,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,44,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+25106,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,12,5,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+25124,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,22,30,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+25130,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,35,0,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+25195,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,30,0,PUEYRREDON
+25197,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,42,0,PUEYRREDON
+25235,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,75,0,
+25271,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,30,0,
+25276,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,35,0,
+25333,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,90,3,"GOULD, BENJAMIN A., Dr."
+25403,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,54,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+25429,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,60,5,"PUEYRREDON, CARLOS ALBERTO, Dr."
+25432,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,45,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+25446,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,70,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+25609,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,34,0,GENERAL PAZ
+25629,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,40,4,"AVELLANEDA, NICOLÁS, Pres."
+25650,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,24,60,0,"AVELLANEDA, NICOLÁS, Pres."
+25825,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,23,0,DE LAS VICTORIAS
+25826,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,23,0,DE LAS VICTORIAS
+26059,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,3,10,0,INDOAMERICANO
+26060,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,3,10,0,INDOAMERICANO
+26069,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,2,2,0,INDOAMERICANO
+26110,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,20,0,INDOAMERICANO
+26111,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,20,0,INDOAMERICANO
+26113,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,20,0,INDOAMERICANO
+26122,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,20,0,INDOAMERICANO
+26125,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,20,0,INDOAMERICANO
+26136,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,20,0,INDOAMERICANO
+26190,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,40,0,INDOAMERICANO
+26199,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,25,0,INDOAMERICANO
+26205,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,28,0,INDOAMERICANO
+26243,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,40,0,DE LAS VICTORIAS
+26246,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,40,0,DE LAS VICTORIAS
+26266,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,45,0,DE LAS VICTORIAS
+26533,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,5,25,12,SANTOJANNI
+26534,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,50,6,SANTOJANNI
+26548,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,14,50,0,"MUJICA, Padre"
+26552,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,39,8,"MUJICA, Padre"
+26567,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,89,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+26577,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,4,11,PASEO DE LAS AMERICAS
+26578,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,55,0,PASEO DE LAS AMERICAS
+26580,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,12,33,0,PASEO DE LAS AMERICAS
+26583,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,48,4,PASEO DE LAS AMERICAS
+26594,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,19,110,25,ARMENIA
+26704,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,55,18,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+26804,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,80,0,"BASTIDAS, MICAELA"
+26842,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,35,118,10,DE PAKISTAN
+26849,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,121,10,"ANDES, LOS"
+26861,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,19,53,10,HOLANDA
+26875,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,140,0,"PEREYRA, LEONARDO"
+26880,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,65,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+26905,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,40,0,"GOULD, BENJAMIN A., Dr."
+26912,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,1,42,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+26923,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,29,109,28,"WYSOCKI, JORDAN CZESLAW, Cnel."
+26924,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,70,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+26933,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,13,50,11,CENTENARIO
+26979,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,98,0,SICILIA
+27032,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,11,36,28,LAGO REGATAS
+27035,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,73,10,LAGO REGATAS
+27039,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,75,0,LAGO REGATAS
+27046,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,45,100,0,"SANCHEZ, FLORENCIO"
+27068,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,65,0,DE PAKISTAN
+27069,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,68,0,DE PAKISTAN
+27099,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,110,15,ARMENIA
+27111,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,29,30,2,ARMENIA
+27129,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,88,0,ARMENIA
+27136,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,60,9,ARMENIA
+27145,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,35,90,0,ARMENIA
+27150,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,102,0,ARMENIA
+27154,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,60,0,ARMENIA
+27169,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,60,20,ARMENIA
+27192,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,5,32,20,ARMENIA
+27256,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,42,0,DE SAN BENITO
+27265,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,28,0,PASEO DE LAS AMERICAS
+27282,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,53,3,DE SAN BENITO
+27294,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,60,7,DE SAN BENITO
+27296,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,60,0,DE SAN BENITO
+27300,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,46,0,DE SAN BENITO
+27368,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,24,80,0,GENERAL PAZ
+27446,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,62,0,"HOUSSAY, BERNARDO A., Dr."
+27483,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,30,0,"PEREYRA, LEONARDO"
+27610,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,102,0,SICILIA
+27619,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,4,2,LAGO REGATAS
+27635,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,51,10,DE PAKISTAN
+27661,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,6,5,PROVINCIA de RIO NEGRO
+27668,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,65,0,PROVINCIA de RIO NEGRO
+27669,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,65,0,PROVINCIA de RIO NEGRO
+27672,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,40,6,PROVINCIA del CHACO
+27724,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,42,0,RIVADAVIA
+27763,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,38,3,DE SAN BENITO
+27772,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,60,0,DE SAN BENITO
+27777,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,58,0,DE SAN BENITO
+27791,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,6,6,RIVADAVIA
+27841,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,18,15,"ALBERDI, JUAN BAUTISTA, Dr."
+27870,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,16,25,"AVELLANEDA, NICOLÁS, Pres."
+27871,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,20,40,"AVELLANEDA, NICOLÁS, Pres."
+27878,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,15,25,"AVELLANEDA, NICOLÁS, Pres."
+27881,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,23,20,"AVELLANEDA, NICOLÁS, Pres."
+27898,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,28,10,"AVELLANEDA, NICOLÁS, Pres."
+27932,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,60,0,
+28039,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,9,0,"AVELLANEDA, NICOLÁS, Pres."
+28070,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,74,0,"ALBERDI, JUAN BAUTISTA, Dr."
+28077,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,60,0,SANTOJANNI
+28078,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,24,0,SANTOJANNI
+28090,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,29,75,10,"CABRAL, Sargento"
+28110,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,39,0,
+28135,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,35,0,
+28190,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,45,0,
+28193,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,55,0,"CABRAL, Sargento"
+28207,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,33,0,SANTOJANNI
+28237,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,90,0,
+28239,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,90,0,
+28265,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,17,0,"OLIVERA, DOMINGO"
+28267,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,41,0,
+28282,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,25,10,
+28286,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,31,8,
+28324,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,37,0,VELEZ SARSFIELD
+28341,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,26,60,10,DON BOSCO
+28383,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,3,0,"AMIGOS, LOS"
+28410,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,58,9,"TERAN, JUAN BAUTISTA, Dr."
+28450,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,21,0,"NELSON, ERNESTO, Prof."
+28561,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,24,0,29 DE DICIEMBRE DE 2001
+28579,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,50,18,VELEZ SARSFIELD
+28604,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,40,0,VELEZ SARSFIELD
+28611,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,58,0,"FALCON, RAMON L., Cnel."
+28622,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,60,0,
+28652,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,45,0,PASEO de VERSALLES
+28664,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,21,115,0,
+28706,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,30,6,GUATEMALA
+28730,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,54,0,MONTE CASTRO
+28731,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,62,0,MONTE CASTRO
+28747,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,78,0,CIUDAD de UDINE
+28778,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,60,0,ARENALES
+28817,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,67,0,"DEL VALLE, ARISTOBULO"
+28826,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,62,0,ARENALES
+28866,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,40,6,"DEL VALLE, ARISTOBULO"
+28904,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,24,73,0,ARENALES
+28971,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,50,0,"RICCHIERI, PABLO, Tte. Gral."
+28978,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,9,5,DE LA ASUNCION
+28996,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,112,2,ARENALES
+29066,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,7,16,"GANDULFO, PETRONAC., Doña"
+29089,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,27,0,ESLOVAQUIA
+29090,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,3,13,ESLOVAQUIA
+29091,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,15,11,ESLOVAQUIA
+29137,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,62,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+29170,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,22,0,GENERAL PAZ
+29178,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,33,20,"SAAVEDRA, CORNELIO de, Brig. Gral."
+29196,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,16,37,"MUJICA, Padre"
+29211,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,67,5,"ALEM, LEANDRO N."
+29260,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,31,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+29282,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,15,7,"MARASSO, ARTURO"
+29287,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,18,4,"MARASSO, ARTURO"
+29290,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,2,0,REPÚBLICA SOCIALISTA DE VIETNAM
+29293,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,7,5,REPÚBLICA SOCIALISTA DE VIETNAM
+29416,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,5,0,"RODRIGUEZ, MARTIN"
+29424,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,22,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+29441,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,87,13,"ALEM, LEANDRO N."
+29583,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,26,10,AFRICA
+29610,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,42,4,"SANCHEZ VIAMONTE, CARLOS"
+29616,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,34,0,
+29619,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,27,0,
+29646,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,50,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+29834,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,19,10,"ALLENDE, SALVADOR (Aprobación inicial)"
+29914,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,76,0,GENERAL PAZ
+29960,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,80,8,GENERAL PAZ
+30022,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,75,0,CASTELLI
+30023,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,63,8,CASTELLI
+30044,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,52,0,"GUACURARI ARTIGAS, ANDRES, Cmte."
+30056,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,66,0,PASEO DE LAS AMERICAS
+30059,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,60,0,PALERMO VIEJO
+30060,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,46,7,DE LOS COLEGIALES
+30091,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,65,14,ALEMANIA
+30092,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,105,5,ALEMANIA
+30177,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,80,0,PARQUES NACIONALES ARGENTINOS
+30206,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,56,0,PASEO DE LAS AMERICAS
+30249,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,45,0,"AGUILAR, FELIX, Ing."
+30252,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,38,0,"AGUILAR, FELIX, Ing."
+30254,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,64,0,"AGUILAR, FELIX, Ing."
+30279,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,5,0,EX - OBRAS SANITARIAS (Denominación usual)
+30301,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,29,62,0,BARRANCAS de BELGRANO
+30326,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,73,7,ALEMANIA
+30354,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,60,5,ALEMANIA
+30455,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,64,0,"GUACURARI ARTIGAS, ANDRES, Cmte."
+30463,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,11,22,10,"ZANNI, PEDRO, Comodoro"
+30503,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,104,15,ALEMANIA
+30532,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,35,6,"PASO, JUAN JOSE"
+30537,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,79,0,PLAZA DE LOS OLMOS
+30553,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,77,5,ALEMANIA
+30557,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,41,7,PASEO DE LAS AMERICAS
+30624,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,82,0,
+30737,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,24,0,
+30766,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,2,10,"DELLA PAOLERA, CARLOS MARIA, Ing."
+30786,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,55,0,"SAN MARTIN, LIBERTADOR GENERAL"
+30800,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,22,14,CANTERO S/D
+30848,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,15,5,ROMA
+30923,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,20,0,PROVINCIA DE SANTA CRUZ
+30936,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,42,6,"PROVINCIA de TIERRA del FUEGO, ANTARTIDA E ISLAS del ATLANTICO SUR"
+31050,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,75,7,"SAN MARTIN, LIBERTADOR GENERAL"
+31100,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,40,15,
+31120,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,106,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+31141,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,1,3,27,"ANCHORENA, INTENDENTE JOAQUÍN S. DE"
+31166,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,21,71,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+31175,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,26,6,SUIPACHA
+31196,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,74,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+31221,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,70,0,
+31227,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,64,0,"PRACÁNICO, FRANCISCO"
+31263,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,92,0,"CONTI, HAROLDO"
+31270,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,45,0,LIBERTAD
+31274,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,7,0,FUERZA AEREA ARGENTINA
+31310,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,78,0,"CONTI, HAROLDO"
+31311,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,80,0,"CONTI, HAROLDO"
+31314,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,16,5,"BASTIDAS, MICAELA"
+31318,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,14,23,"BASTIDAS, MICAELA"
+31424,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,36,0,DE LA CONSTITUCION(I)
+31484,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,58,17,LEZAMA
+31515,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,4,0,"DUARTE de PERÓN, MARÍA EVA"
+31532,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,19,0,CANTERO S/D
+31537,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,42,0,
+31602,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,61,0,"SAN MARTIN, LIBERTADOR GENERAL"
+31628,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,71,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+31639,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,2,7,"DUARTE de PERÓN, MARÍA EVA"
+31655,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,5,10,0,MUJERES ARGENTINAS
+31666,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,5,13,16,MUJERES ARGENTINAS
+31683,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,48,0,MUJERES ARGENTINAS
+31689,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,92,0,BALCARCE
+31690,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,60,0,PROVINCIA DE SANTA CRUZ
+31750,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,115,0,"SEEBER, FRANCISCO, Intendente"
+31757,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,29,130,0,SICILIA
+31782,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,2,8,4,
+31789,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,135,0,REPUBLICA de CHILE
+31796,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,80,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+31825,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,52,0,DEL CONGRESO
+31854,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,64,0,SICILIA
+31874,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,110,4,"CONTI, HAROLDO"
+31919,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,36,104,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+31966,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,56,0,SICILIA
+31991,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,30,0,LEZAMA
+31998,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,28,6,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+32037,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,100,1,"LAS HERAS, JUAN GREGORIO de, Gral."
+32048,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,34,0,
+32070,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,23,0,
+32131,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,60,0,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+32160,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,2,0,DE LA CONSTITUCION
+32184,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,3,4,18,
+32226,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,13,80,5,PROVINCIA de JUJUY
+32230,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,2,3,5,
+32266,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,75,4,SICILIA
+32267,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,60,0,SICILIA
+32272,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,16,58,26,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+32290,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,12,0,REGIMIENTO 1º de INFANTERIA PATRICIOS
+32293,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,1,3,0,DE LA CONSTITUCION
+32301,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,175,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+32321,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,3,30,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+32347,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,40,10,PROVINCIA de CORRIENTES
+32348,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,45,0,PROVINCIA de CORRIENTES
+32365,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,7,0,MUJERES ARGENTINAS
+32371,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,4,4,0,MUJERES ARGENTINAS
+32376,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,2,4,0,MUJERES ARGENTINAS
+32388,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,8,29,10,
+32415,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,39,15,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+32425,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,50,10,"LELOIR, LUIS FEDERICO"
+32445,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,1,10,0,SICILIA
+32450,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,38,5,"GOULD, BENJAMIN A., Dr."
+32457,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,25,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+32491,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,115,15,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+32513,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,35,9,HOLANDA
+32541,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,50,19,"PAEZ, JOSE ANTONIO, Gral."
+32542,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,19,55,0,"PAEZ, JOSE ANTONIO, Gral."
+32558,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,82,10,REPUBLICA ORIENTAL del URUGUAY
+32576,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,60,0,SICILIA
+32635,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,74,30,HOLANDA
+32663,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,62,0,SICILIA
+32702,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,60,0,REPUBLICA ISLAMICA de IRAN
+32750,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,76,0,"SEEBER, FRANCISCO, Intendente"
+32798,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,90,26,SICILIA
+32805,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,32,0,RODRIGUEZ PEÑA
+32873,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,80,4,JUAN XXIII
+32881,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,34,0,"HOUSSAY, BERNARDO A., Dr."
+32903,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,19,48,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+32933,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,30,0,"ANDES, LOS"
+32961,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,19,75,10,"ANDES, LOS"
+32969,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,22,50,0,"MALAVER , ANTONIO"
+32986,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,18,0,"ANDES, LOS"
+33003,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,38,5,"SEEBER, FRANCISCO, Intendente"
+33004,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,26,0,"SEEBER, FRANCISCO, Intendente"
+33042,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,32,9,"MALAVER , ANTONIO"
+33062,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,22,0,LA ISLA DE LA PATERNAL
+33076,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,11,0,"ANDES, LOS"
+33082,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,15,0,"ANDES, LOS"
+33093,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,50,15,"ANDES, LOS"
+33107,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,35,10,DE LAS NACIONES UNIDAS
+33138,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,15,6,"ANDES, LOS"
+33161,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,52,9,REPUBLICA ORIENTAL del URUGUAY
+33186,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,70,0,"GOULD, BENJAMIN A., Dr."
+33193,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,8,50,0,"ALVEAR, TORCUATO DE, Intendente"
+33207,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,30,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+33212,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,23,10,"LAS HERAS, JUAN GREGORIO de, Gral."
+33228,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,48,3,JUAN XXIII
+33233,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,40,4,LIBRES DEL SUD
+33251,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,45,4,LIBRES DEL SUD
+33258,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,40,0,LIBRES DEL SUD
+33294,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,26,5,RODRIGUEZ PEÑA
+33299,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,53,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+33374,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,23,4,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+33388,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,11,23,PRIMERO de MAYO
+33442,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,34,0,DE MISERERE
+33500,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,47,0,DE MISERERE
+33534,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,26,53,0,PATRICIOS
+33583,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,21,49,0,"AMEGHINO, FLORENTINO"
+33586,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,21,0,"AMEGHINO, FLORENTINO"
+33590,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,70,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+33594,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,7,15,0,"TEJADA GOMEZ, ARMANDO"
+33597,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,58,0,PATRICIOS
+33600,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,35,0,
+33602,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,13,63,0,CAFFERATA (Denominación Propuesta)
+33604,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,54,3,PATRICIOS
+33612,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,50,15,PATRICIOS
+33615,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,46,0,BROWN
+33626,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,30,0,"TEJADA GOMEZ, ARMANDO"
+33685,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,30,0,
+33705,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,29,62,0,"PEREYRA, LEONARDO"
+33716,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,49,0,"AMEGHINO, FLORENTINO"
+33801,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,14,43,10,"WYSOCKI, JORDAN CZESLAW, Cnel."
+33804,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,33,15,"PEREYRA, LEONARDO"
+33828,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,54,0,"PAZ, JOSE C., Dr."
+33838,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,24,60,0,"PEREYRA, LEONARDO"
+33883,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,30,0,ESPAÑA
+33912,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,65,0,BOMBEROS VOLUNTARIOS DE LA BOCA
+33922,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,40,10,PATRICIOS
+33946,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,11,56,0,GENDARMERIA NACIONAL
+34020,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,71,0,"AMEGHINO, FLORENTINO"
+34042,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,28,45,0,PATRICIOS
+34045,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,24,30,0,PATRICIOS
+34046,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,23,40,0,PATRICIOS
+34059,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,51,3,"PEREYRA, LEONARDO"
+34087,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,28,50,0,PATRICIOS
+34099,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,75,0,"VERTIZ, Virrey"
+34110,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,13,35,8,"GUEVARA, ERNESTO CHE"""""
+34116,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,38,0,"VERTIZ, Virrey"
+34124,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,60,0,"AMEGHINO, FLORENTINO"
+34137,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,60,13,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+34146,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,24,62,0,"PEREYRA, LEONARDO"
+34149,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,40,10,"AMEGHINO, FLORENTINO"
+34203,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,45,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+34213,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,60,15,PATRICIOS
+34214,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,60,20,PATRICIOS
+34240,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,65,2,SICILIA
+34242,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,44,5,SICILIA
+34279,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,23,0,IRLANDA
+34347,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,33,0,"SEEBER, FRANCISCO, Intendente"
+34379,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,45,5,"CASARES, Intendente"
+34381,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,46,0,"CASARES, Intendente"
+34389,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,47,5,SICILIA
+34398,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,9,4,CENTENARIO
+34437,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,24,55,37,PLAZA REPÚBLICA DE ISRAEL
+34438,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,30,66,9,PLAZA REPÚBLICA DE ISRAEL
+34440,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,40,13,PLAZA REPÚBLICA DE ISRAEL
+34502,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,50,0,LAGO REGATAS
+34596,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,23,35,CENTENARIO
+34607,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,33,0,IRLANDA
+34644,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,21,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+34658,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,32,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+34662,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,50,9,"LAS HERAS, JUAN GREGORIO de, Gral."
+34687,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,77,6,IRLANDA
+34702,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,17,9,BASE MARAMBIO
+34749,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,70,7,"LARRALDE, CRISOLOGO"
+34793,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,34,0,CHACABUCO
+34802,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,62,0,CHACABUCO
+34859,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,50,0,
+34861,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,80,20,
+34916,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,31,0,DE LOS VIRREYES
+34927,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,45,0,CHACABUCO
+34948,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,67,0,CHACABUCO
+34956,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,58,0,DON SEGUNDO SOMBRA
+34966,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,5,9,12,CHACABUCO
+35015,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,63,5,CHACABUCO
+35072,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,21,55,0,
+35075,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,21,68,0,
+35106,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,5,0,CHACABUCO
+35126,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,34,23,DE LOS VIRREYES
+35144,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,19,75,0,
+35146,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,118,0,
+35159,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,27,80,0,CHACABUCO
+35174,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,33,2,DE LOS VIRREYES
+35212,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,50,0,PUEYRREDON
+35215,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,70,10,PUEYRREDON
+35229,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,63,10,DE LOS PERIODISTAS
+35242,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,25,0,
+35270,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,80,0,"TRONCOSO, EMILIO"
+35357,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,42,0,
+35367,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,35,6,
+35402,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,40,0,
+35417,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,30,0,
+35441,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,40,0,DE LAS VICTORIAS
+35495,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,56,0,
+35512,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,40,0,
+35537,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,80,0,
+35553,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,30,3,
+35554,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,45,0,
+35606,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,19,68,0,
+35630,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,70,0,DEMOCRACIA
+35631,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,60,0,DEMOCRACIA
+35715,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,35,0,
+35716,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,39,0,
+35827,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,3,12,0,"BERNASCONI, IRENE"
+35871,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,70,0,DEMOCRACIA
+35881,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,5,10,5,ATAHUALPA YUPANQUI
+35883,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,13,30,10,ATAHUALPA YUPANQUI
+35927,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,40,0,
+35938,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,25,0,ABANDERADA DE LOS HUMILDES
+35958,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,14,32,0,DE LOS VIVEROS
+35960,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,18,62,5,
+35988,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,28,0,
+36032,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,85,0,
+36051,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,75,0,"OLIVERA, DOMINGO"
+36058,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,70,0,"AVELLANEDA, NICOLÁS, Pres."
+36173,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,60,0,"AVELLANEDA, NICOLÁS, Pres."
+36253,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,6,0,
+36305,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,65,6,"AVELLANEDA, NICOLÁS, Pres."
+36313,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,39,4,"AVELLANEDA, NICOLÁS, Pres."
+36319,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,60,2,"AVELLANEDA, NICOLÁS, Pres."
+36325,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,32,0,"AVELLANEDA, NICOLÁS, Pres."
+36326,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,68,0,"AVELLANEDA, NICOLÁS, Pres."
+36394,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,84,13,"ALBERDI, JUAN BAUTISTA, Dr."
+36396,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,72,0,"ALBERDI, JUAN BAUTISTA, Dr."
+36404,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,42,11,SICILIA
+36414,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,45,4,SICILIA
+36459,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,9,0,LAGO REGATAS
+36461,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,4,3,LAGO REGATAS
+36472,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,7,8,LAGO REGATAS
+36497,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,42,0,LAGO REGATAS
+36503,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,68,11,LAGO REGATAS
+36568,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,46,10,"SANCHEZ, FLORENCIO"
+36570,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,23,48,0,"SANCHEZ, FLORENCIO"
+36572,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,22,85,0,"SANCHEZ, FLORENCIO"
+36594,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,6,29,0,"SANCHEZ, FLORENCIO"
+36652,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,42,0,"PAEZ, JOSE ANTONIO, Gral."
+36658,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,53,6,"PAEZ, JOSE ANTONIO, Gral."
+36775,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,43,3,REPUBLICA del ECUADOR
+36791,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,48,0,REPUBLICA del ECUADOR
+36823,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,60,0,"CONTI, HAROLDO"
+36862,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,72,0,RUBEN DARIO
+36875,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,42,0,PROVINCIA del CHACO
+36880,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,65,0,PROVINCIA de LA RIOJA
+36918,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,45,0,PROVINCIA de RIO NEGRO
+36928,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,13,48,45,RUBEN DARIO
+36949,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,50,0,EL ALMA QUE CANTA
+36999,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,53,0,
+37005,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,68,0,
+37037,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,4,10,ALMAGRO
+37155,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,88,0,
+37184,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,26,0,
+37423,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,62,10,ARMENIA
+37436,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,31,158,0,EX - OBRAS SANITARIAS (Denominación usual)
+37472,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,17,15,EX - OBRAS SANITARIAS (Denominación usual)
+37506,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,50,0,EVITA
+37529,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,13,31,3,DE SAN BENITO
+37539,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37541,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,30,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37556,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,26,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37561,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,24,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37591,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,18,5,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37608,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,36,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37617,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,19,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37625,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,21,6,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37634,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,16,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37636,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,23,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37638,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,24,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37650,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,40,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37661,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,1,7,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37669,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37678,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37685,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,30,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37705,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37708,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,24,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37715,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37720,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,22,5,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37770,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,19,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37779,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,15,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37791,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,7,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37797,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,13,15,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37808,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,6,12,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37812,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,28,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37822,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,22,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37825,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,2,57,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37827,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,14,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37828,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,28,12,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37831,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,23,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37844,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,23,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37855,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,35,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37861,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,16,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37864,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,6,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37873,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,3,15,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37875,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,17,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37883,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,3,6,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37887,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,10,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37890,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,23,15,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37904,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,36,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37907,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37910,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,19,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37911,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,19,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37912,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,17,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37921,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,4,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37943,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,13,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37944,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37948,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,5,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37962,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,7,10,12,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37966,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,13,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+37999,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,27,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+38000,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,25,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+38020,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,50,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+38038,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,40,23,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+38063,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,21,9,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+38096,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,60,5,POETA RICARDO E. LLERAS
+38151,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,50,22,PUEYRREDON
+38175,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,45,25,RIVADAVIA
+38212,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,67,0,ATAHUALPA YUPANQUI
+38213,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,20,10,ATAHUALPA YUPANQUI
+38227,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,35,0,
+38382,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,66,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+38383,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,32,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+38422,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,26,95,0,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+38444,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,72,0,FRAY MOCHO
+38454,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,100,0,FRAY MOCHO
+38469,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,69,6,FRAY MOCHO
+38499,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,40,10,PROVINCIA de SANTIAGO DEL ESTERO
+38500,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,52,0,PROVINCIA de SANTIAGO DEL ESTERO
+38551,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,31,0,GENERAL PAZ
+38553,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,22,0,GENERAL PAZ
+38577,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,25,38,0,"AVELLANEDA, NICOLÁS, Pres."
+38591,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,25,38,0,"AVELLANEDA, NICOLÁS, Pres."
+38604,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,25,38,0,"AVELLANEDA, NICOLÁS, Pres."
+38605,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,25,38,0,"AVELLANEDA, NICOLÁS, Pres."
+38620,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,70,0,"AVELLANEDA, NICOLÁS, Pres."
+38621,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,70,0,"AVELLANEDA, NICOLÁS, Pres."
+38622,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,70,0,"AVELLANEDA, NICOLÁS, Pres."
+38624,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,25,70,0,"AVELLANEDA, NICOLÁS, Pres."
+38648,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,32,0,DE LAS VICTORIAS
+38808,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,20,0,INDOAMERICANO
+38954,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,9,40,0,INDOAMERICANO
+38959,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,9,40,0,INDOAMERICANO
+39026,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,12,32,0,INDOAMERICANO
+39180,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,65,0,DE LAS VICTORIAS
+39197,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,65,0,DE LAS VICTORIAS
+39209,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,65,0,DE LAS VICTORIAS
+39211,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,65,0,DE LAS VICTORIAS
+39223,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,65,0,DE LAS VICTORIAS
+39233,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,65,0,DE LAS VICTORIAS
+39243,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,65,0,DE LAS VICTORIAS
+39265,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,50,0,DE LAS VICTORIAS
+39275,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,50,0,DE LAS VICTORIAS
+39282,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,50,0,DE LAS VICTORIAS
+39297,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,50,0,DE LAS VICTORIAS
+39299,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,50,0,DE LAS VICTORIAS
+39312,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,40,0,DE LAS VICTORIAS
+39316,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,40,0,DE LAS VICTORIAS
+39344,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,42,0,DE LAS VICTORIAS
+39350,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,42,0,DE LAS VICTORIAS
+39357,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,42,0,DE LAS VICTORIAS
+39365,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39371,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39385,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39386,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39392,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39393,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39418,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39422,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39425,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39437,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39463,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39468,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39491,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,35,0,DE LAS VICTORIAS
+39521,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,56,0,INDOAMERICANO
+39523,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,56,0,INDOAMERICANO
+39534,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39538,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39542,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39557,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39562,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39564,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39569,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39570,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39599,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39602,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39631,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39640,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39648,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39653,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39683,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39687,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39709,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39711,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39727,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39734,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39735,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39752,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39761,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39769,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39773,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39775,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39801,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39826,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39843,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39882,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+39891,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,21,32,0,INDOAMERICANO
+40069,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,80,0,SANTOJANNI
+40091,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,26,0,GENERAL PAZ
+40106,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,50,0,PASEO DE LAS AMERICAS
+40114,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,7,28,21,"AGUILAR, FELIX, Ing."
+40118,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,14,76,0,PASEO DE LAS AMERICAS
+40123,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,35,73,23,REPUBLICA de MEXICO
+40127,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,50,0,REPUBLICA de MEXICO
+40218,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,96,0,SICILIA
+40239,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,120,0,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+40345,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,30,0,"BASTIDAS, MICAELA"
+40419,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,86,7,SICILIA
+40439,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,76,15,"WYSOCKI, JORDAN CZESLAW, Cnel."
+40468,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,58,5,"WYSOCKI, JORDAN CZESLAW, Cnel."
+40472,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,19,42,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+40474,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,58,0,"WYSOCKI, JORDAN CZESLAW, Cnel."
+40487,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,23,94,0,CENTENARIO
+40530,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,9,34,18,LAGO REGATAS
+40545,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,46,0,LAGO REGATAS
+40548,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,100,15,LAGO REGATAS
+40585,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,28,50,10,DE PAKISTAN
+40628,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,32,16,ARMENIA
+40630,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,15,55,3,ARMENIA
+40647,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,13,30,14,ARMENIA
+40653,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,54,6,ARMENIA
+40664,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,42,0,ARMENIA
+40667,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,29,72,0,ARMENIA
+40678,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,29,53,0,ARMENIA
+40757,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,88,0,DE SAN BENITO
+40769,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,20,26,0,PASEO DE LAS AMERICAS
+40793,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,24,76,7,DE SAN BENITO
+40879,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,72,0,CASTELLI
+40895,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,9,0,FUERZA AEREA ARGENTINA
+40948,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,84,0,25 DE AGOSTO
+40953,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,8,0,LIBRES DEL SUD
+40963,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,42,0,REPUBLICA ORIENTAL del URUGUAY
+40968,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,32,80,20,"PEREYRA, LEONARDO"
+40988,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,45,10,"PEREYRA, LEONARDO"
+41079,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,51,10,"GRANADA, NICOLAS"
+41080,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,64,0,"GRANADA, NICOLAS"
+41119,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,92,7,HOLANDA
+41120,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,80,5,DE PAKISTAN
+41121,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,30,60,10,DE PAKISTAN
+41147,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,60,0,PROVINCIA de LA RIOJA
+41204,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,45,12,"AMEGHINO, FLORENTINO"
+41226,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,55,17,RIVADAVIA
+41253,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,25,60,16,DE SAN BENITO
+41255,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,19,47,0,DE SAN BENITO
+41334,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,100,0,"AVELLANEDA, NICOLÁS, Pres."
+41374,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,76,0,
+41376,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,73,0,
+41384,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,31,50,0,"DUNANT, HENRY"
+41387,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,54,0,"DUNANT, HENRY"
+41439,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,55,0,DEL BUEN VECINO (Denominación Propuesta)
+41471,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,1,5,0,"AVELLANEDA, NICOLÁS, Pres."
+41476,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,8,0,"AVELLANEDA, NICOLÁS, Pres."
+41518,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,70,4,SARMIENTO
+41587,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,53,0,
+41627,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,8,0,"AVELLANEDA, NICOLÁS, Pres."
+41633,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,40,0,"SALABERRY, JUAN FRANCISCO"
+41648,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,35,0,
+41657,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,44,0,SANTOJANNI
+41659,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,50,0,SANTOJANNI
+41712,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,25,0,DE LOS MATADEROS
+41720,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,31,0,
+41721,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,26,0,
+41722,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,36,0,
+41745,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,28,0,CIUDAD de BANFF
+41856,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,85,0,"ROLDAN, BELISARIO"
+41902,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,12,110,15,YUGOSLAVIA
+41991,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,22,100,0,
+42033,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,120,21,PASEO de VERSALLES
+42042,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,30,0,CIUDAD de BANFF
+42097,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,45,0,"TERAN, JUAN BAUTISTA, Dr."
+42099,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,56,0,"TERAN, JUAN BAUTISTA, Dr."
+42151,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,29,16,MONTE CASTRO
+42172,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,64,0,"LAFITTE, FERMIN, Monseñor"
+42200,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,60,0,ARENALES
+42202,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,60,0,ARENALES
+42211,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,65,0,ARENALES
+42251,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,10,30,DE LA ASUNCION
+42286,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,48,0,"BOROWSKY, MICHEL (PASEO del BALLET ARGENTINO)"
+42317,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,54,0,ARENALES
+42327,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,24,112,10,"VALLEJO, CÉSAR (PASEO DE LAS ARTES LATINOAMERICANAS)"
+42329,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,38,0,"VALLEJO, CÉSAR (PASEO DE LAS ARTES LATINOAMERICANAS)"
+42390,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,100,0,ARENALES
+42391,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,13,3,DE LA ASUNCION
+42490,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,7,9,"GANDULFO, PETRONAC., Doña"
+42491,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,7,10,"GANDULFO, PETRONAC., Doña"
+42659,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,43,0,GENERAL PAZ
+42890,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,58,0,REPUBLICA de CHILE
+42937,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,83,8,GENERAL PAZ
+43019,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,35,140,27,ECHEVERRIA
+43034,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,28,0,"MATOS RODRIGUEZ, GERARDO"
+43035,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,95,0,HUNGRÍA
+43064,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,14,51,6,"VICUÑA MACKENNA, BENJAMIN"
+43134,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,3,10,0,"CAMPELO, LICENCIADO CARLOS"
+43138,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,32,58,8,"ALEM, LEANDRO N."
+43139,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,27,35,0,"ALEM, LEANDRO N."
+43324,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,50,0,"MUJICA, Padre"
+43361,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,78,0,BARRIO GENERAL SAN MARTIN
+43376,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,37,0,"MATOS RODRIGUEZ, GERARDO"
+43378,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,26,0,GENERAL PAZ
+43396,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,43,0,GENERAL PAZ
+43398,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,25,0,GENERAL PAZ
+43450,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,80,0,ALEMANIA
+43468,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,1,2,0,"VALLE, JUAN JOSE, Gral."
+43475,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,48,13,ALEMANIA
+43485,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,5,0,PASEO DE LAS AMERICAS
+43526,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,26,130,25,CASTELLI
+43529,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,67,0,MAFALDA
+43531,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,50,0,EX - OBRAS SANITARIAS (Denominación usual)
+43544,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,71,0,"BELGRANO, MANUEL, Gral."
+43554,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,51,12,"GUACURARI ARTIGAS, ANDRES, Cmte."
+43608,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,115,0,ALEMANIA
+43632,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,40,0,"GUACURARI ARTIGAS, ANDRES, Cmte."
+43649,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,6,0,PASEO DE LAS AMERICAS
+43699,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,68,0,PASEO DE LAS AMERICAS
+43736,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,74,7,"AGUILAR, FELIX, Ing."
+43756,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,10,35,EX - OBRAS SANITARIAS (Denominación usual)
+43767,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,55,4,"BELGRANO, MANUEL, Gral."
+43778,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,68,0,CASTELLI
+43826,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,90,0,"AGUILAR, FELIX, Ing."
+43875,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,59,0,CASTELLI
+43915,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,57,0,"GUACURARI ARTIGAS, ANDRES, Cmte."
+43996,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,50,0,PASEO ALFREDO ZITARROSA
+44007,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,49,0,"LIMA, FELIX"
+44035,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,50,0,PLAZA DE LOS OLMOS
+44058,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,61,6,PASEO DE LAS AMERICAS
+44086,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,48,0,"AGUILAR, FELIX, Ing."
+44178,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,55,0,PROVINCIA de NEUQUEN
+44207,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,7,16,0,"BASTIDAS, MICAELA"
+44275,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,4,0,DE LA CONSTITUCION
+44314,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,60,5,"PERON, EVA"
+44335,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,78,0,PROVINCIA de SANTA FE
+44408,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,22,6,"PROVINCIA de TIERRA del FUEGO, ANTARTIDA E ISLAS del ATLANTICO SUR"
+44428,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,18,8,"BOLTEN, VIRGINIA"
+44479,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,21,4,
+44487,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,40,6,PROVINCIA de SANTA FE
+44490,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,51,0,"PRACÁNICO, FRANCISCO"
+44503,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,3,0,DE LA CONSTITUCION
+44513,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,32,4,
+44534,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,90,10,PROVINCIA de SANTA FE
+44538,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,9,60,0,PROVINCIA de JUJUY
+44580,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,65,10,PROVINCIA de SANTIAGO DEL ESTERO
+44596,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,60,0,"MORENO, MARIANO"
+44665,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,45,6,PROVINCIA de SANTA FE
+44704,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,60,7,
+44717,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,7,11,0,"BASTIDAS, MICAELA"
+44732,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,60,0,
+44742,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,52,0,"CONTI, HAROLDO"
+44783,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,2,0,"DUARTE de PERÓN, MARÍA EVA"
+44805,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,13,0,"BASTIDAS, MICAELA"
+44806,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,23,0,"BASTIDAS, MICAELA"
+44850,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,10,5,"BOLTEN, VIRGINIA"
+44851,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,13,3,"BOLTEN, VIRGINIA"
+44879,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,18,8,SUIPACHA
+44897,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,50,0,GARAY
+44898,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,50,0,GARAY
+44913,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,48,0,DE LA CONSTITUCION(I)
+44947,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,70,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+44962,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,26,0,
+44963,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,20,0,
+45001,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,32,40,7,LEZAMA
+45009,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,30,0,"PRACÁNICO, FRANCISCO"
+45020,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,4,0,"DUARTE de PERÓN, MARÍA EVA"
+45035,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,14,0,"DE COUBERTIN, PIERRE"
+45053,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,86,0,"DORREGO, Cnel."
+45088,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,50,0,PASEO DE LA CIENCIA y CULTURA ARABE
+45089,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,30,0,PASEO DE LA CIENCIA y CULTURA ARABE
+45090,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,25,0,PASEO DE LA CIENCIA y CULTURA ARABE
+45094,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,85,0,"SAN MARTIN, LIBERTADOR GENERAL"
+45129,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,5,9,0,MUJERES ARGENTINAS
+45141,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,5,11,8,MUJERES ARGENTINAS
+45162,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,50,0,PROVINCIA DE SANTA CRUZ
+45172,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,7,43,0,"KRAUSE, OTTO, Ing."
+45249,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,31,100,17,MUJERES ARGENTINAS
+45264,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,19,80,0,REPUBLICA de CHILE
+45305,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,35,0,DEL CONGRESO
+45306,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,31,0,DEL CONGRESO
+45313,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,60,0,SICILIA
+45354,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,80,15,MUJERES ARGENTINAS
+45383,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,57,0,"PEÑALOZA, ROSARIO VERA"
+45384,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,17,10,"PEÑALOZA, ROSARIO VERA"
+45389,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,55,22,"LAS HERAS, JUAN GREGORIO de, Gral."
+45406,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,44,23,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+45412,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,62,0,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+45507,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,50,0,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+45546,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,45,0,LEZAMA
+45601,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,39,0,DE LA CONSTITUCION
+45615,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,28,10,ITALIA
+45782,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,104,0,"CASTELAO, ALFONSO R."
+45786,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,49,5,"SAN MARTIN, LIBERTADOR GENERAL (ANEXO)"
+45790,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,68,0,CANADÁ
+45795,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,60,0,"TEDIN, TORIBIO, Cnel."
+45803,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,12,50,0,
+45806,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,35,0,CONCEPCION DEL ALTO DE SAN PEDRO
+45840,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,11,8,MUJERES ARGENTINAS
+45844,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,50,15,
+45891,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,63,13,EVITA
+45906,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,18,65,10,SICILIA
+45978,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,52,20,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+46011,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,44,9,"PAEZ, JOSE ANTONIO, Gral."
+46035,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,40,0,RODRIGUEZ PEÑA
+46045,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,66,5,SICILIA
+46086,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,42,0,HOLANDA
+46190,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,14,90,0,REPUBLICA FEDERATIVA de BRASIL
+46257,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,23,65,7,"LAS HERAS, JUAN GREGORIO de, Gral."
+46298,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,61,8,"SEEBER, FRANCISCO, Intendente"
+46324,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,60,6,"GONZALEZ FERNANDEZ, RAMON, Almte."
+46351,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,70,0,"ANDES, LOS"
+46380,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,18,7,"BESTEIRO, JULIAN"
+46384,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,5,10,5,"ANDES, LOS"
+46433,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,4,30,0,"THAYS, CARLOS"
+46441,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,72,10,"24 DE SEPTIEMBRE, BATALLA DE TUCUMAN"
+46467,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,50,15,"ANDES, LOS"
+46481,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,22,45,8,"ANDES, LOS"
+46482,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,24,18,"MALAVER , ANTONIO"
+46510,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,2,7,0,DE LAS NACIONES UNIDAS
+46515,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,42,0,DE LAS NACIONES UNIDAS
+46617,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,20,10,"LAS HERAS, JUAN GREGORIO de, Gral."
+46619,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,24,15,"LAS HERAS, JUAN GREGORIO de, Gral."
+46654,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,4,13,LIBRES DEL SUD
+46696,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,54,0,
+46705,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,80,5,"UDAONDO, ENRIQUE"
+46770,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,50,0,REPUBLICA del PERU
+46776,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,55,0,REPUBLICA del PERU
+46855,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,31,10,DE MISERERE
+46875,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,74,13,MARTIN FIERRO
+46895,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,45,14,"URIBURU, JOSE EVARISTO"
+46896,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,18,64,0,"URIBURU, JOSE EVARISTO"
+46898,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,12,25,10,"GONZALEZ TUÑON, RAUL"
+46954,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,26,58,10,PATRICIOS
+46974,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,38,0,DE MISERERE
+46982,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,57,0,MARTIN FIERRO
+47028,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,100,0,
+47044,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,100,0,BROWN
+47064,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,10,10,
+47193,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,75,2,LAGO REGATAS
+47224,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,35,0,"PEREYRA, LEONARDO"
+47225,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,21,42,6,"PEREYRA, LEONARDO"
+47226,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,34,0,"PEREYRA, LEONARDO"
+47274,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,31,0,LA VUELTA de OBLIGADO
+47285,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,150,0,ESPAÑA
+47316,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,22,65,6,PATRICIOS
+47331,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,20,0,
+47359,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,42,0,"PAZ, JOSE C., Dr."
+47376,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,30,0,DON ORIONE
+47381,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,50,3,NUEVA POMPEYA
+47383,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,33,49,0,"AMEGHINO, FLORENTINO"
+47431,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,28,60,0,PATRICIOS
+47461,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,26,40,0,PATRICIOS
+47496,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,80,4,PATRICIOS
+47504,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,55,0,PATRICIOS
+47538,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,78,0,ESPAÑA
+47573,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,54,4,PATRICIOS
+47620,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,52,0,IRLANDA
+47632,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,7,25,0,"GOULD, BENJAMIN A., Dr."
+47716,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,33,18,"SEEBER, FRANCISCO, Intendente"
+47733,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,37,6,PASEO DE LOS OMBUES
+47756,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,36,0,"CASARES, Intendente"
+47791,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,14,83,31,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+47794,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,50,0,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+47797,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,16,96,5,UNIDAD LATINOAMERICANA
+47815,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,26,82,14,PLAZA REPÚBLICA DE ISRAEL
+47920,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,57,0,IRLANDA
+47973,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,20,0,CENTENARIO
+47994,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,20,46,0,REPUBLICA de CHILE
+48013,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,56,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+48033,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,48,0,"LAS HERAS, JUAN GREGORIO de, Gral."
+48078,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,65,0,IRLANDA
+48208,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,30,0,
+48257,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,61,0,CHACABUCO
+48315,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,40,10,CHACABUCO
+48362,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,78,15,CHACABUCO
+48398,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,21,0,CHACABUCO
+48423,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,40,8,DE LOS PERIODISTAS
+48427,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,62,0,CHACABUCO
+48469,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,37,0,
+48517,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,3,6,0,CHACABUCO
+48521,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,20,67,0,
+48577,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,65,0,CHACABUCO
+48583,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,36,0,CHACABUCO
+48595,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,15,0,CHACABUCO
+48596,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,48,0,CHACABUCO
+48689,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,7,32,0,
+48691,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,40,0,
+48704,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,56,4,EL ROSEDAL (Sector dentro de Plaza HOLANDA)
+48739,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,15,0,
+48741,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,15,0,
+48757,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,34,0,
+48791,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,70,0,
+48794,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,45,0,
+48818,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,50,0,SUDAMERICA
+48821,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,27,50,0,
+48868,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,38,0,
+48928,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,17,40,0,
+48976,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,17,45,0,DEMOCRACIA
+48990,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,26,70,0,DEMOCRACIA
+48994,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,22,35,0,DEMOCRACIA
+49047,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,7,21,15,"ALBERTE, BERNARDO, Mayor"
+49048,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,80,16,"ALBERTE, BERNARDO, Mayor"
+49070,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,40,0,
+49140,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,20,0,
+49146,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,8,6,SUDAMERICA
+49174,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,62,0,SUDAMERICA
+49181,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,10,30,5,"BERNASCONI, IRENE"
+49182,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,18,5,
+49237,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,30,0,DEMOCRACIA
+49288,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,25,6,
+49292,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,6,30,7,
+49384,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,40,0,
+49425,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,43,0,
+49434,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,63,0,SANTOJANNI
+49525,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,29,80,5,"CABRAL, Sargento"
+49545,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,85,4,"AVELLANEDA, NICOLÁS, Pres."
+49562,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,14,65,0,"AVELLANEDA, NICOLÁS, Pres."
+49629,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,14,45,0,"DI PASCUALE, JORGE"
+49685,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,10,6,"AVELLANEDA, NICOLÁS, Pres."
+49692,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,35,9,"AVELLANEDA, NICOLÁS, Pres."
+49703,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,16,45,2,"AVELLANEDA, NICOLÁS, Pres."
+49738,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,9,25,14,18 de DICIEMBRE DE 1872 - GENERAL PAZ
+49748,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,27,0,
+49796,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,8,0,LAGO REGATAS
+49845,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,4,0,LAGO REGATAS
+49919,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,78,0,"SANCHEZ, FLORENCIO"
+49920,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,22,60,0,"SANCHEZ, FLORENCIO"
+49944,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,21,86,5,"SANCHEZ, FLORENCIO"
+49945,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,19,72,0,"SANCHEZ, FLORENCIO"
+49964,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,16,52,30,"SANCHEZ, FLORENCIO"
+50000,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,32,63,0,"PAEZ, JOSE ANTONIO, Gral."
+50011,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,45,0,"PAEZ, JOSE ANTONIO, Gral."
+50015,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,33,0,"PAEZ, JOSE ANTONIO, Gral."
+50020,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,49,0,"PAEZ, JOSE ANTONIO, Gral."
+50071,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,18,43,0,DE PAKISTAN
+50123,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,16,52,0,REPUBLICA del ECUADOR
+50124,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,3,3,0,REPUBLICA del ECUADOR
+50143,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,75,0,REPUBLICA del ECUADOR
+50145,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,60,0,REPUBLICA del ECUADOR
+50146,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,14,42,10,REPUBLICA del ECUADOR
+50147,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,15,62,22,REPUBLICA del ECUADOR
+50160,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,23,40,0,REPUBLICA del ECUADOR
+50187,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,53,14,"CONTI, HAROLDO"
+50190,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,75,17,"CONTI, HAROLDO"
+50200,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,13,50,8,GARAY
+50204,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,70,0,PROVINCIA de LA RIOJA
+50206,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,30,0,PROVINCIA de RIO NEGRO
+50219,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,18,60,0,RUBEN DARIO
+50220,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,17,45,0,RUBEN DARIO
+50269,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,9,26,6,PROVINCIA de LA RIOJA
+50397,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,1,58,10,DE PAKISTAN
+50408,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,11,32,7,ALMAGRO
+50447,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,12,60,0,RIVADAVIA
+50459,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,32,0,CENTENARIO
+50471,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,45,40,0,RIVADAVIA
+50496,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,13,64,0,
+50531,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,43,0,SKANDERBERG(JORGE CASTRIOTA)
+50540,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,3,16,15,"CARRIL, HUGO DEL (PASEO DE LAS ARTES LATINOAMERICANAS)"
+50564,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,1,8,10,"SAAVEDRA, CORNELIO de, Brig. Gral."
+50569,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,11,45,0,AVENIDA PARQUE GARCIA del RIO
+50589,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,7,0,RABINO MARSHALL MEYER
+50604,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,6,0,"PASSAPONTI, DARWIN"
+50619,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,60,0,"MUJICA, Padre"
+50635,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,30,0,RABINO MARSHALL MEYER
+50660,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,5,18,0,GENERAL PAZ
+50675,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,85,0,ARMENIA
+50679,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,19,34,0,ARMENIA
+50709,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,4,20,35,ARMENIA
+50718,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,51,0,ARMENIA
+50768,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,23,115,8,EX - OBRAS SANITARIAS (Denominación usual)
+50782,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,17,80,30,EX - OBRAS SANITARIAS (Denominación usual)
+50817,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,6,32,0,DE SAN BENITO
+50824,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,10,33,3,DE SAN BENITO
+50839,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,7,50,0,DE SAN BENITO
+50848,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,30,10,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50857,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,16,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50863,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,3,16,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50870,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50881,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,2,6,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50906,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50911,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,27,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50917,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,19,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50918,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,20,6,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50920,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,15,10,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50949,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,35,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50962,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50993,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,7,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50995,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+50998,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,26,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51003,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,19,5,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51025,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51033,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,8,48,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51045,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,8,26,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51051,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,25,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51062,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,10,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51071,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,24,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51072,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,22,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51074,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,21,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51077,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,22,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51083,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,21,5,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51098,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51099,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,29,9,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51105,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51109,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51110,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,18,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51112,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,28,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51131,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,7,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51158,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,15,23,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51177,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,2,9,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51190,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,10,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51194,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,11,20,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51203,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,19,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51206,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,9,26,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51207,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,11,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51218,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,15,0,DE LOS NIÑOS (EX - TRIANGULO DEL ESTE) (Denominación Propuesta)
+51243,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,14,28,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+51252,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,20,84,0,"SAAVEDRA, CORNELIO de, Brig. Gral."
+51269,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,8,20,40,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+51290,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,10,42,0,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+51299,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,30,0,"AMALFITANI, JOSE PASEO DE VERSALLES: SECTOR"
+51362,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,25,82,0,PUEYRREDON
+51379,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,15,42,0,"BERNASCONI, IRENE"
+51380,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,6,11,10,"BERNASCONI, IRENE"
+51393,Eucalipto,Eucalyptus sp.,Mirtáceas,exótico,10,40,0,
+51422,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,15,46,6,ATAHUALPA YUPANQUI
+51436,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,30,0,
+51555,Palo borracho rosado,Ceiba speciosa,Bombacáceas,nativo,9,42,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+51580,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,22,78,0,"PUEYRREDON, CARLOS ALBERTO, Dr."
+51603,Jacarandá,Jacarandá mimosifolia,Bignoniáceas,nativo,17,40,20,"QUIROGA, JUAN FACUNDO, Brig. Gral."
+51626,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,80,0,FRAY MOCHO
+51639,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,76,0,FRAY MOCHO
+51652,Tipa blanca,Tipuana Tipu,Leguminosas,nativo,20,62,0,FRAY MOCHO
+51719,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,34,0,GENERAL PAZ
+51721,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,12,28,0,GENERAL PAZ
+51726,Casuarina,Casuarina cunninghamiana,Casuarinaceas,exótico,13,31,0,GENERAL PAZ
